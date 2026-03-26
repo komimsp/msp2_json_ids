@@ -1,0 +1,180 @@
+{
+  "created": "2022-11-09T14:20:35",
+  "id": "9891",
+  "modified": "2022-11-09T14:20:35",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "89",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_HEADWEAR",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "92",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_MISC",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "337",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VERY_CHRISTMAS_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "483",
+      "lookUpId": "TAG_XMAS_THEME",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_THEME",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "603",
+      "lookUpId": "TAG_CHRISTMAS_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#333333,#FF3399,#66FF00,#3399FF,#FF6600",
+      "Snapshot": "msp2_very_2022_hairlightsu_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "headwear"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_very_2022_hairlightsu_ms_bundle?msp2_very_2022_hairlightsu_ms_asset",
+  "lookUpId": "c9357c42-92bc-4f78-9f90-57501483afb4",
+  "nameResourceIdentifier": "Light of My Life"
+}

@@ -1,0 +1,181 @@
+{
+  "created": "2024-10-30T08:19:58",
+  "id": "15665",
+  "modified": "2024-10-30T08:19:58",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "81",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_STRAIGHT",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "82",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_BANGS",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "83",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_STYLED",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "119",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_MEDIUM",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "989",
+      "lookUpId": "TAG_XMAS_TIMELIMIT_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_TIMELIMIT_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#6C4C39,#CF995E,#34231A,#F3B36E,#5C2F07",
+      "Snapshot": "msp2_xmas_2024_cookiehairg_dsn_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_xmas_2024_cookiehairg_dsn_bundle?msp2_xmas_2024_cookiehairg_dsn_asset",
+  "lookUpId": "msp2_xmas_2024_cookiehairg_dsn",
+  "nameResourceIdentifier": "Cute Cookie Clippers"
+}

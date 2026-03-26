@@ -1,0 +1,117 @@
+{
+  "created": "2023-08-24T10:23:01",
+  "id": "12205",
+  "modified": "2023-08-24T10:23:01",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "117",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_PLATFORMS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "423",
+      "lookUpId": "TAG_RANDOM_FACTOR_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RANDOM_FACTOR_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#94246F,#C552A0",
+      "Snapshot": "msp2_rand_2023_platformheelg_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "shoe"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_rand_2023_platformheelg_tk_bundle?msp2_rand_2023_platformheelg_tk_asset",
+  "lookUpId": "4ee99fff-b452-43c8-8d9e-7f15777617c9",
+  "nameResourceIdentifier": "Platform-onic"
+}

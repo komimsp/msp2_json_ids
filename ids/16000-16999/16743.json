@@ -1,0 +1,70 @@
+{
+  "created": "2025-02-25T11:47:09",
+  "id": "16743",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "731",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_CITY",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "849",
+      "lookUpId": "TAG_VIBRANT_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIBRANT_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_vibra_2025_bg_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_vibra_2025_bg_tk",
+  "lookUpId": "55c72756-3589-441f-98fe-f3385036af15",
+  "nameResourceIdentifier": "Vibrant"
+}

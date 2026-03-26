@@ -1,0 +1,133 @@
+{
+  "created": "2024-01-30T10:44:01",
+  "id": "13394",
+  "modified": "2024-06-17T08:50:34",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "135",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_BEACH",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "140",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_TANK",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "503",
+      "lookUpId": "TAG_TORN_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TORN_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#827A4C",
+      "Snapshot": "msp2_torn_2024_tinytopg_dsn_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_torn_2024_tinytopg_dsn_bundle?msp2_torn_2024_tinytopg_dsn_asset",
+  "lookUpId": "msp2_torn_2024_tinytopg_dsn",
+  "nameResourceIdentifier": "Bound"
+}

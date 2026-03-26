@@ -1,0 +1,116 @@
+{
+  "created": "2022-11-07T13:46:40",
+  "id": "9838",
+  "modified": "2022-11-07T13:46:40",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "96",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_REGULAR",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "989",
+      "lookUpId": "TAG_XMAS_TIMELIMIT_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_TIMELIMIT_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#775332,#FFFFFF",
+      "Snapshot": "msp2_xmas_2022_gingerbotg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_xmas_2022_gingerbotg_asj_bundle?msp2_xmas_2022_gingerbotg_asj_asset",
+  "lookUpId": "d50652fa-97fc-4742-80f7-db9ba4787090",
+  "nameResourceIdentifier": "Xmas Glaze"
+}

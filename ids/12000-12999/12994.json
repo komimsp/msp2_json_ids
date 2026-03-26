@@ -1,0 +1,117 @@
+{
+  "created": "2023-12-05T10:54:24",
+  "id": "12994",
+  "modified": "2023-12-05T10:54:24",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "135",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_BEACH",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "474",
+      "lookUpId": "TAG_XPENSIVE_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XPENSIVE_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#A3A3A3",
+      "Snapshot": "msp2_xpen_2023_glitbrag_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_xpen_2023_glitbrag_asj_bundle?msp2_xpen_2023_glitbrag_asj_asset",
+  "lookUpId": "msp2_xpen_2023_glitbrag_asj",
+  "nameResourceIdentifier": "Party Glitter"
+}

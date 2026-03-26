@@ -1,0 +1,117 @@
+{
+  "created": "2021-12-16T11:35:54",
+  "id": "7331",
+  "modified": "2021-12-16T11:35:54",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "104",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_FORMAL",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "107",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_MINI",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "197",
+      "lookUpId": "TAG_LIGHT_UP_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LIGHT_UP_2021",
+          "type": "label"
+        },
+        {
+          "key": "light_up_2021",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#C3B4FF,#F9B20F",
+      "Snapshot": "msp2_light_2021_envelopedress_g_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_light_2021_envelopedress_g_dg_bundle?msp2_light_2021_envelopedress_g_dg_asset",
+  "lookUpId": "699986e3-dd3e-472f-9905-f58772645f79",
+  "nameResourceIdentifier": "Business Trip"
+}

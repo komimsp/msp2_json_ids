@@ -1,0 +1,116 @@
+{
+  "created": "2021-07-08T14:12:06",
+  "id": "5975",
+  "modified": "2021-07-08T14:12:06",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "112",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_HEELED",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "114",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_SANDALS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "711",
+      "lookUpId": "TAG_ISOLATED_ISLAND_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ISOLATED_ISLAND_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#FFFFFF",
+      "Snapshot": "msp2_isolated_2021_waffleheel_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "shoe"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_isolated_2021_waffleheel_asd_bundle?msp2_isolated_2021_waffleheel_asd_asset",
+  "lookUpId": "49e603e6-d9a8-4d45-8711-cd9b761f750c",
+  "nameResourceIdentifier": "Fab Island Life"
+}

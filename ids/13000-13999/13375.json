@@ -1,0 +1,133 @@
+{
+  "created": "2024-01-29T10:22:53",
+  "id": "13375",
+  "modified": "2024-11-07T14:00:53",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "502",
+      "lookUpId": "TAG_DINO_INVASION_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DINO_INVASION_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "745",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_COSTUME",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#D29D6A,#7D94BD,#3A3A3A,#656500,#58432D",
+      "Snapshot": "msp2_dino_2024_costumeu_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,bottom,shoe,socks,tights,rightlegdecal,rightarmdecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_dino_2024_costumeu_dg_bundle?msp2_dino_2024_costumeu_dg_asset",
+  "lookUpId": "msp2_dino_2024_costumeu_dg",
+  "nameResourceIdentifier": "Dino Rider"
+}

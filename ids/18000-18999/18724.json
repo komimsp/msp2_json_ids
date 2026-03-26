@@ -1,0 +1,86 @@
+{
+  "created": "2025-11-13T08:49:31",
+  "id": "18724",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "603",
+      "lookUpId": "TAG_CHRISTMAS_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "736",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_HOLIDAY",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "953",
+      "lookUpId": "TAG_SANTAS_SECRET_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SANTAS_SECRET_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_sant_2025_bg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_sant_2025_bg_asj",
+  "lookUpId": "bb402943-3848-47e4-b8e4-1c53e7520bf8",
+  "nameResourceIdentifier": "Santa's Secret"
+}

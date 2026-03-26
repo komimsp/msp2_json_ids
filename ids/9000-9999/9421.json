@@ -1,0 +1,132 @@
+{
+  "created": "2022-09-21T12:51:39",
+  "id": "9421",
+  "modified": "2022-09-21T12:51:39",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "83",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_STYLED",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "320",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GHOST_WALKER_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "604",
+      "lookUpId": "TAG_HALLOWEEN_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HALLOWEEN_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#CBB792,#999999",
+      "Snapshot": "msp2_ghost_2022_hornhairg_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_ghost_2022_hornhairg_hhp_bundle?msp2_ghost_2022_hornhairg_hhp_asset",
+  "lookUpId": "9010557c-eb21-49df-a1ac-5a4d7cb7ca56",
+  "nameResourceIdentifier": "Hairy Devil"
+}

@@ -1,0 +1,165 @@
+{
+  "created": "2023-10-10T10:20:02",
+  "id": "12554",
+  "modified": "2024-10-16T07:12:07",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "83",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_STYLED",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "119",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_MEDIUM",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "120",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_MISC",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "446",
+      "lookUpId": "TAG_EDGE_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EDGE_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#C3B8CE,#5C6582",
+      "Snapshot": "msp2_edge_2023_shavedu_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_edge_2023_shavedu_dg_bundle?msp2_edge_2023_shavedu_dg_asset",
+  "lookUpId": "msp2_edge_2023_shavedu_dg",
+  "nameResourceIdentifier": "To the Edge"
+}

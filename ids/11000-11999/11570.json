@@ -1,0 +1,132 @@
+{
+  "created": "2023-06-06T10:03:48",
+  "id": "11570",
+  "modified": "2023-06-06T10:03:48",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "136",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_MISC",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "392",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DOLLZ_CAMPAIGN_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#D21A76,#FF9BCF,#FFD3E8,#999999",
+      "Snapshot": "msp2_dollz_2023_topg_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_dollz_2023_topg_hhp_bundle?msp2_dollz_2023_topg_hhp_asset",
+  "lookUpId": "9792d06e-33bf-403f-a567-b1f97163efd6",
+  "nameResourceIdentifier": "Dollied"
+}

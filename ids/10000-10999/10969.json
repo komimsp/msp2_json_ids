@@ -1,0 +1,98 @@
+{
+  "created": "2023-03-07T09:40:21",
+  "id": "10969",
+  "modified": "2023-03-07T09:40:21",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "259",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_DANCES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "372",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ANGEL_BUNNY_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "605",
+      "lookUpId": "TAG_EASTER_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_angel_2023_carameldance_dg_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_angel_2023_carameldance_dg",
+  "lookUpId": "c1551155-ccec-49c4-bf7a-cdac57542923",
+  "nameResourceIdentifier": "Caramel"
+}

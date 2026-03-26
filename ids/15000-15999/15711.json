@@ -1,0 +1,100 @@
+{
+  "created": "2024-11-01T09:06:47",
+  "id": "15711",
+  "modified": "2024-11-01T09:06:47",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "103",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_CASUAL",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "772",
+      "lookUpId": "TAG_DREAM_PUFFS_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DREAM_PUFFS_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#E4B8C4,#E8E8E8,#E8E8E8,#BDD2E4",
+      "Snapshot": "msp2_dream_2024_setg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom,top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_dream_2024_setg_asj_bundle?msp2_dream_2024_setg_asj_asset",
+  "lookUpId": "msp2_dream_2024_setg_asj",
+  "nameResourceIdentifier": "Sweet Puffs"
+}

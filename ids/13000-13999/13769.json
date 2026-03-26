@@ -1,0 +1,100 @@
+{
+  "created": "2024-03-19T10:36:25",
+  "id": "13769",
+  "modified": "2024-03-19T10:36:25",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "91",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_JEWELLERY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "522",
+      "lookUpId": "TAG_DIGITAL_DYNASTY_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIGITAL_DYNASTY_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FD5DDB",
+      "Snapshot": "msp2_digi_2024_hoopg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "earrings"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_digi_2024_hoopg_asj_bundle?msp2_digi_2024_hoopg_asj_asset",
+  "lookUpId": "msp2_digi_2024_hoopg_asj",
+  "nameResourceIdentifier": "Neon Lights"
+}

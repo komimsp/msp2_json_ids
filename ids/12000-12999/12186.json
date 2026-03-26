@@ -1,0 +1,132 @@
+{
+  "created": "2023-08-22T09:52:17",
+  "id": "12186",
+  "modified": "2023-10-18T08:56:36",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "115",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_SNEAKERS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "433",
+      "lookUpId": "TAG_HIGHSCHOOL_HANGOUT_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HIGHSCHOOL_HANGOUT_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "453",
+      "lookUpId": "TAG_BLACK_FRIDAY_2023_DAY_2",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BLACK_FRIDAY_2023_DAY_2",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#A7B4BB,#E5E5E5,#1F292B",
+      "Snapshot": "msp2_high_2023_sneakersu_ecr_preview"
+    },
+    "MSP2Data": {
+      "Type": "shoe"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_high_2023_sneakersu_ecr_bundle?msp2_high_2023_sneakersu_ecr_asset",
+  "lookUpId": "10f9bb14-2ec5-4414-86bf-c4b78dd8f79a",
+  "nameResourceIdentifier": "Turbo Strides"
+}

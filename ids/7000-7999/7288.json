@@ -1,0 +1,117 @@
+{
+  "created": "2021-12-10T14:24:24",
+  "id": "7288",
+  "modified": "2024-11-07T13:28:42",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "139",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_SWEATER",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "201",
+      "lookUpId": "TAG_MAGIC_MIDNIGHT_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAGIC_MIDNIGHT_2021",
+          "type": "label"
+        },
+        {
+          "key": "magic_midnight_2021",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "483",
+      "lookUpId": "TAG_XMAS_THEME",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_THEME",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#AA8A7F,#E7D5C7,#FF9BA2,#FFFFFF",
+      "Snapshot": "msp2_magic_2021_sweatprint_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_magic_2021_sweatprint_lsz_bundle?msp2_magic_2021_sweatprint_lsz_asset",
+  "lookUpId": "ffceb0bb-1b24-469f-b97c-4bb86d8ba2b2",
+  "nameResourceIdentifier": "Cozy Midnight"
+}

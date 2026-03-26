@@ -1,0 +1,133 @@
+{
+  "created": "2025-03-13T11:46:58",
+  "id": "16770",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "99",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_SWEATPANTS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "850",
+      "lookUpId": "TAG_CYBER_CONNECT_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CYBER_CONNECT_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#2B2B2B,#FFFFFF,#666666,#999999,#2B2B2B",
+      "Snapshot": "msp2_2025_widepantsu_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_2025_widepantsu_lsz_bundle?msp2_2025_widepantsu_lsz_asset",
+  "lookUpId": "msp2_2025_widepantsu_lsz",
+  "nameResourceIdentifier": "Cipherflux"
+}

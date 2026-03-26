@@ -1,0 +1,117 @@
+{
+  "created": "2023-12-07T11:22:04",
+  "id": "13030",
+  "modified": "2023-12-07T11:22:04",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "91",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_JEWELLERY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "475",
+      "lookUpId": "TAG_BABY_DOLL_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BABY_DOLL_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FDA3D6,#D3C687",
+      "Snapshot": "msp2_baby_2024_earringsg_dsn_preview"
+    },
+    "MSP2Data": {
+      "Type": "earrings"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_baby_2024_earringsg_dsn_bundle?msp2_baby_2024_earringsg_dsn_asset",
+  "lookUpId": "msp2_baby_2024_earringsg_dsn",
+  "nameResourceIdentifier": "Diamond Kitten"
+}

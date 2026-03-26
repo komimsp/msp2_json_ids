@@ -1,0 +1,116 @@
+{
+  "created": "2021-10-22T07:40:56",
+  "id": "6796",
+  "modified": "2021-10-22T07:40:56",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "116",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_SOCKS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "604",
+      "lookUpId": "TAG_HALLOWEEN_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HALLOWEEN_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "725",
+      "lookUpId": "TAG_WICKED_CIRCUS_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_WICKED_CIRCUS_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFE45F,#FF5F85,#9871D2,#183979",
+      "Snapshot": "msp2_wicked_2021_highsocksg_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "socks"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_wicked_2021_highsocksg_mmj_bundle?msp2_wicked_2021_highsocksg_mmj_asset",
+  "lookUpId": "293db3ac-9ddd-476a-a2eb-719d775b2764",
+  "nameResourceIdentifier": "Sweaty Sally"
+}

@@ -1,0 +1,117 @@
+{
+  "created": "2021-02-12T12:58:47",
+  "id": "4990",
+  "modified": "2021-02-12T12:58:47",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "80",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_CURLY",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "690",
+      "lookUpId": "TAG_DARK_ROSE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DARK_ROSE_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#231408,#910B28,#FFF6EA,#22451D",
+      "Snapshot": "msp2_darkrose_2021_flower_curls_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_darkrose_2021_flower_curls_dg_bundle?msp2_darkrose_2021_flower_curls_dg_asset",
+  "lookUpId": "5d05625f-f83d-4707-8d51-9fb6bfc3a73e",
+  "nameResourceIdentifier": "Dark Beauty"
+}

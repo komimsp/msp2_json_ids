@@ -1,0 +1,100 @@
+{
+  "created": "2021-10-01T09:43:18",
+  "id": "6604",
+  "modified": "2024-11-07T13:52:20",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "722",
+      "lookUpId": "TAG_MUSHY_MUSH_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSHY_MUSH_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "740",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_POLO",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#9E2222,#121212,#BBA389,#FFFFFF,#9E2222",
+      "Snapshot": "msp2_mush_2021_mushpolo_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_mush_2021_mushpolo_asd_bundle?msp2_mush_2021_mushpolo_asd_asset",
+  "lookUpId": "675f2179-575e-403a-be18-7fe09c274406",
+  "nameResourceIdentifier": "Deadly Mush"
+}

@@ -1,0 +1,149 @@
+{
+  "created": "2025-02-25T11:47:09",
+  "id": "16705",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "83",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_STYLED",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "142",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_WAVY",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "848",
+      "lookUpId": "TAG_FLOWER_FAIRY_CAMPAIGN_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FLOWER_FAIRY_CAMPAIGN_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#2B94C6,#C6F0FC,#523E3E",
+      "Snapshot": "msp2_springcamp_2025_hairg_fj_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_springcamp_2025_hairg_fj_bundle?msp2_springcamp_2025_hairg_fj_asset",
+  "lookUpId": "msp2_springcamp_2025_hairg_fj",
+  "nameResourceIdentifier": "Flower Puff"
+}

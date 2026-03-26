@@ -1,0 +1,100 @@
+{
+  "created": "2020-12-11T14:29:19",
+  "id": "4565",
+  "modified": "2024-11-07T14:04:56",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "684",
+      "lookUpId": "TAG_MSP2_PARTY_2020",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MSP2_PARTY_2020",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "746",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_BLAZER",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF",
+      "Snapshot": "msp2_party_2020_sleevelesstux_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_party_2020_sleevelesstux_asd_bundle?msp2_party_2020_sleevelesstux_asd_asset",
+  "lookUpId": "0d1ae823-c576-4647-b653-b88d0ab8079d",
+  "nameResourceIdentifier": "Mr. Fashionista"
+}

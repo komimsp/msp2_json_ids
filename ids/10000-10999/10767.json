@@ -1,0 +1,99 @@
+{
+  "created": "2023-02-06T15:52:16",
+  "id": "10767",
+  "modified": "2023-02-06T15:52:16",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "91",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_JEWELLERY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "366",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LO_FI_INDIE_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#B48C05",
+      "Snapshot": "msp2_lofi_2023_sunnecklaceb_ecr_preview"
+    },
+    "MSP2Data": {
+      "Type": "necklace"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_lofi_2023_sunnecklaceb_ecr_bundle?msp2_lofi_2023_sunnecklaceb_ecr_asset",
+  "lookUpId": "f874ac4f-4c82-4b3e-b262-deff6a8e553a",
+  "nameResourceIdentifier": "Sunny Days Always"
+}

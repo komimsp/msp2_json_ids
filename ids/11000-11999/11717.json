@@ -1,0 +1,116 @@
+{
+  "created": "2023-06-20T11:26:40",
+  "id": "11717",
+  "modified": "2023-06-20T11:26:40",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "86",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_BAG",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "397",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FUN_IN_THE_SUN_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#549C9C,#FCDE7F,#BFA5F0,#F0A5A5,#ADD09E",
+      "Snapshot": "msp2_fun_2023_bagb_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "handbag"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_fun_2023_bagb_asj_bundle?msp2_fun_2023_bagb_asj_asset",
+  "lookUpId": "1e57321e-5c9a-4ba5-bd21-d483498823eb",
+  "nameResourceIdentifier": "Know Myself"
+}

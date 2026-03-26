@@ -1,0 +1,149 @@
+{
+  "created": "2024-10-21T08:49:45",
+  "id": "15529",
+  "modified": "2024-10-21T08:49:45",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "110",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_BOOTS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "116",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_SOCKS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "117",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_PLATFORMS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "771",
+      "lookUpId": "TAG_COOKIE_DEER_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_COOKIE_DEER_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#BD9E81,#A8917D,#A78060",
+      "Snapshot": "msp2_deer_2024_flufbootb_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "shoe"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_deer_2024_flufbootb_mmj_bundle?msp2_deer_2024_flufbootb_mmj_asset",
+  "lookUpId": "msp2_deer_2024_flufbootb_mmj",
+  "nameResourceIdentifier": "Cookie Feet"
+}

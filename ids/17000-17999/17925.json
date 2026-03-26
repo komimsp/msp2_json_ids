@@ -1,0 +1,100 @@
+{
+  "created": "2025-08-06T09:03:22",
+  "id": "17925",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "106",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_MIDI",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "909",
+      "lookUpId": "TAG_HOMESTEAD_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HOMESTEAD_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#966530",
+      "Snapshot": "msp2_home_2025_vestdressg_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom,top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_home_2025_vestdressg_dg_bundle?msp2_home_2025_vestdressg_dg_asset",
+  "lookUpId": "msp2_home_2025_vestdressg_dg",
+  "nameResourceIdentifier": "Boots, Dust, Love"
+}

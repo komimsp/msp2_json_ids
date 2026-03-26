@@ -1,0 +1,149 @@
+{
+  "created": "2023-08-01T11:48:32",
+  "id": "12037",
+  "modified": "2024-10-09T05:50:36",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "77",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "121",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_DENIM",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "125",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_SHORT",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "408",
+      "lookUpId": "TAG_THIRD_EYE_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_THIRD_EYE_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "752",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_VEST",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#B0D0F0,#A57829,#CFE7FF",
+      "Snapshot": "msp2_third_2023_vestb_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "jacket"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_third_2023_vestb_lsz_bundle?msp2_third_2023_vestb_lsz_asset",
+  "lookUpId": "4a61658f-ff1a-4cf3-92f1-92c982e02943",
+  "nameResourceIdentifier": "Visions"
+}

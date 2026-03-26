@@ -1,0 +1,116 @@
+{
+  "created": "2023-12-19T12:07:51",
+  "id": "13088",
+  "modified": "2024-10-16T06:53:32",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "119",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_MEDIUM",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "476",
+      "lookUpId": "TAG_PITCH_BLACK_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PITCH_BLACK_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "761",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_BRAIDS",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#15100D,#808080",
+      "Snapshot": "msp2_pitch_2024_dreadsb_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_pitch_2024_dreadsb_dg_bundle?msp2_pitch_2024_dreadsb_dg_asset",
+  "lookUpId": "msp2_pitch_2024_dreadsb_dg",
+  "nameResourceIdentifier": "Ornamental Pitch"
+}

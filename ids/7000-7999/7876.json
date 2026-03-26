@@ -1,0 +1,118 @@
+{
+  "created": "2022-02-11T12:16:36",
+  "id": "7876",
+  "modified": "2024-10-10T07:26:07",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "214",
+      "lookUpId": "TAG_HEADMASTERS_OFFICE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HEADMASTERS_OFFICE_2022",
+          "type": "label"
+        },
+        {
+          "key": "headmasters_office_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "767",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_MISC",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "msp2_master_2022_dimplesu_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "facedecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_master_2022_dimplesu_mmj_bundle?msp2_master_2022_dimplesu_mmj_asset",
+  "lookUpId": "84fb7098-d43c-44e2-95fe-2f896e749803",
+  "nameResourceIdentifier": "That Smile"
+}

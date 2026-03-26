@@ -1,0 +1,117 @@
+{
+  "created": "2024-06-04T11:57:39",
+  "id": "14335",
+  "modified": "2024-06-04T11:57:39",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "94",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_JEANS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "552",
+      "lookUpId": "TAG_UFO_ME_UP_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_UFO_ME_UP_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#323232,#61C5D4,#FFFFFF,#CCCCCC",
+      "Snapshot": "msp2_ufo_2024_edgepantsg_dsn_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_ufo_2024_edgepantsg_dsn_bundle?msp2_ufo_2024_edgepantsg_dsn_asset",
+  "lookUpId": "msp2_ufo_2024_edgepantsg_dsn",
+  "nameResourceIdentifier": "UFO Wear"
+}

@@ -1,0 +1,101 @@
+{
+  "created": "2022-09-16T07:56:10",
+  "id": "9330",
+  "modified": "2024-08-20T08:08:50",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "991",
+      "lookUpId": "TAG_HALLOWEEN_TIMELIMIT_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HALLOWEEN_TIMELIMIT_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#660000,#A40000,#000000,#000000,#000000",
+      "Snapshot": "msp2_halloween_2022_webmakeupg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "eyeshadow"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_halloween_2022_webmakeupg_asj_bundle?msp2_halloween_2022_webmakeupg_asj_asset",
+  "lookUpId": "8bbf800e-02ae-4a07-be93-72c9233d96e6",
+  "nameResourceIdentifier": "Itsy Bitsy Web"
+}

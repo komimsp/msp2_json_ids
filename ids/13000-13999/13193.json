@@ -1,0 +1,116 @@
+{
+  "created": "2024-01-04T13:29:24",
+  "id": "13193",
+  "modified": "2024-01-04T13:29:24",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "112",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_HEELED",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "114",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_SANDALS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "487",
+      "lookUpId": "TAG_ONE_MORE_TIME_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ONE_MORE_TIME_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#272727,#989898",
+      "Snapshot": "msp2_one_2024_mulesg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "shoe"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_one_2024_mulesg_asj_bundle?msp2_one_2024_mulesg_asj_asset",
+  "lookUpId": "msp2_one_2024_mulesg_asj",
+  "nameResourceIdentifier": "A Phase"
+}

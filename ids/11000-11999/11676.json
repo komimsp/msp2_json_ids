@@ -1,0 +1,97 @@
+{
+  "created": "2023-06-19T07:55:13",
+  "id": "11676",
+  "modified": "2024-09-09T13:30:40",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "399",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_POETS_CLUB_CAMPAIGN_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "613",
+      "lookUpId": "TAG_PET_WALKING",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET_WALKING",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.items.185"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#303030",
+      "Snapshot": "msp2_pet_poetsclub_2023_toypoodle_dg_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_pet_poetsclub_2023_toypoodle_dg_prop",
+  "lookUpId": "ff0e5b64-71fa-4be2-9114-d8edd6e27fb3",
+  "nameResourceIdentifier": "Fuzz"
+}

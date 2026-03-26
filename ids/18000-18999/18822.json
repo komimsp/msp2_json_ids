@@ -1,0 +1,149 @@
+{
+  "created": "2025-11-25T17:04:21",
+  "id": "18822",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "107",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_MINI",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "109",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_PARTY",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "603",
+      "lookUpId": "TAG_CHRISTMAS_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "958",
+      "lookUpId": "TAG_RUBY_HEART_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RUBY_HEART_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#212121,#C80012,#096A49,#AA8652,#A29494",
+      "Snapshot": "msp2_ruby_2025_dressg_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_ruby_2025_dressg_mmj_bundle?msp2_ruby_2025_dressg_mmj_asset",
+  "lookUpId": "msp2_ruby_2025_dressg_mmj",
+  "nameResourceIdentifier": "Heart Odyssey"
+}

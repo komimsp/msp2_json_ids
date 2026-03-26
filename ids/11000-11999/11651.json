@@ -1,0 +1,116 @@
+{
+  "created": "2023-06-08T12:27:39",
+  "id": "11651",
+  "modified": "2023-06-08T12:27:39",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "91",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_JEWELLERY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "395",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SEA_SHOCK_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#F4E8DC,#FBC679,#FFFAE2,#F8B3A2,#FFFAE2",
+      "Snapshot": "msp2_shock_2023_pearlwaistg_ecr_preview"
+    },
+    "MSP2Data": {
+      "Type": "torsoaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_shock_2023_pearlwaistg_ecr_bundle?msp2_shock_2023_pearlwaistg_ecr_asset",
+  "lookUpId": "30825b99-fb36-4fb3-affc-a5ff8d1c63ad",
+  "nameResourceIdentifier": "Celestial Seaside"
+}

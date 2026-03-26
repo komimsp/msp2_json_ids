@@ -1,0 +1,116 @@
+{
+  "created": "2023-02-06T15:20:23",
+  "id": "10739",
+  "modified": "2024-11-08T07:29:49",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "366",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LO_FI_INDIE_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "744",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_SLEEVELESS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#B285FF,#FF85D7,#87CCCE,#FBCB68,#93CE87",
+      "Snapshot": "msp2_lofi_2023_tubetopg_ecr_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_lofi_2023_tubetopg_ecr_bundle?msp2_lofi_2023_tubetopg_ecr_asset",
+  "lookUpId": "5432e514-dee4-4687-a12e-d8a49e9f7df0",
+  "nameResourceIdentifier": "Looney Tube"
+}

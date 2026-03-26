@@ -1,0 +1,132 @@
+{
+  "created": "2021-07-29T13:09:23",
+  "id": "6144",
+  "modified": "2021-07-29T13:09:23",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "90",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_HEADACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "91",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_JEWELLERY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "714",
+      "lookUpId": "TAG_CAREFREE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CAREFREE_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFF138,#FF4175",
+      "Snapshot": "msp2_care_2021_clips_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "headaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_care_2021_clips_mmj_bundle?msp2_care_2021_clips_mmj_asset",
+  "lookUpId": "ee29eb33-1e9c-4c81-bec4-76f97a220e8a",
+  "nameResourceIdentifier": "90's Butterflies"
+}

@@ -1,0 +1,101 @@
+{
+  "created": "2023-03-28T11:01:36",
+  "id": "11171",
+  "modified": "2023-03-28T11:01:36",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "150",
+      "lookUpId": "tag_tattoo",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BODYART",
+          "type": "label"
+        },
+        {
+          "key": "bodyart",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "378",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FLORAL_FANTASY_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFAC00,#FF99CC",
+      "Snapshot": "msp2_floral_2023_tattoob_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "torsodecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_floral_2023_tattoob_ms_bundle?msp2_floral_2023_tattoob_ms_asset",
+  "lookUpId": "067a1b0b-dcc7-42d2-83b7-7d673da39dad",
+  "nameResourceIdentifier": "Floralicious"
+}

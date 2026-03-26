@@ -1,0 +1,70 @@
+{
+  "created": "2024-12-23T12:51:10",
+  "id": "16183",
+  "modified": "2024-12-23T12:51:10",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "729",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_INTERIOR",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "821",
+      "lookUpId": "TAG_SCENE_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SCENE_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_scene_2015_bg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_scene_2015_bg_asj",
+  "lookUpId": "62e9eeaf-20b1-42cd-a5a1-60204d5d9831",
+  "nameResourceIdentifier": "Scene"
+}

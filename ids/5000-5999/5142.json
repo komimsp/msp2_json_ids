@@ -1,0 +1,133 @@
+{
+  "created": "2021-03-05T12:49:17",
+  "id": "5142",
+  "modified": "2024-08-19T12:04:03",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "77",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "124",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_MISC",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "602",
+      "lookUpId": "TAG_CAMPAIGN_OLD",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CAMPAIGN_OLD",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#25253E,#2F86D1,#0FFFB7,#34B2FF,#66A7B9",
+      "Snapshot": "msp2_crystal_2021_boytop_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_crystal_2021_boytop_dg_bundle?msp2_crystal_2021_boytop_dg_asset",
+  "lookUpId": "1ea1fa19-ef75-4c54-ba0f-ae1eb11accf1",
+  "nameResourceIdentifier": "Crystal Bling"
+}

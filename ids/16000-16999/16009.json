@@ -1,0 +1,116 @@
+{
+  "created": "2024-11-29T08:28:14",
+  "id": "16009",
+  "modified": "2024-11-29T08:28:14",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "77",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "125",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_SHORT",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "581",
+      "lookUpId": "TAG_LOGIN",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LOGIN",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "803",
+      "lookUpId": "TAG_MONTHLY_LOGIN_2025_1",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MONTHLY_LOGIN_2025_1",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.monthly_login"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#212121,#212121",
+      "Snapshot": "msp2_login_2025_jacketb_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,jacket"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_login_2025_jacketb_mmj_bundle?msp2_login_2025_jacketb_mmj_asset",
+  "lookUpId": "msp2_login_2025_jacketb_mmj",
+  "nameResourceIdentifier": "Staying Warm"
+}

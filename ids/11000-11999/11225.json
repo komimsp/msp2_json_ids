@@ -1,0 +1,116 @@
+{
+  "created": "2023-04-12T13:49:19",
+  "id": "11225",
+  "modified": "2023-04-12T14:29:17",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "96",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_REGULAR",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "379",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAGIC_SCHOOL_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#62473A,#CDAF95",
+      "Snapshot": "msp2_magics_2023_ropepantsb_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_magics_2023_ropepantsb_lsz_bundle?msp2_magics_2023_ropepantsb_lsz_asset",
+  "lookUpId": "705e0a4a-c749-4dc0-b626-f506fd666a9a",
+  "nameResourceIdentifier": "Rope It"
+}

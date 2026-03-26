@@ -1,0 +1,101 @@
+{
+  "created": "2022-11-07T12:42:25",
+  "id": "9818",
+  "modified": "2024-10-29T13:47:50",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "989",
+      "lookUpId": "TAG_XMAS_TIMELIMIT_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_TIMELIMIT_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FF5E5E,#F6E57C",
+      "Snapshot": "msp2_xmas_2022_makeupg_fj_preview"
+    },
+    "MSP2Data": {
+      "Type": "makeup"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_xmas_2022_makeupg_fj_bundle?msp2_xmas_2022_makeupg_fj_asset",
+  "lookUpId": "434e7489-f778-474c-8f91-2205b56d8284",
+  "nameResourceIdentifier": "Gold Dust"
+}

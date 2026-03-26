@@ -1,0 +1,100 @@
+{
+  "created": "2021-09-17T11:39:21",
+  "id": "6506",
+  "modified": "2021-09-17T11:39:21",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "114",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_SANDALS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "720",
+      "lookUpId": "TAG_RED_MAPLE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RED_MAPLE_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#B6A781,#C23030,#FFF8F8",
+      "Snapshot": "msp2_red_2021_getab_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "shoe"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_red_2021_getab_hhp_bundle?msp2_red_2021_getab_hhp_asset",
+  "lookUpId": "9e0358a9-640d-4f04-bb50-64af4ba29a95",
+  "nameResourceIdentifier": "Get a Sandal"
+}

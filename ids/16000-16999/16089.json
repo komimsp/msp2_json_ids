@@ -1,0 +1,132 @@
+{
+  "created": "2024-12-11T10:13:00",
+  "id": "16089",
+  "modified": "2024-12-11T10:13:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "104",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_FORMAL",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "107",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_MINI",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "810",
+      "lookUpId": "TAG_AZUREISH_CAMPAIGN_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_AZUREISH_CAMPAIGN_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#DDDDDD,#FFFFFF,#FFFFFF,#B4B4B4",
+      "Snapshot": "msp2_azucamp_2024_girldress_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom,top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_azucamp_2024_girldress_tk_bundle?msp2_azucamp_2024_girldress_tk_asset",
+  "lookUpId": "msp2_azucamp_2024_girldress_tk",
+  "nameResourceIdentifier": "Azureish White"
+}

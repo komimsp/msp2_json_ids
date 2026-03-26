@@ -1,0 +1,82 @@
+{
+  "created": "2025-11-25T17:04:21",
+  "id": "18786",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "264",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_SPECIAL",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "603",
+      "lookUpId": "TAG_CHRISTMAS_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "957",
+      "lookUpId": "TAG_UNDYED_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_UNDYED_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_undyed_2025_iceheartfall_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_undyed_2025_iceheartfall_lsz",
+  "lookUpId": "d541a336-dea2-4ca5-88c3-14a790c7a4f2",
+  "nameResourceIdentifier": "Hearbreak"
+}

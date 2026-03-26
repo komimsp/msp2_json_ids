@@ -1,0 +1,116 @@
+{
+  "created": "2022-11-07T09:39:52",
+  "id": "9797",
+  "modified": "2022-11-07T09:39:52",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "86",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_BAG",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "989",
+      "lookUpId": "TAG_XMAS_TIMELIMIT_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_TIMELIMIT_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#212121,#FFFFFF,#212121,#AF9E51,#FFFFFF",
+      "Snapshot": "msp2_xmas_2022_sackg_dsn_preview"
+    },
+    "MSP2Data": {
+      "Type": "handbag"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_xmas_2022_sackg_dsn_bundle?msp2_xmas_2022_sackg_dsn_asset",
+  "lookUpId": "68b35dba-552d-481c-b647-58757fb2563e",
+  "nameResourceIdentifier": "Full Of Gifts"
+}

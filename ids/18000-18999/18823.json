@@ -1,0 +1,116 @@
+{
+  "created": "2025-11-25T17:04:21",
+  "id": "18823",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "111",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_FLATSHOES",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "603",
+      "lookUpId": "TAG_CHRISTMAS_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "958",
+      "lookUpId": "TAG_RUBY_HEART_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RUBY_HEART_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#CC3333,#333333,#333333,#DDB76C,#999999",
+      "Snapshot": "msp2_ruby_2025_tartanshoesb_kals_preview"
+    },
+    "MSP2Data": {
+      "Type": "shoe"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_ruby_2025_tartanshoesb_kals_bundle?msp2_ruby_2025_tartanshoesb_kals_asset",
+  "lookUpId": "msp2_ruby_2025_tartanshoesb_kals",
+  "nameResourceIdentifier": "Tic Tac Tart"
+}

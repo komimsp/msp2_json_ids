@@ -1,0 +1,84 @@
+{
+  "created": "2022-02-07T15:02:34",
+  "id": "7834",
+  "modified": "2022-08-11T10:27:24",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "213",
+      "lookUpId": "TAG_FLUFFY_FAIRYTALE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FLUFFY_FAIRYTALE_2022",
+          "type": "label"
+        },
+        {
+          "key": "fluffy_fairytale_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "261",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_DISPLEASED",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_2022_yell_angry_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_2022_yell_angry",
+  "lookUpId": "232b08f9-aa7b-4822-a1a7-c326b439b6c2",
+  "nameResourceIdentifier": "Angry Yell"
+}

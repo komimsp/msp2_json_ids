@@ -1,0 +1,116 @@
+{
+  "created": "2024-03-11T11:40:30",
+  "id": "13657",
+  "modified": "2024-10-10T11:49:29",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "517",
+      "lookUpId": "TAG_HEY_BUNNY_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HEY_BUNNY_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "605",
+      "lookUpId": "TAG_EASTER_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "742",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_SWEATSHIRT",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFF6EE,#6D6B66,#6D6B66,#FFF6EE",
+      "Snapshot": "msp2_hey_2024_buntopb_dsn_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_hey_2024_buntopb_dsn_bundle?msp2_hey_2024_buntopb_dsn_asset",
+  "lookUpId": "msp2_hey_2024_buntopb_dsn",
+  "nameResourceIdentifier": "Hey Bunny"
+}

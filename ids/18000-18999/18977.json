@@ -1,0 +1,66 @@
+{
+  "created": "2025-12-09T14:44:53",
+  "id": "18977",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "259",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_DANCES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "963",
+      "lookUpId": "TAG_STARLIT_NIGHT_2026",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_STARLIT_NIGHT_2026",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_starlit_2025_stardance_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_starlit_2025_stardance_lsz",
+  "lookUpId": "ac0ca437-2a81-4c56-ae10-6c1a28e501c3",
+  "nameResourceIdentifier": "Starry Dance"
+}

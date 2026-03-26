@@ -1,0 +1,116 @@
+{
+  "created": "2024-11-04T09:26:36",
+  "id": "15745",
+  "modified": "2024-11-04T10:52:37",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "138",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_SHIRT",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "141",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_TSHIRT",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "773",
+      "lookUpId": "TAG_9_TO_5_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_9_TO_5_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#2F2F2F,#F8F8F8,#FFFFFF",
+      "Snapshot": "msp2_9to5_2024_topwcollarg_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_9to5_2024_topwcollarg_mmj_bundle?msp2_9to5_2024_topwcollarg_mmj_asset",
+  "lookUpId": "msp2_9to5_2024_topwcollarg_mmj",
+  "nameResourceIdentifier": "Henley"
+}

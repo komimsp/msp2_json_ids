@@ -1,0 +1,148 @@
+{
+  "created": "2023-09-27T07:54:25",
+  "id": "12436",
+  "modified": "2024-10-09T12:15:43",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "83",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_STYLED",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "119",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_MEDIUM",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "441",
+      "lookUpId": "TAG_CREATURES_OF_THE_NIGHT_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CREATURES_OF_THE_NIGHT_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "604",
+      "lookUpId": "TAG_HALLOWEEN_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HALLOWEEN_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "761",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_BRAIDS",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#1E0803",
+      "Snapshot": "msp2_creat_2023_locksb_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_creat_2023_locksb_asj_bundle?msp2_creat_2023_locksb_asj_asset",
+  "lookUpId": "msp2_creat_2023_locksb_asj",
+  "nameResourceIdentifier": "Lucky Locks"
+}

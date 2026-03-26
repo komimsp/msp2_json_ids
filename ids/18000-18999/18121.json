@@ -1,0 +1,135 @@
+{
+  "created": "2025-09-02T09:25:05",
+  "id": "18121",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "732",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_NATURE",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "734",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_SEASONS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "925",
+      "lookUpId": "TAG_SOFT_SUMMER_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SOFT_SUMMER_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "958",
+      "lookUpId": "TAG_RUBY_HEART_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RUBY_HEART_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "msp2_summer_2025_bg_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_summer_2025_bg_tk",
+  "lookUpId": "forartbooksandlooks1600x1200px",
+  "nameResourceIdentifier": "Soft Summer"
+}

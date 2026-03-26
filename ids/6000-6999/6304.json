@@ -1,0 +1,132 @@
+{
+  "created": "2021-08-20T10:51:24",
+  "id": "6304",
+  "modified": "2024-11-08T08:44:04",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "126",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "127",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_DENIM",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "129",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_MIDI",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "133",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_PLEATED",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "717",
+      "lookUpId": "TAG_MELLOW_SUMMER_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MELLOW_SUMMER_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#7BA5D4",
+      "Snapshot": "msp2_mellow_2021_denimskirt_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_mellow_2021_denimskirt_asj_bundle?msp2_mellow_2021_denimskirt_asj_asset",
+  "lookUpId": "4cdd624a-18f3-4aff-8f9f-736ebc3a783d",
+  "nameResourceIdentifier": "Denim Pleat"
+}

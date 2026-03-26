@@ -1,0 +1,117 @@
+{
+  "created": "2024-01-04T13:32:24",
+  "id": "13196",
+  "modified": "2024-01-04T13:37:08",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "92",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_MISC",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "487",
+      "lookUpId": "TAG_ONE_MORE_TIME_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ONE_MORE_TIME_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#DEB4B6,#FFF3E9,#CCD7F1",
+      "Snapshot": "msp2_one_2024_butterfliesb_dg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "torsodecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_one_2024_butterfliesb_dg_asj_bundle?msp2_one_2024_butterfliesb_dg_asj_asset",
+  "lookUpId": "msp2_one_2024_butterfliesb_dg_asj",
+  "nameResourceIdentifier": "Glitter Fab"
+}

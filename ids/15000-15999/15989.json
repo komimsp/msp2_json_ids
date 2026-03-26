@@ -1,0 +1,149 @@
+{
+  "created": "2024-11-27T12:21:13",
+  "id": "15989",
+  "modified": "2024-11-27T12:22:29",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "126",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "130",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_MINI",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "134",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_RUFFLED",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "603",
+      "lookUpId": "TAG_CHRISTMAS_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "777",
+      "lookUpId": "TAG_CHRISTMAS_EVE_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_EVE_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#9E1322,#FFF3E2,#425230,#FFF3E2",
+      "Snapshot": "msp2_christ_2024_setskirtg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_christ_2024_setskirtg_asj_bundle?msp2_christ_2024_setskirtg_asj_asset",
+  "lookUpId": "msp2_christ_2024_setskirtg_asj",
+  "nameResourceIdentifier": "Christmas Eve Pattern"
+}

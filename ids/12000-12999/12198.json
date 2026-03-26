@@ -1,0 +1,100 @@
+{
+  "created": "2023-08-24T09:47:08",
+  "id": "12198",
+  "modified": "2023-08-24T09:47:08",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "139",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_SWEATER",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "423",
+      "lookUpId": "TAG_RANDOM_FACTOR_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RANDOM_FACTOR_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#263A7C,#5AA72D",
+      "Snapshot": "msp2_rand_2023_swirlsweatb_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_rand_2023_swirlsweatb_tk_bundle?msp2_rand_2023_swirlsweatb_tk_asset",
+  "lookUpId": "0689e88f-e0a6-4f42-96f9-3fa0c57e357b",
+  "nameResourceIdentifier": "Round & Round"
+}

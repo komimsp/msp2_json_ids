@@ -1,0 +1,132 @@
+{
+  "created": "2025-07-10T15:02:51",
+  "id": "17767",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "87",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_COSTUME",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "756",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_FACEACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "899",
+      "lookUpId": "TAG_FURSONA_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FURSONA_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#6B727B,#212121,#FFFFFF,#2F2E2E",
+      "Snapshot": "msp2_fursona_2025_raccoonu_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "glasses"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_fursona_2025_raccoonu_mmj_bundle?msp2_fursona_2025_raccoonu_mmj_asset",
+  "lookUpId": "msp2_fursona_2025_raccoonu_mmj",
+  "nameResourceIdentifier": "Cute Instinct"
+}

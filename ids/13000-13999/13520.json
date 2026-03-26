@@ -1,0 +1,100 @@
+{
+  "created": "2024-02-22T12:15:43",
+  "id": "13520",
+  "modified": "2024-02-22T12:15:43",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "91",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_JEWELLERY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "504",
+      "lookUpId": "TAG_AURORIA_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_AURORIA_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#E9C15C,#9B72FF,#FF00FF,#72FFF6,#FFFAE2",
+      "Snapshot": "msp2_auro_2024_earringg_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "earrings"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_auro_2024_earringg_tk_bundle?msp2_auro_2024_earringg_tk_asset",
+  "lookUpId": "msp2_auro_2024_earringg_tk",
+  "nameResourceIdentifier": "Double Flight"
+}

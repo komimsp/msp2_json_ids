@@ -1,0 +1,83 @@
+{
+  "created": "2024-11-27T09:44:05",
+  "id": "15963",
+  "modified": "2024-11-27T09:44:05",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "260",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_EXCITED",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "777",
+      "lookUpId": "TAG_CHRISTMAS_EVE_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_EVE_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_christ_2024_gettingagiftsanim_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_christ_2024_gettingagiftsanim_lsz",
+  "lookUpId": "253e0de8-1dfc-40aa-abed-44ad1c440e5b",
+  "nameResourceIdentifier": "Sudden Gift!"
+}

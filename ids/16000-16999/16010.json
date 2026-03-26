@@ -1,0 +1,148 @@
+{
+  "created": "2024-11-29T08:30:19",
+  "id": "16010",
+  "modified": "2024-11-29T08:30:19",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "79",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_LONG",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "80",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_CURLY",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "83",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_STYLED",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "581",
+      "lookUpId": "TAG_LOGIN",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LOGIN",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "803",
+      "lookUpId": "TAG_MONTHLY_LOGIN_2025_1",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MONTHLY_LOGIN_2025_1",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.monthly_login"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#F4DCC5,#F498E1,#F3F3F3,#595959",
+      "Snapshot": "msp2_login_2025_hairg_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_login_2025_hairg_mmj_bundle?msp2_login_2025_hairg_mmj_asset",
+  "lookUpId": "msp2_login_2025_hairg_mmj",
+  "nameResourceIdentifier": "Snow Lover"
+}

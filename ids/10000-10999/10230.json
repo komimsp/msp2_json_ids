@@ -1,0 +1,115 @@
+{
+  "created": "2022-12-12T14:27:56",
+  "id": "10230",
+  "modified": "2022-12-12T14:27:56",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "79",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_LONG",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "350",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ALL_THAT_GLITTERS_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "761",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_BRAIDS",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#6C3820,#BE936F,#FF6699",
+      "Snapshot": "msp2_all_2023_braidg_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_all_2023_braidg_hhp_bundle?msp2_all_2023_braidg_hhp_asset",
+  "lookUpId": "cb119a25-84dd-48d6-8a64-1b0ed752e46d",
+  "nameResourceIdentifier": "Ribbon Ray"
+}

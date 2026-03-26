@@ -1,0 +1,115 @@
+{
+  "created": "2023-03-24T15:00:33",
+  "id": "11115",
+  "modified": "2023-03-24T15:00:33",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "90",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_HEADACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "376",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ANGELIC_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#495442,#FFF9EA,#FFFFFF",
+      "Snapshot": "msp2_angelic_2023_flowercrownu_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "headaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_angelic_2023_flowercrownu_tk_bundle?msp2_angelic_2023_flowercrownu_tk_asset",
+  "lookUpId": "2c05c3f4-042a-4196-b1f0-173479727929",
+  "nameResourceIdentifier": "Angel's Flower"
+}

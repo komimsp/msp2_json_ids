@@ -1,0 +1,131 @@
+{
+  "created": "2023-01-12T13:17:13",
+  "id": "10464",
+  "modified": "2023-01-12T13:17:13",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "257",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_BASIC",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "261",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_DISPLEASED",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "263",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_POSING",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "981",
+      "lookUpId": "TAG_VALENTINE_TIMELIMIT_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VALENTINE_TIMELIMIT_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_valentine_2023_rejecting_hhp_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_valentine_2023_rejecting_hhp",
+  "lookUpId": "00246d0a-c7e9-4c9c-bc01-2163290b7875",
+  "nameResourceIdentifier": "Rejecting"
+}

@@ -1,0 +1,132 @@
+{
+  "created": "2023-08-17T12:27:32",
+  "id": "12161",
+  "modified": "2023-08-17T12:27:32",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "79",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_LONG",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "83",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_STYLED",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "402",
+      "lookUpId": "TAG_MONTHLY_LOGIN_2023_9",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MONTHLY_LOGIN_2023_9",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.monthly_login"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "581",
+      "lookUpId": "TAG_LOGIN",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LOGIN",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#C5A485,#F3DCC9,#654534",
+      "Snapshot": "msp2_login_2023_sep_hairg_ecr_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_login_2023_sep_hairg_ecr_bundle?msp2_login_2023_sep_hairg_ecr_asset",
+  "lookUpId": "9016b7ce-754a-4ddd-80f9-7b546cd98ba5",
+  "nameResourceIdentifier": "Cutie Pie"
+}

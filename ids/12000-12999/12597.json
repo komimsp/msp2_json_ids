@@ -1,0 +1,100 @@
+{
+  "created": "2023-10-17T10:39:45",
+  "id": "12597",
+  "modified": "2024-11-06T13:26:54",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "139",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_SWEATER",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "448",
+      "lookUpId": "TAG_PLAZA_CORE_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PLAZA_CORE_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#ECDDCB,#2F2319,#D62929,#FFFFFF,#CE9535",
+      "Snapshot": "msp2_plaza_2023_carditopg_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_plaza_2023_carditopg_tk_bundle?msp2_plaza_2023_carditopg_tk_asset",
+  "lookUpId": "msp2_plaza_2023_carditopg_tk",
+  "nameResourceIdentifier": "On Style"
+}

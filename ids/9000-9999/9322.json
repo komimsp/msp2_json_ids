@@ -1,0 +1,118 @@
+{
+  "created": "2022-09-16T07:20:41",
+  "id": "9322",
+  "modified": "2024-08-21T13:26:30",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "144",
+      "lookUpId": "tag_mouth",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOUTH",
+          "type": "label"
+        },
+        {
+          "key": "mouth",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "991",
+      "lookUpId": "TAG_HALLOWEEN_TIMELIMIT_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HALLOWEEN_TIMELIMIT_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#333333,#333333",
+      "Snapshot": "msp2_halloween_2022_gothmouthg_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "mouth"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_halloween_2022_gothmouthg_hhp_bundle?msp2_halloween_2022_gothmouthg_hhp_asset",
+  "lookUpId": "27c7966f-37d9-42ca-8ac2-af7ba7709101",
+  "nameResourceIdentifier": "Shadow Talk"
+}

@@ -1,0 +1,103 @@
+{
+  "created": "2026-02-16T12:30:07",
+  "id": "19341",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "605",
+      "lookUpId": "TAG_EASTER_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "735",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_FANTASY",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "736",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_HOLIDAY",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "985",
+      "lookUpId": "TAG_EASTER_FAIRYTALE_2026",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_FAIRYTALE_2026",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "msp2_east_2026_bg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_east_2026_bg_asj",
+  "lookUpId": "msp2_east_2026_bg_asj",
+  "nameResourceIdentifier": "Easter Fairytale"
+}

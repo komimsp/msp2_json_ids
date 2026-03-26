@@ -1,0 +1,101 @@
+{
+  "created": "2024-08-21T07:47:41",
+  "id": "14936",
+  "modified": "2024-10-10T07:11:29",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "569",
+      "lookUpId": "TAG_DEPTH_OF_THE_FOREST_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DEPTH_OF_THE_FOREST_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "763",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_EYESHADOW",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#F9BE31,#000000,#FFFFFF,#4A8F4A",
+      "Snapshot": "msp2_depth_2024_makeupg_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "eyeshadow"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_depth_2024_makeupg_mmj_bundle?msp2_depth_2024_makeupg_mmj_asset",
+  "lookUpId": "msp2_depth_2024_makeupg_mmj",
+  "nameResourceIdentifier": "Flower Fae"
+}

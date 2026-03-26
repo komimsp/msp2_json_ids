@@ -1,0 +1,100 @@
+{
+  "created": "2024-04-23T11:41:18",
+  "id": "13954",
+  "modified": "2024-04-23T11:41:18",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "138",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_SHIRT",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "536",
+      "lookUpId": "TAG_VIBIN_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIBIN_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFF3EE,#342A2A",
+      "Snapshot": "msp2_vibin_2024_mooshirtb_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_vibin_2024_mooshirtb_tk_bundle?msp2_vibin_2024_mooshirtb_tk_asset",
+  "lookUpId": "msp2_vibin_2024_mooshirtb_tk",
+  "nameResourceIdentifier": "Moo Man"
+}

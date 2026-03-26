@@ -1,0 +1,69 @@
+{
+  "created": "2022-09-07T13:28:56",
+  "id": "9304",
+  "modified": "2024-09-16T13:22:58",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "318",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PUMPKIN_SPICE_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "734",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_SEASONS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_spice_2022_bg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_spice_2022_bg_asj",
+  "lookUpId": "01fe9095-3abf-4390-ac85-b88d8739efb1",
+  "nameResourceIdentifier": "Pumpkin Spice"
+}

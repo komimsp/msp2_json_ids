@@ -1,0 +1,116 @@
+{
+  "created": "2021-07-09T09:14:51",
+  "id": "5997",
+  "modified": "2021-07-09T09:14:51",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "94",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_JEANS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "97",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_SHORTS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "711",
+      "lookUpId": "TAG_ISOLATED_ISLAND_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ISOLATED_ISLAND_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#CED6E5,#FFFFFF",
+      "Snapshot": "msp2_isolated_2021_denimgirl_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_isolated_2021_denimgirl_asj_bundle?msp2_isolated_2021_denimgirl_asj_asset",
+  "lookUpId": "4d64eca6-2c96-45b6-8f17-e2478411881a",
+  "nameResourceIdentifier": "Sunbleached"
+}

@@ -1,0 +1,84 @@
+{
+  "created": "2020-10-30T12:43:01",
+  "id": "4177",
+  "modified": "2020-10-30T12:43:01",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "139",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_SWEATER",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#000066,#FFFFFF",
+      "Snapshot": "msp2_xmascal_2020_treesweater_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_xmascal_2020_treesweater_asd_bundle?msp2_xmascal_2020_treesweater_asd_asset",
+  "lookUpId": "d6ba3390-b860-4540-a406-f6a5ee8b1033",
+  "nameResourceIdentifier": "Ugly Xmas Tree"
+}

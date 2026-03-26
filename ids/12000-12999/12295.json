@@ -1,0 +1,66 @@
+{
+  "created": "2023-09-12T11:16:31",
+  "id": "12295",
+  "modified": "2023-09-12T12:17:28",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "257",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_BASIC",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "439",
+      "lookUpId": "TAG_WOODLAND_PICNIC_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_WOODLAND_PICNIC_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_wood_2023_kickleafanim_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_wood_2023_kickleafanim_lsz",
+  "lookUpId": "a1457ef7-c196-4148-acf1-66641f3dbc3a",
+  "nameResourceIdentifier": "Kick It"
+}

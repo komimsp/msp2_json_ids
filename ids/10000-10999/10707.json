@@ -1,0 +1,118 @@
+{
+  "created": "2023-02-02T16:03:40",
+  "id": "10707",
+  "modified": "2023-02-02T16:03:40",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "836",
+      "lookUpId": "TAG_EASTER_2025_WEEK1",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_2025_WEEK1",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FF66CC,#CC66FF,#FF99CC,#FFCCFF,#FFCC66",
+      "Snapshot": "msp2_easter_2023_flowermakeg_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "makeup"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_easter_2023_flowermakeg_hhp_bundle?msp2_easter_2023_flowermakeg_hhp_asset",
+  "lookUpId": "9c7abdf4-f76e-4a89-8b6a-f427462ef679",
+  "nameResourceIdentifier": "Petal Wash"
+}

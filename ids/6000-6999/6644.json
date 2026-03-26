@@ -1,0 +1,100 @@
+{
+  "created": "2021-10-01T12:51:48",
+  "id": "6644",
+  "modified": "2021-10-01T12:51:48",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "142",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_WAVY",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "722",
+      "lookUpId": "TAG_MUSHY_MUSH_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSHY_MUSH_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFF7DD,#8D1029",
+      "Snapshot": "msp2_mush_2021_fade_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_mush_2021_fade_hhp_bundle?msp2_mush_2021_fade_hhp_asset",
+  "lookUpId": "68b7c209-37ef-49d5-9038-56397df6a34d",
+  "nameResourceIdentifier": "Scarlet Maple"
+}

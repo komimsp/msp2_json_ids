@@ -1,0 +1,118 @@
+{
+  "created": "2025-02-25T11:47:09",
+  "id": "16618",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "146",
+      "lookUpId": "tag_eyes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EYES",
+          "type": "label"
+        },
+        {
+          "key": "eyes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "837",
+      "lookUpId": "TAG_EASTER_2025_WEEK2",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_2025_WEEK2",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#96C6F7,#4468D2,#8B9FDB",
+      "Snapshot": "msp2_easter_2025_eyesb_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "eyes"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_easter_2025_eyesb_asj_bundle?msp2_easter_2025_eyesb_asj_asset",
+  "lookUpId": "msp2_easter_2025_eyesb_asj",
+  "nameResourceIdentifier": "Highlighted Bunny"
+}

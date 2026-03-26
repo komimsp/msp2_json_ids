@@ -1,0 +1,82 @@
+{
+  "created": "2025-11-25T17:04:21",
+  "id": "18828",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "257",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_BASIC",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "603",
+      "lookUpId": "TAG_CHRISTMAS_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "958",
+      "lookUpId": "TAG_RUBY_HEART_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RUBY_HEART_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_ruby_2025_slpianim_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_ruby_2025_slpianim_lsz",
+  "lookUpId": "5f0a9474-70be-4956-a31c-910251e195fe",
+  "nameResourceIdentifier": "Whops!"
+}

@@ -1,0 +1,116 @@
+{
+  "created": "2024-09-04T07:13:44",
+  "id": "15022",
+  "modified": "2024-09-04T07:13:44",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "103",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_CASUAL",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "107",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_MINI",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "570",
+      "lookUpId": "TAG_BALLET_BABY_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BALLET_BABY_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#F9F9F9",
+      "Snapshot": "msp2_ballet_2024_cordressg_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_ballet_2024_cordressg_mmj_bundle?msp2_ballet_2024_cordressg_mmj_asset",
+  "lookUpId": "msp2_ballet_2024_cordressg_mmj",
+  "nameResourceIdentifier": "Swan Baby"
+}

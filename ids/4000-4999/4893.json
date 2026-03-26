@@ -1,0 +1,100 @@
+{
+  "created": "2021-02-05T10:23:58",
+  "id": "4893",
+  "modified": "2021-02-05T10:23:58",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "138",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_SHIRT",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "689",
+      "lookUpId": "TAG_DIVINE_FEELING_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIVINE_FEELING_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#B3B4FF,#FF8C95",
+      "Snapshot": "msp2_divine_2021_heartboyshirt_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_divine_2021_heartboyshirt_ms_bundle?msp2_divine_2021_heartboyshirt_ms_asset",
+  "lookUpId": "9006f967-94b9-427c-900d-0fbb96c0e523",
+  "nameResourceIdentifier": "It's A Heart Knock Life"
+}

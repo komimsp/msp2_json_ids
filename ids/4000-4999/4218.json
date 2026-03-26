@@ -1,0 +1,133 @@
+{
+  "created": "2020-11-06T14:53:49",
+  "id": "4218",
+  "modified": "2020-11-09T09:08:51",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "103",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_CASUAL",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "107",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_MINI",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "677",
+      "lookUpId": "TAG_AUTUMN_VIBES_2020",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_AUTUMN_VIBES_2020",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#666666",
+      "Snapshot": "msp2_autumn_2020_tweeddress_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_autumn_2020_tweeddress_asd_bundle?msp2_autumn_2020_tweeddress_asd_asset",
+  "lookUpId": "e16ae2ea-cdfe-4100-9916-7d9a2b370e77",
+  "nameResourceIdentifier": "Tweed Vibe"
+}

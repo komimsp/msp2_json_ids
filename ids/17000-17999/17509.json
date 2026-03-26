@@ -1,0 +1,117 @@
+{
+  "created": "2025-06-02T07:22:07",
+  "id": "17509",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "86",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_BAG",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "886",
+      "lookUpId": "TAG_WANNE_BE_YOURS_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_WANNE_BE_YOURS_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#B6C2DA,#857F86,#666666,#DBC0A3",
+      "Snapshot": "msp2_wannabe_2025_boardbackapckb_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "handbag"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_wannabe_2025_boardbackapckb_lsz_bundle?msp2_wannabe_2025_boardbackapckb_lsz_asset",
+  "lookUpId": "msp2_wannabe_2025_boardbackapckb_lsz",
+  "nameResourceIdentifier": "Just My Grip"
+}

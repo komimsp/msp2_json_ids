@@ -1,0 +1,100 @@
+{
+  "created": "2021-02-12T11:40:15",
+  "id": "4971",
+  "modified": "2021-02-12T11:40:15",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "126",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "129",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_MIDI",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "690",
+      "lookUpId": "TAG_DARK_ROSE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DARK_ROSE_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#121212,#999999",
+      "Snapshot": "msp2_darkrose_2021_pencilskirt_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_darkrose_2021_pencilskirt_lsz_bundle?msp2_darkrose_2021_pencilskirt_lsz_asset",
+  "lookUpId": "8df69f98-668d-4e9f-aed4-c469f8a42204",
+  "nameResourceIdentifier": "Office Fit"
+}

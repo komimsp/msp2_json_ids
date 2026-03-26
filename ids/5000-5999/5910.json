@@ -1,0 +1,100 @@
+{
+  "created": "2021-06-25T07:57:43",
+  "id": "5910",
+  "modified": "2021-06-25T07:57:43",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "107",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_MINI",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "709",
+      "lookUpId": "TAG_SWEET_GAL_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SWEET_GAL_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFACAC,#FFFFFF",
+      "Snapshot": "msp2_gal_2021_silkydress_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom,top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_gal_2021_silkydress_mmj_bundle?msp2_gal_2021_silkydress_mmj_asset",
+  "lookUpId": "41db0332-919f-4499-9dc8-546236016d40",
+  "nameResourceIdentifier": "Soft as Silk"
+}

@@ -1,0 +1,117 @@
+{
+  "created": "2024-12-18T12:59:19",
+  "id": "16118",
+  "modified": "2024-12-18T12:59:19",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "77",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "122",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_FAUXFUR",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "572",
+      "lookUpId": "TAG_MIDNIGHT_REFLECTION_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MIDNIGHT_REFLECTION_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#CECFDD,#111644",
+      "Snapshot": "msp2_midnight_2025_furhoodg_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,jacket"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_midnight_2025_furhoodg_tk_bundle?msp2_midnight_2025_furhoodg_tk_asset",
+  "lookUpId": "msp2_midnight_2025_furhoodg_tk",
+  "nameResourceIdentifier": "Reflectivity"
+}

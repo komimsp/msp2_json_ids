@@ -1,0 +1,116 @@
+{
+  "created": "2021-10-11T09:58:18",
+  "id": "6687",
+  "modified": "2024-09-05T09:24:19",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "113",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_MISC",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "604",
+      "lookUpId": "TAG_HALLOWEEN_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HALLOWEEN_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "723",
+      "lookUpId": "TAG_DEEP_INTO_THE_FOREST_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DEEP_INTO_THE_FOREST_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#121212,#212121,#121212",
+      "Snapshot": "msp2_deep_2021_hooves_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "shoe"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_deep_2021_hooves_mmj_bundle?msp2_deep_2021_hooves_mmj_asset",
+  "lookUpId": "90d6b290-1583-4bf0-a139-9273c067934d",
+  "nameResourceIdentifier": "Natural Feet"
+}

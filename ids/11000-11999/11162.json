@@ -1,0 +1,99 @@
+{
+  "created": "2023-03-28T08:48:49",
+  "id": "11162",
+  "modified": "2023-03-28T08:48:49",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "101",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_WIDE",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "378",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FLORAL_FANTASY_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#B8C8DF,#4D9966,#FF9FBF",
+      "Snapshot": "msp2_floral_2023_flowerjeansg_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_floral_2023_flowerjeansg_hhp_bundle?msp2_floral_2023_flowerjeansg_hhp_asset",
+  "lookUpId": "79447b66-89e8-479b-a741-a6f58f216ba0",
+  "nameResourceIdentifier": "Floral Trail"
+}

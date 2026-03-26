@@ -1,0 +1,117 @@
+{
+  "created": "2024-01-16T10:58:10",
+  "id": "13285",
+  "modified": "2024-01-16T10:58:10",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "109",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_PARTY",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "495",
+      "lookUpId": "TAG_ENCHANTING_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ENCHANTING_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FEFFF8,#FEFFF8,#FEFFF8",
+      "Snapshot": "msp2_encha_2024_satindressg_dsn_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_encha_2024_satindressg_dsn_bundle?msp2_encha_2024_satindressg_dsn_asset",
+  "lookUpId": "msp2_encha_2024_satindressg_dsn",
+  "nameResourceIdentifier": "Margot"
+}

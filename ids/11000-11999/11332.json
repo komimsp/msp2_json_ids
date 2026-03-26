@@ -1,0 +1,116 @@
+{
+  "created": "2023-04-27T08:43:16",
+  "id": "11332",
+  "modified": "2023-04-27T08:43:16",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "104",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_FORMAL",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "381",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RAG_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#EADFC0,#EADFC0",
+      "Snapshot": "msp2_rag_2023_layerdressg_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_rag_2023_layerdressg_hhp_bundle?msp2_rag_2023_layerdressg_hhp_asset",
+  "lookUpId": "f654e9ed-90d2-46a1-9306-e8dd18bf822d",
+  "nameResourceIdentifier": "Layered for Battle"
+}

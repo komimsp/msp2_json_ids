@@ -1,0 +1,164 @@
+{
+  "created": "2021-07-09T08:54:50",
+  "id": "5989",
+  "modified": "2024-08-19T12:38:25",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "92",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_MISC",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "93",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_SCARF",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "126",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "128",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_MAXI",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "602",
+      "lookUpId": "TAG_CAMPAIGN_OLD",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CAMPAIGN_OLD",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#2BD7F3,#FFFFFF,#FFFCEC",
+      "Snapshot": "msp2_summer_2021_girlskirt_fj_preview"
+    },
+    "MSP2Data": {
+      "Type": "jacket"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_summer_2021_girlskirt_fj_bundle?msp2_summer_2021_girlskirt_fj_asset",
+  "lookUpId": "cb723e9e-c9b0-4073-b908-7b82c3a46966",
+  "nameResourceIdentifier": "Ocean Vibes"
+}

@@ -1,0 +1,99 @@
+{
+  "created": "2023-06-23T10:51:32",
+  "id": "11758",
+  "modified": "2024-11-28T12:52:56",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "398",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ONCE_UPON_A_TIME_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "758",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_FILTER",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFAAAA,#FFFFFF,#D69F18,#94B46B,#FFFFFF",
+      "Snapshot": "msp2_once_2023_flowflowerg_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "torsoaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_once_2023_flowflowerg_tk_bundle?msp2_once_2023_flowflowerg_tk_asset",
+  "lookUpId": "bffc6f20-e75d-4578-bceb-cfd2c6776a1d",
+  "nameResourceIdentifier": "Blooming Wind"
+}

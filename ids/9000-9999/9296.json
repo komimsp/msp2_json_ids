@@ -1,0 +1,132 @@
+{
+  "created": "2022-09-07T12:36:15",
+  "id": "9296",
+  "modified": "2024-08-07T12:48:58",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "116",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_SOCKS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "117",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_PLATFORMS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "318",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PUMPKIN_SPICE_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#4D231E,#FFE3CE,#BB3535",
+      "Snapshot": "msp2_spice_2022_shoesg_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "shoe,socks"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_spice_2022_shoesg_asd_bundle?msp2_spice_2022_shoesg_asd_asset",
+  "lookUpId": "3f0e1605-6b86-4f09-a49c-21f5d5305166",
+  "nameResourceIdentifier": "Greta"
+}

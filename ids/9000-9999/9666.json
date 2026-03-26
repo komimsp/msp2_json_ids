@@ -1,0 +1,132 @@
+{
+  "created": "2022-10-14T08:37:24",
+  "id": "9666",
+  "modified": "2022-10-14T08:37:24",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "103",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_CASUAL",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "106",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_MIDI",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "323",
+      "lookUpId": "TAG_MONTHLY_LOGIN_2023_2",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MONTHLY_LOGIN_2023_2",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.monthly_login"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "581",
+      "lookUpId": "TAG_LOGIN",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LOGIN",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#330099,#272727,#990000",
+      "Snapshot": "msp2_login_2023_feb_girldress_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_login_2023_feb_girldress_hhp_bundle?msp2_login_2023_feb_girldress_hhp_asset",
+  "lookUpId": "03e5aa35-3bda-4fac-bf68-a482a0a5bdd1",
+  "nameResourceIdentifier": "Hearts Desire"
+}

@@ -1,0 +1,100 @@
+{
+  "created": "2023-08-15T10:38:24",
+  "id": "12117",
+  "modified": "2023-08-15T10:38:24",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "126",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "130",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_MINI",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "420",
+      "lookUpId": "TAG_SUMMERS_END_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SUMMERS_END_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#374135,#212121,#959595",
+      "Snapshot": "msp2_sum_2023_denimskirtg_mm_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_sum_2023_denimskirtg_mm_bundle?msp2_sum_2023_denimskirtg_mm_asset",
+  "lookUpId": "5ae8d454-7289-4840-8c80-22708324d644",
+  "nameResourceIdentifier": "Changing Seasons"
+}

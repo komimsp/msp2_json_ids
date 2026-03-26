@@ -1,0 +1,101 @@
+{
+  "created": "2021-12-16T12:35:24",
+  "id": "7345",
+  "modified": "2021-12-16T12:35:24",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "141",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_TSHIRT",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "197",
+      "lookUpId": "TAG_LIGHT_UP_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LIGHT_UP_2021",
+          "type": "label"
+        },
+        {
+          "key": "light_up_2021",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#C3B4FF,#660099,#3F0B59,#9999FF",
+      "Snapshot": "msp2_light_2021_logoteeg_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_light_2021_logoteeg_ms_bundle?msp2_light_2021_logoteeg_ms_asset",
+  "lookUpId": "379d6dfc-8f1b-4305-bee5-c21968a60a79",
+  "nameResourceIdentifier": "Sky Sparkle"
+}

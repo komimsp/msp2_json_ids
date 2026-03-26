@@ -1,0 +1,132 @@
+{
+  "created": "2024-03-15T12:22:23",
+  "id": "13737",
+  "modified": "2024-03-15T12:22:23",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "87",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_COSTUME",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "92",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_MISC",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "521",
+      "lookUpId": "TAG_2000_ANGEL_CAMPAIGN_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_2000_ANGEL_CAMPAIGN_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#979797,#000000",
+      "Snapshot": "msp2_2kcamp_2024_wingsg_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "backaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_2kcamp_2024_wingsg_tk_bundle?msp2_2kcamp_2024_wingsg_tk_asset",
+  "lookUpId": "msp2_2kcamp_2024_wingsg_tk",
+  "nameResourceIdentifier": "Metallic"
+}

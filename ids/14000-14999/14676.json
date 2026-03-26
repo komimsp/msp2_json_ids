@@ -1,0 +1,100 @@
+{
+  "created": "2024-07-16T11:36:46",
+  "id": "14676",
+  "modified": "2024-07-16T11:36:46",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "126",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "134",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_RUFFLED",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "563",
+      "lookUpId": "TAG_BLACK_BEACH_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BLACK_BEACH_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#2D2D2D,#FFFFFF",
+      "Snapshot": "msp2_black_2024_ruflbotg_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_black_2024_ruflbotg_dg_bundle?msp2_black_2024_ruflbotg_dg_asset",
+  "lookUpId": "msp2_black_2024_ruflbotg_dg",
+  "nameResourceIdentifier": "Black Ruffles"
+}

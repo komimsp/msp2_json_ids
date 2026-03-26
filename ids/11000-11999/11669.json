@@ -1,0 +1,116 @@
+{
+  "created": "2023-06-16T11:13:29",
+  "id": "11669",
+  "modified": "2023-06-16T11:13:29",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "139",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_SWEATER",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "401",
+      "lookUpId": "TAG_MONTHLY_LOGIN_2023_8",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MONTHLY_LOGIN_2023_8",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.monthly_login"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "581",
+      "lookUpId": "TAG_LOGIN",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LOGIN",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#272727,#000000,#999999,#999999",
+      "Snapshot": "msp2_login_2023_aug_boytop_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_login_2023_aug_boytop_tk_bundle?msp2_login_2023_aug_boytop_tk_asset",
+  "lookUpId": "993abd59-e610-4db3-91ed-b830299a5f71",
+  "nameResourceIdentifier": "Play and Pause"
+}

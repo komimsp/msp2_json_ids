@@ -1,0 +1,131 @@
+{
+  "created": "2022-10-13T10:52:21",
+  "id": "9655",
+  "modified": "2024-10-07T10:45:43",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "89",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_HEADWEAR",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "325",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_WICKED_MAGICIAN_CAMPAIGN_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "781",
+      "lookUpId": "TAG_WICKED_MAGICIAN_CAMPAIGN_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_WICKED_MAGICIAN_CAMPAIGN_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#720909,#0D0D0D,#FFD819,#EEAE40,#000000",
+      "Snapshot": "msp2_wicked_2022_girlhat_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "headwear"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_wicked_2022_girlhat_tk_bundle?msp2_wicked_2022_girlhat_tk_asset",
+  "lookUpId": "73ff8924-4faf-4e3e-af94-2ceabe63ddf8",
+  "nameResourceIdentifier": "I Swear it's a Hat"
+}

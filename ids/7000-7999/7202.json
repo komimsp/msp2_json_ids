@@ -1,0 +1,133 @@
+{
+  "created": "2021-11-29T10:00:05",
+  "id": "7202",
+  "modified": "2024-11-28T12:54:24",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "90",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_HEADACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "193",
+      "lookUpId": "TAG_COSY_WINTER_DAYS_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_COSY_WINTER_DAYS_2021",
+          "type": "label"
+        },
+        {
+          "key": "cozy_winter_days_2021",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "483",
+      "lookUpId": "TAG_XMAS_THEME",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_THEME",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#BE481B,#999999,#FFFFCC",
+      "Snapshot": "msp2_cozyw_2021_cuttercrownu_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "headaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_cozyw_2021_cuttercrownu_ms_bundle?msp2_cozyw_2021_cuttercrownu_ms_asset",
+  "lookUpId": "505965f7-0800-4c8b-87b8-699ddfcc5588",
+  "nameResourceIdentifier": "Cake Master"
+}

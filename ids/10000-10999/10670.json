@@ -1,0 +1,99 @@
+{
+  "created": "2023-01-31T14:08:38",
+  "id": "10670",
+  "modified": "2024-10-09T05:52:22",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "77",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "124",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_MISC",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "363",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKYARD_BARBECUE_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#CD3232,#212121,#999999",
+      "Snapshot": "msp2_back_2023_apronb_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "jacket"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_back_2023_apronb_mmj_bundle?msp2_back_2023_apronb_mmj_asset",
+  "lookUpId": "5fa999a6-61b8-46d1-85d5-3f0c804d4c8f",
+  "nameResourceIdentifier": "Cooked Kisses"
+}

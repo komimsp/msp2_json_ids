@@ -1,0 +1,100 @@
+{
+  "created": "2021-02-01T09:59:21",
+  "id": "4885",
+  "modified": "2021-02-01T09:59:21",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "77",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "125",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_SHORT",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "688",
+      "lookUpId": "TAG_MADE_OF_STARS_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MADE_OF_STARS_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#095345,#E1D8D2,#FF6896,#00A1A3",
+      "Snapshot": "msp2_made_2021_corduroy_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "jacket"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_made_2021_corduroy_asd_bundle?msp2_made_2021_corduroy_asd_asset",
+  "lookUpId": "48404f39-33e4-45e5-975f-494bbed218cf",
+  "nameResourceIdentifier": "Curduroy Sky"
+}

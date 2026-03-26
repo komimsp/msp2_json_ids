@@ -1,0 +1,101 @@
+{
+  "created": "2025-01-17T10:59:59",
+  "id": "16354",
+  "modified": "2025-01-17T10:59:59",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "762",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_BLUSH",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "825",
+      "lookUpId": "TAG_FUZZY_FEELINGS_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FUZZY_FEELINGS_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FF0054,#BB1A1A,#FFFFFF",
+      "Snapshot": "msp2_fuzz_2025_blushg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "facedecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_fuzz_2025_blushg_asj_bundle?msp2_fuzz_2025_blushg_asj_asset",
+  "lookUpId": "msp2_fuzz_2025_blushg_asj",
+  "nameResourceIdentifier": "Soft Feelings"
+}

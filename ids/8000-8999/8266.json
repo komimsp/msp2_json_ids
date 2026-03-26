@@ -1,0 +1,101 @@
+{
+  "created": "2022-04-01T12:36:49",
+  "id": "8266",
+  "modified": "2024-08-07T12:41:09",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "111",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_FLATSHOES",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "234",
+      "lookUpId": "TAG_FLOWER_DANCE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FLOWER_DANCE_2022",
+          "type": "label"
+        },
+        {
+          "key": "flower_dance_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#FFC2C2,#88CFD4,#B1CBFF,#D6C3FF",
+      "Snapshot": "msp2_flower_2022_ballerinas_g_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "shoe"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_flower_2022_ballerinas_g_dg_bundle?msp2_flower_2022_ballerinas_g_dg_asset",
+  "lookUpId": "38382f58-77b2-4ea0-9933-950c11b6f2ba",
+  "nameResourceIdentifier": "Blossom Steps"
+}

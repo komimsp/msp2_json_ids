@@ -1,0 +1,70 @@
+{
+  "created": "2025-01-21T13:06:18",
+  "id": "16410",
+  "modified": "2025-01-21T13:06:18",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "729",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_INTERIOR",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "826",
+      "lookUpId": "TAG_BADDIE_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BADDIE_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_badd_2025_bg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_badd_2025_bg_asj",
+  "lookUpId": "64e504b4-22ca-4102-9582-63b1b75ad8b7",
+  "nameResourceIdentifier": "Baddie"
+}

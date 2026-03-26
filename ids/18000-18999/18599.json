@@ -1,0 +1,98 @@
+{
+  "created": "2025-10-31T08:44:39",
+  "id": "18599",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "613",
+      "lookUpId": "TAG_PET_WALKING",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET_WALKING",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.items.185"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "1003",
+      "lookUpId": "TAG_SEASON_PETSTORE_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SEASON_PETSTORE_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#632608,#F80000,#E59A00,#D47A65",
+      "Snapshot": "msp2_pet_xmas_2025_snowtroll_dg_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_pet_xmas_2025_snowtroll_dg_prop",
+  "lookUpId": "msp2_pet_xmas_2025_snowtroll_dg_prop",
+  "nameResourceIdentifier": "Knut"
+}

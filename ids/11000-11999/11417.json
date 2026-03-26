@@ -1,0 +1,99 @@
+{
+  "created": "2023-05-10T08:45:57",
+  "id": "11417",
+  "modified": "2023-05-10T08:45:57",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "91",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_JEWELLERY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "387",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SEA_FANTASY_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#F6F6F9,#EADBB5,#F3F5FF",
+      "Snapshot": "msp2_sea_2023_necklaceb_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "necklace"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_sea_2023_necklaceb_mmj_bundle?msp2_sea_2023_necklaceb_mmj_asset",
+  "lookUpId": "f05cbe7a-ed8b-4231-8f16-241f0f1a1a1c",
+  "nameResourceIdentifier": "Sea Floor"
+}

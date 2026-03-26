@@ -1,0 +1,100 @@
+{
+  "created": "2021-07-16T10:21:25",
+  "id": "6049",
+  "modified": "2021-07-16T10:21:25",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "99",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_SWEATPANTS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "712",
+      "lookUpId": "TAG_PASTEL_SPORT_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PASTEL_SPORT_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#DCB9FE,#FFFFFF,#333333",
+      "Snapshot": "msp2_pastel_2021_girljoggers_ng_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_pastel_2021_girljoggers_ng_bundle?msp2_pastel_2021_girljoggers_ng_asset",
+  "lookUpId": "454f89d8-fd9e-4e41-8967-82bf6b674971",
+  "nameResourceIdentifier": "Gone Dancing"
+}

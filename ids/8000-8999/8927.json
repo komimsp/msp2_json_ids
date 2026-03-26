@@ -1,0 +1,100 @@
+{
+  "created": "2022-07-05T13:45:20",
+  "id": "8927",
+  "modified": "2024-10-10T10:38:37",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "286",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GOTH_AGE_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "763",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_EYESHADOW",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#000000,#000000",
+      "Snapshot": "msp2_goth_2022_eyeshadowb_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "eyeshadow"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_goth_2022_eyeshadowb_mmj_bundle?msp2_goth_2022_eyeshadowb_mmj_asset",
+  "lookUpId": "ba7b7b8b-6c86-4572-afcc-a4368ac0747e",
+  "nameResourceIdentifier": "Flaming Black"
+}

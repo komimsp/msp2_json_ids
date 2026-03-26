@@ -1,0 +1,134 @@
+{
+  "created": "2024-09-25T07:22:20",
+  "id": "15324",
+  "modified": "2024-09-25T07:22:20",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "604",
+      "lookUpId": "TAG_HALLOWEEN_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HALLOWEEN_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "610",
+      "lookUpId": "TAG_PUM_PUM_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PUM_PUM_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "763",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_EYESHADOW",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#000000",
+      "Snapshot": "msp2_pum_2024_smudgemakeg_preview"
+    },
+    "MSP2Data": {
+      "Type": "eyeshadow"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_pum_2024_smudgemakeg_bundle?msp2_pum_2024_smudgemakeg_asset",
+  "lookUpId": "msp2_pum_2024_smudgemakeg",
+  "nameResourceIdentifier": "Sad Emo"
+}

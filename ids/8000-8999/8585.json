@@ -1,0 +1,101 @@
+{
+  "created": "2022-05-12T06:36:18",
+  "id": "8585",
+  "modified": "2022-05-12T06:36:18",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "126",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "128",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_MAXI",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "246",
+      "lookUpId": "TAG_BE_MINE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BE_MINE_2022",
+          "type": "label"
+        },
+        {
+          "key": "be_mine_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#F3E9E9,#FFFFFF,#FFFFFF",
+      "Snapshot": "msp2_bemine_2022_bigskirtg_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_bemine_2022_bigskirtg_mmj_bundle?msp2_bemine_2022_bigskirtg_mmj_asset",
+  "lookUpId": "afb3d14c-340b-4157-bd1d-c9d8e1838ce3",
+  "nameResourceIdentifier": "Beautiful Dream"
+}

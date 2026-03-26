@@ -1,0 +1,132 @@
+{
+  "created": "2024-03-26T11:33:16",
+  "id": "13812",
+  "modified": "2024-10-16T06:51:43",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "79",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_LONG",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "81",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_STRAIGHT",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "118",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_BUZZ",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "523",
+      "lookUpId": "TAG_SILLY_YOU_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SILLY_YOU_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#F1CC8F,#4F412F,#4F412F",
+      "Snapshot": "msp2_silly_2024_mulletb_dsn_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_silly_2024_mulletb_dsn_bundle?msp2_silly_2024_mulletb_dsn_asset",
+  "lookUpId": "msp2_silly_2024_mulletb_dsn",
+  "nameResourceIdentifier": "Is it Silly?"
+}

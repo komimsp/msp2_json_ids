@@ -1,0 +1,115 @@
+{
+  "created": "2023-02-06T15:53:04",
+  "id": "10768",
+  "modified": "2024-08-08T06:17:46",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "90",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_HEADACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "366",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LO_FI_INDIE_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#B3B3B3,#B3B3B3,#8F8F8F,#8F8F8F,#8F8F8F",
+      "Snapshot": "msp2_lofi_2023_headphonesu_dsn_preview"
+    },
+    "MSP2Data": {
+      "Type": "headaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_lofi_2023_headphonesu_dsn_bundle?msp2_lofi_2023_headphonesu_dsn_asset",
+  "lookUpId": "02adf1c4-5c7c-4cb7-85e1-1ff669a23c15",
+  "nameResourceIdentifier": "In Tune"
+}

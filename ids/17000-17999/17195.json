@@ -1,0 +1,87 @@
+{
+  "created": "2025-05-22T07:46:17",
+  "id": "17195",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "729",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_INTERIOR",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "730",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_SCHOOL",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "865",
+      "lookUpId": "TAG_LEFT_ON_READ_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LEFT_ON_READ_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "msp2_left_2025_bg_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_left_2025_bg_tk",
+  "lookUpId": "msp2_left_2025_bg_tk",
+  "nameResourceIdentifier": "Left on Read"
+}

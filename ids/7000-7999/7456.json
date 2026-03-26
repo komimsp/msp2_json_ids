@@ -1,0 +1,118 @@
+{
+  "created": "2021-12-29T15:05:18",
+  "id": "7456",
+  "modified": "2024-10-10T10:39:05",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "718",
+      "lookUpId": "TAG_SPACING_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SPACING_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "763",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_EYESHADOW",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#4A6C91,#061B31,#C4D9F0,#C4D9F0",
+      "Snapshot": "msp2_newyears21_2021_smokeyglitterb_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "eyeshadow"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_newyears21_2021_smokeyglitterb_dg_bundle?msp2_newyears21_2021_smokeyglitterb_dg_asset",
+  "lookUpId": "cb04af1c-01e7-42f5-aa08-b96c4a114758",
+  "nameResourceIdentifier": "Glittersmoke"
+}

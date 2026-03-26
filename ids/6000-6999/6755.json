@@ -1,0 +1,116 @@
+{
+  "created": "2021-10-18T09:39:57",
+  "id": "6755",
+  "modified": "2021-11-11T13:18:09",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "100",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_TIGHTS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "604",
+      "lookUpId": "TAG_HALLOWEEN_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HALLOWEEN_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "724",
+      "lookUpId": "TAG_CUTE_HALLOWEEN_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CUTE_HALLOWEEN_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FCFCFC,#4A4A8F,#1F2024",
+      "Snapshot": "msp2_hallo_2021_girltights_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "tights"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_hallo_2021_girltights_dg_bundle?msp2_hallo_2021_girltights_dg_asset",
+  "lookUpId": "73eb84d5-2fef-4dc4-9354-6682a7a58816",
+  "nameResourceIdentifier": "Closest Star"
+}

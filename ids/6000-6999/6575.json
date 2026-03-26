@@ -1,0 +1,85 @@
+{
+  "created": "2021-09-24T13:12:23",
+  "id": "6575",
+  "modified": "2024-09-16T13:32:33",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "721",
+      "lookUpId": "TAG_HAUNTED_CASTLE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAUNTED_CASTLE_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "729",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_INTERIOR",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "738",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_NIGHTTIME",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_haunted_2021_bg_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_haunted_2021_bg_ms",
+  "lookUpId": "cb2d1a84-3d14-491c-91ce-601b5e0f8c6d",
+  "nameResourceIdentifier": "Haunted Castle"
+}

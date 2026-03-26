@@ -1,0 +1,69 @@
+{
+  "created": "2022-07-19T11:32:44",
+  "id": "9044",
+  "modified": "2024-09-16T13:24:30",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "292",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PRIVATE_JET_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "731",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_CITY",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_jet_2022_bg_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_jet_2022_bg_lsz",
+  "lookUpId": "0cb53b15-b9fd-4059-b7c3-58e9b7d7a3e0",
+  "nameResourceIdentifier": "Private Jet"
+}

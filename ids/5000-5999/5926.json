@@ -1,0 +1,116 @@
+{
+  "created": "2021-06-25T09:17:33",
+  "id": "5926",
+  "modified": "2024-10-02T12:23:41",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "77",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "125",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_SHORT",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "709",
+      "lookUpId": "TAG_SWEET_GAL_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SWEET_GAL_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "751",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_CARDIGAN",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFACAC,#FFFFFF,#F86C82,#BDFFAC,#FFFCAC",
+      "Snapshot": "msp2_gal_2021_cardi_ng_preview"
+    },
+    "MSP2Data": {
+      "Type": "jacket"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_gal_2021_cardi_ng_bundle?msp2_gal_2021_cardi_ng_asset",
+  "lookUpId": "55311536-cb37-4fc3-bb6c-869c0b24dfe5",
+  "nameResourceIdentifier": "Cherries On Top"
+}

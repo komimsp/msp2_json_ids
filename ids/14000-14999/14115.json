@@ -1,0 +1,134 @@
+{
+  "created": "2024-05-10T11:14:27",
+  "id": "14115",
+  "modified": "2024-05-10T11:14:27",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "148",
+      "lookUpId": "tag_complexion",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_COMPLEXION",
+          "type": "label"
+        },
+        {
+          "key": "complexion",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "150",
+      "lookUpId": "tag_tattoo",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BODYART",
+          "type": "label"
+        },
+        {
+          "key": "bodyart",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "541",
+      "lookUpId": "TAG_SUMMER_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SUMMER_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "995",
+      "lookUpId": "TAG_SUMMER_QREWARD_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SUMMER_QREWARD_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#96FDFF,#FF86FA",
+      "Snapshot": "msp2_summerevent_2024_scalesb_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "torsodecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_summerevent_2024_scalesb_dg_bundle?msp2_summerevent_2024_scalesb_dg_asset",
+  "lookUpId": "msp2_summerevent_2024_scalesb_dg",
+  "nameResourceIdentifier": "Glimmer Scales"
+}

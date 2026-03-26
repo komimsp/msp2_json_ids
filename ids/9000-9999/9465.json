@@ -1,0 +1,118 @@
+{
+  "created": "2022-09-22T08:29:53",
+  "id": "9465",
+  "modified": "2024-08-21T13:20:23",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "146",
+      "lookUpId": "tag_eyes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EYES",
+          "type": "label"
+        },
+        {
+          "key": "eyes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "991",
+      "lookUpId": "TAG_HALLOWEEN_TIMELIMIT_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HALLOWEEN_TIMELIMIT_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#000000,#6B8AA0",
+      "Snapshot": "msp2_halloween_2022_xeyesg_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "eyes"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_halloween_2022_xeyesg_mmj_bundle?msp2_halloween_2022_xeyesg_mmj_asset",
+  "lookUpId": "6af124ea-b840-46e1-9981-18e6f42a70ca",
+  "nameResourceIdentifier": "X Vision"
+}

@@ -1,0 +1,101 @@
+{
+  "created": "2022-09-26T09:41:50",
+  "id": "9473",
+  "modified": "2024-08-21T13:23:48",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "143",
+      "lookUpId": "tag_nose",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_NOSE",
+          "type": "label"
+        },
+        {
+          "key": "nose",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "991",
+      "lookUpId": "TAG_HALLOWEEN_TIMELIMIT_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HALLOWEEN_TIMELIMIT_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#999999",
+      "Snapshot": "msp2_halloween_2022_noseb_fj_preview"
+    },
+    "MSP2Data": {
+      "Type": "nose"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_halloween_2022_noseb_fj_bundle?msp2_halloween_2022_noseb_fj_asset",
+  "lookUpId": "e4b0f45f-52fb-45c5-8128-94d42478246d",
+  "nameResourceIdentifier": "Septumore"
+}

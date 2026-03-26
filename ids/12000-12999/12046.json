@@ -1,0 +1,100 @@
+{
+  "created": "2023-08-01T12:01:54",
+  "id": "12046",
+  "modified": "2023-08-01T12:01:54",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "126",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "128",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_MAXI",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "408",
+      "lookUpId": "TAG_THIRD_EYE_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_THIRD_EYE_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#99AF7F,#909D7D,#858F7A",
+      "Snapshot": "msp2_third_2023_longskirtg_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_third_2023_longskirtg_mmj_bundle?msp2_third_2023_longskirtg_mmj_asset",
+  "lookUpId": "541f50b3-d21d-4fe2-b013-80334115e17e",
+  "nameResourceIdentifier": "Dried Flowers"
+}

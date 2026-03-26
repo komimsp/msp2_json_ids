@@ -1,0 +1,101 @@
+{
+  "created": "2022-03-08T12:31:38",
+  "id": "8010",
+  "modified": "2022-03-08T12:31:38",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "100",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_TIGHTS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "227",
+      "lookUpId": "TAG_RHINESTONE_COWBOY_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RHINESTONE_COWBOY_2022",
+          "type": "label"
+        },
+        {
+          "key": "rhinestone_cowboy_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#E5B48E,#232323",
+      "Snapshot": "msp2_rhine_2022_tightsg_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "tights"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_rhine_2022_tightsg_hhp_bundle?msp2_rhine_2022_tightsg_hhp_asset",
+  "lookUpId": "c4747cc2-2da3-4f5d-9ffe-a929fb366ff1",
+  "nameResourceIdentifier": "I'm Tribing"
+}

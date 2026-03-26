@@ -1,0 +1,67 @@
+{
+  "created": "2022-02-07T15:16:05",
+  "id": "7836",
+  "modified": "2022-08-11T10:26:50",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "213",
+      "lookUpId": "TAG_FLUFFY_FAIRYTALE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FLUFFY_FAIRYTALE_2022",
+          "type": "label"
+        },
+        {
+          "key": "fluffy_fairytale_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "257",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_BASIC",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_2022_blush_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_2021_blush_lsz",
+  "lookUpId": "a20230fa-089f-4d4f-809f-efbf307c3224",
+  "nameResourceIdentifier": "Blush"
+}

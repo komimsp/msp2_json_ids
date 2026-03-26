@@ -1,0 +1,117 @@
+{
+  "created": "2020-12-04T10:49:35",
+  "id": "4435",
+  "modified": "2020-12-04T10:49:35",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "109",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_PARTY",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "681",
+      "lookUpId": "TAG_POSH_XMAS_2020",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_POSH_XMAS_2020",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#0D1983",
+      "Snapshot": "msp2_posh_2020_dress_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom,top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_posh_2020_dress_asj_bundle?msp2_posh_2020_dress_asj_asset",
+  "lookUpId": "fb99a5b9-ea83-4064-82bd-11d4c3868930",
+  "nameResourceIdentifier": "Christmas Blues"
+}

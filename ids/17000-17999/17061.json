@@ -1,0 +1,70 @@
+{
+  "created": "2025-04-15T14:49:29",
+  "id": "17061",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "729",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_INTERIOR",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "860",
+      "lookUpId": "TAG_XTRA_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XTRA_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_xtra_bg_2025_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_xtra_bg_2025_lsz",
+  "lookUpId": "f2705ebc-4ed1-4555-9831-614ecd7a948c",
+  "nameResourceIdentifier": "Xtra"
+}

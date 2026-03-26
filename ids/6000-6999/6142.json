@@ -1,0 +1,85 @@
+{
+  "created": "2021-07-29T11:55:20",
+  "id": "6142",
+  "modified": "2024-09-17T06:49:50",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "714",
+      "lookUpId": "TAG_CAREFREE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CAREFREE_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "731",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_CITY",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "739",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_MISC",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_care_2021_bg_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_care_2021_bg_ms",
+  "lookUpId": "16d79521-1ca8-4241-a501-bf47f10e2f09",
+  "nameResourceIdentifier": "Carefree"
+}

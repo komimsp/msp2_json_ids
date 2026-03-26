@@ -1,0 +1,132 @@
+{
+  "created": "2022-05-31T12:23:19",
+  "id": "8687",
+  "modified": "2022-06-17T11:49:09",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "88",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_GLASSES",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "911",
+      "lookUpId": "TAG_RARE_WEEK_PLAZA_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SPRING_RARES_PLAZA",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.rare"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "990",
+      "lookUpId": "TAG_SUMMER_TIMELIMIT_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SUMMER_TIMELIMIT_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#CC00CC",
+      "Snapshot": "msp2_2022_summer_glassesg_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "glasses"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_2022_summer_glassesg_hhp_bundle?msp2_2022_summer_glassesg_hhp_asset",
+  "lookUpId": "e1ccb501-32b1-4872-95fd-23b61db81665",
+  "nameResourceIdentifier": "Papillon"
+}

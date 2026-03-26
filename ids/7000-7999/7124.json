@@ -1,0 +1,101 @@
+{
+  "created": "2021-11-26T12:03:28",
+  "id": "7124",
+  "modified": "2021-11-26T12:03:28",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "94",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_JEANS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "194",
+      "lookUpId": "TAG_WINTER_SOLSTICE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_WINTER_SOLSTICE_2021",
+          "type": "label"
+        },
+        {
+          "key": "winter_solstice_2021",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#000033,#B87521,#FDB23D,#B87521",
+      "Snapshot": "msp2_sol_2021_starpantsg_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_sol_2021_starpantsg_hhp_bundle?msp2_sol_2021_starpantsg_hhp_asset",
+  "lookUpId": "cbfbf16a-be25-492e-a031-02ad051536da",
+  "nameResourceIdentifier": "Sun and Moon"
+}

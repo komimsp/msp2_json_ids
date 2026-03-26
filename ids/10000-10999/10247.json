@@ -1,0 +1,99 @@
+{
+  "created": "2022-12-12T15:28:03",
+  "id": "10247",
+  "modified": "2022-12-12T15:28:03",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "91",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_JEWELLERY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "350",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ALL_THAT_GLITTERS_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#A6BCEE,#F6F1F0",
+      "Snapshot": "msp2_all_2023_necklaceg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "necklace"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_all_2023_necklaceg_asj_bundle?msp2_all_2023_necklaceg_asj_asset",
+  "lookUpId": "d3304ebd-671f-48cb-9463-3a5f11ac6129",
+  "nameResourceIdentifier": "Up Close"
+}

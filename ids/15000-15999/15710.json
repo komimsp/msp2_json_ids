@@ -1,0 +1,116 @@
+{
+  "created": "2024-11-01T08:55:59",
+  "id": "15710",
+  "modified": "2024-11-01T11:27:44",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "77",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "125",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_SHORT",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "750",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_HOODIE",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "772",
+      "lookUpId": "TAG_DREAM_PUFFS_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DREAM_PUFFS_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#E2B6C2,#E3A3A3",
+      "Snapshot": "msp2_dream_2024_fluffcardig_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "jacket"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_dream_2024_fluffcardig_mmj_bundle?msp2_dream_2024_fluffcardig_mmj_asset",
+  "lookUpId": "msp2_dream_2024_fluffcardig_mmj",
+  "nameResourceIdentifier": "Fluff & Puff"
+}

@@ -1,0 +1,100 @@
+{
+  "created": "2023-08-01T12:19:07",
+  "id": "12052",
+  "modified": "2023-08-01T12:19:07",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "91",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_JEWELLERY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "408",
+      "lookUpId": "TAG_THIRD_EYE_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_THIRD_EYE_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#D4AA53,#B179FF,#FFE2F9,#FFA0B5,#5FA07A",
+      "Snapshot": "msp2_third_2023_crystalneckg_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "necklace"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_third_2023_crystalneckg_dg_bundle?msp2_third_2023_crystalneckg_dg_asset",
+  "lookUpId": "01e60a62-e5ea-4924-b3d4-bbf36113dab5",
+  "nameResourceIdentifier": "Crystal Healing"
+}

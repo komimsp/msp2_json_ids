@@ -1,0 +1,116 @@
+{
+  "created": "2020-10-30T11:03:05",
+  "id": "4148",
+  "modified": "2020-10-30T11:03:05",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "88",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_GLASSES",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "676",
+      "lookUpId": "TAG_MSP_MANSION_2020",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MSP_MANSION_2020",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#8BA3BC,#AFCEE9,#EAD070,#DA9A8F",
+      "Snapshot": "msp2_mansion_2020_glasses_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "glasses"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_mansion_2020_glasses_lsz_bundle?msp2_mansion_2020_glasses_lsz_asset",
+  "lookUpId": "cfdbadf0-ab56-49d6-ab3f-10f241f85e14",
+  "nameResourceIdentifier": "Many Shades"
+}

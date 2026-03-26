@@ -1,0 +1,81 @@
+{
+  "created": "2024-05-21T10:33:11",
+  "id": "14147",
+  "modified": "2024-09-10T07:17:18",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "613",
+      "lookUpId": "TAG_PET_WALKING",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET_WALKING",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.items.185"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "975",
+      "lookUpId": "TAG_NEW_YEARS_CAMPAIGN_2026",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_NEWYEAR_CAMPAIGN_2026",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#85837C,#FCF2ED,#AC9389",
+      "Snapshot": "msp2_pet_newyears_2022_greyhound_walk_color_fj_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_pet_newyears_2022_greyhound_walk_color_fj_prop",
+  "lookUpId": "msp2_pet_newyears_2022_greyhound_walk_color_fj_prop",
+  "nameResourceIdentifier": "Knobby Jr"
+}

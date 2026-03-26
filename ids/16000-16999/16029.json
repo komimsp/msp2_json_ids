@@ -1,0 +1,100 @@
+{
+  "created": "2024-12-04T11:15:10",
+  "id": "16029",
+  "modified": "2024-12-04T12:51:33",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "742",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_SWEATSHIRT",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "778",
+      "lookUpId": "TAG_SHIMMER_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SHIMMER_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#ECF3FF,#97D7F3,#4771D4,#183F8A,#C6F1F0",
+      "Snapshot": "msp2_shimm_2024_landscapesweatg_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_shimm_2024_landscapesweatg_tk_bundle?msp2_shimm_2024_landscapesweatg_tk_asset",
+  "lookUpId": "msp2_shimm_2024_landscapesweatg_tk",
+  "nameResourceIdentifier": "Landscape of my Dreams"
+}

@@ -1,0 +1,100 @@
+{
+  "created": "2021-02-12T12:33:28",
+  "id": "4985",
+  "modified": "2021-02-12T12:33:28",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "92",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_MISC",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "690",
+      "lookUpId": "TAG_DARK_ROSE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DARK_ROSE_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#333333,#999999",
+      "Snapshot": "msp2_darkrose_2021_boycorset_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "torsoaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_darkrose_2021_boycorset_ms_bundle?msp2_darkrose_2021_boycorset_ms_asset",
+  "lookUpId": "7645bc70-3154-4f23-9139-7505429be676",
+  "nameResourceIdentifier": "Of Corset Is"
+}

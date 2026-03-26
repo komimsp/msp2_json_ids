@@ -1,0 +1,67 @@
+{
+  "created": "2022-01-18T13:43:41",
+  "id": "7684",
+  "modified": "2022-05-31T10:19:31",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "208",
+      "lookUpId": "TAG_HIGH_ON_LIFE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HIGH_ON_LIFE_2022",
+          "type": "label"
+        },
+        {
+          "key": "high_on_life_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "262",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_SOCIAL",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_high_2022_curtsy_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_high_2022_curtsy",
+  "lookUpId": "50245bd9-b3c9-4e40-a367-ab0e22943240",
+  "nameResourceIdentifier": "Courtsy"
+}

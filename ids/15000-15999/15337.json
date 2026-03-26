@@ -1,0 +1,101 @@
+{
+  "created": "2024-09-27T07:01:15",
+  "id": "15337",
+  "modified": "2024-09-27T08:48:11",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "144",
+      "lookUpId": "tag_mouth",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOUTH",
+          "type": "label"
+        },
+        {
+          "key": "mouth",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "769",
+      "lookUpId": "TAG_HALLOWEEN_MAGIC_CAMPAIGN_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HALLOWEEN_MAGIC_CAMPAIGN_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#CC3350,#660000",
+      "Snapshot": "msp2_hallomagicamp_2024_mouthg_fj_preview"
+    },
+    "MSP2Data": {
+      "Type": "mouth"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_hallomagicamp_2024_mouthg_fj_bundle?msp2_hallomagicamp_2024_mouthg_fj_asset",
+  "lookUpId": "msp2_hallomagicamp_2024_mouthg_fj",
+  "nameResourceIdentifier": "Undead Beauty"
+}

@@ -1,0 +1,100 @@
+{
+  "created": "2021-09-27T08:08:07",
+  "id": "6588",
+  "modified": "2024-11-07T14:34:04",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "721",
+      "lookUpId": "TAG_HAUNTED_CASTLE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAUNTED_CASTLE_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "743",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_BLOUSE",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#DED9CD,#333333",
+      "Snapshot": "msp2_haunted_2021_frilltop_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_haunted_2021_frilltop_asd_bundle?msp2_haunted_2021_frilltop_asd_asset",
+  "lookUpId": "e94f8035-eea0-4f1c-96bf-e0328306939d",
+  "nameResourceIdentifier": "Victorian Era"
+}

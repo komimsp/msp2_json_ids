@@ -1,0 +1,81 @@
+{
+  "created": "2024-09-16T11:46:13",
+  "id": "15139",
+  "modified": "2024-09-16T11:46:13",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "613",
+      "lookUpId": "TAG_PET_WALKING",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET_WALKING",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.items.185"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "728",
+      "lookUpId": "TAG_DENIM_CAMPAIGN_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DENIM_CAMPAIGN_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#6BB2E6,#FFFFFF,#57D5FC,#FFFFFF",
+      "Snapshot": "msp2_pet_denimcamp2_boonie_2024_dg_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_pet_denimcamp2_boonie_2024_dg_prop",
+  "lookUpId": "msp2_pet_denimcamp2_boonie_2024_dg_prop",
+  "nameResourceIdentifier": "Distressed Bon"
+}

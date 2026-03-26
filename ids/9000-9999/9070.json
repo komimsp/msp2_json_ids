@@ -1,0 +1,84 @@
+{
+  "created": "2022-07-20T11:56:00",
+  "id": "9070",
+  "modified": "2022-07-20T11:56:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "116",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_SOCKS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF",
+      "Snapshot": "msp2_hara_2022_lacesocksg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "socks"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_hara_2022_lacesocksg_asj_bundle?msp2_hara_2022_lacesocksg_asj_asset",
+  "lookUpId": "60b344ce-95c5-4b4d-b71b-4c9019c50724",
+  "nameResourceIdentifier": "Pretty Dainty"
+}

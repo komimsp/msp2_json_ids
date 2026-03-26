@@ -1,0 +1,117 @@
+{
+  "created": "2023-04-18T13:06:43",
+  "id": "11283",
+  "modified": "2023-04-18T13:06:43",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "150",
+      "lookUpId": "tag_tattoo",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BODYART",
+          "type": "label"
+        },
+        {
+          "key": "bodyart",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "380",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ICE_CREAM_DREAM_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#333333,#FF6600",
+      "Snapshot": "msp2_ice_2023_tatou_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "rightarmdecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_ice_2023_tatou_lsz_bundle?msp2_ice_2023_tatou_lsz_asset",
+  "lookUpId": "878cf7bd-b06e-474b-8803-a12e64e35c26",
+  "nameResourceIdentifier": "To Be"
+}

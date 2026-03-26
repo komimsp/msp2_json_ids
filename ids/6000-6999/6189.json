@@ -1,0 +1,69 @@
+{
+  "created": "2021-08-06T07:40:39",
+  "id": "6189",
+  "modified": "2024-09-16T13:33:55",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "715",
+      "lookUpId": "TAG_HOLIDAY_IN_THE_CITY_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HOLIDAY_IN_THE_CITY_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "731",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_CITY",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_holi_2021_bg_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_holi_2021_bg_ms",
+  "lookUpId": "001ddc93-ee1e-412d-96fc-121be1e8967d",
+  "nameResourceIdentifier": "Holiday In The City"
+}

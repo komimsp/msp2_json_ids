@@ -1,0 +1,117 @@
+{
+  "created": "2022-04-19T11:35:31",
+  "id": "8422",
+  "modified": "2022-04-19T11:35:31",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "136",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_MISC",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "240",
+      "lookUpId": "TAG_EGMONT_ISSUE_111_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EGMONT_ISSUE_111_2022",
+          "type": "label"
+        },
+        {
+          "key": "egmont_issue_111_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.licensing"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "582",
+      "lookUpId": "TAG_MAGAZINE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAGAZINE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#439E16",
+      "Snapshot": "msp2_egmont111_2022_topg_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_egmont111_2022_topg_asd_bundle?msp2_egmont111_2022_topg_asd_asset",
+  "lookUpId": "c82b5bef-40cd-4e96-a5c3-78ae48182741",
+  "nameResourceIdentifier": "Summer Greens"
+}

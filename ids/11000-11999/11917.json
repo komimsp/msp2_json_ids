@@ -1,0 +1,100 @@
+{
+  "created": "2023-07-14T12:13:20",
+  "id": "11917",
+  "modified": "2023-07-14T12:13:20",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "99",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_SWEATPANTS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "409",
+      "lookUpId": "TAG_DRESS_UP_DOLL_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_UP_DOLL_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FF3399,#91B6E9,#FFFFFF,#212121",
+      "Snapshot": "msp2_dress_2023_jogggersg_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_dress_2023_jogggersg_mmj_bundle?msp2_dress_2023_jogggersg_mmj_asset",
+  "lookUpId": "51a45b55-592b-48f6-97fc-cfd6ad42f00f",
+  "nameResourceIdentifier": "Word on The Street"
+}

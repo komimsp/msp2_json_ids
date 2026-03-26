@@ -1,0 +1,100 @@
+{
+  "created": "2021-01-15T11:19:58",
+  "id": "4751",
+  "modified": "2021-01-15T11:19:58",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "116",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_SOCKS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "686",
+      "lookUpId": "TAG_GRANDMAS_HOUSE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GRANDMAS_HOUSE_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#95BFCD",
+      "Snapshot": "msp2_grandma_2021_sockgirl_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "socks"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_grandma_2021_sockgirl_asj_bundle?msp2_grandma_2021_sockgirl_asj_asset",
+  "lookUpId": "bc46b4fc-9497-4554-b9d5-2594644bddbe",
+  "nameResourceIdentifier": "Cute Crawlers"
+}

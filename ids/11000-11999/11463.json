@@ -1,0 +1,84 @@
+{
+  "created": "2023-05-22T10:21:51",
+  "id": "11463",
+  "modified": "2023-05-22T10:21:51",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "144",
+      "lookUpId": "tag_mouth",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOUTH",
+          "type": "label"
+        },
+        {
+          "key": "mouth",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "390",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ESSENCE_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#CF9E90",
+      "Snapshot": "msp2_ess_2023_mouthb_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "mouth"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_ess_2023_mouthb_mmj_bundle?msp2_ess_2023_mouthb_mmj_asset",
+  "lookUpId": "b9bf8d48-02b3-47b1-a345-0c9f91086d48",
+  "nameResourceIdentifier": "B Boy"
+}

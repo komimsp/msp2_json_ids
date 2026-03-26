@@ -1,0 +1,83 @@
+{
+  "created": "2024-01-05T11:09:18",
+  "id": "13201",
+  "modified": "2024-01-05T11:15:21",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "259",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_DANCES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "487",
+      "lookUpId": "TAG_ONE_MORE_TIME_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ONE_MORE_TIME_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_one_2024_dance2_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_one_2024_dance2_lsz",
+  "lookUpId": "4dd01b66-1d84-46a8-a388-388ddd4cdf39",
+  "nameResourceIdentifier": "One More Time"
+}

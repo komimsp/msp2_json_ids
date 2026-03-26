@@ -1,0 +1,100 @@
+{
+  "created": "2021-09-02T13:27:46",
+  "id": "6347",
+  "modified": "2021-09-02T13:35:31",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "97",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_SHORTS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "719",
+      "lookUpId": "TAG_DAYDREAMER_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DAYDREAMER_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFDA,#5C3B3B,#FFC71E,#FF7C26",
+      "Snapshot": "msp2_day_2021_scarfshorts_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_day_2021_scarfshorts_dg_bundle?msp2_day_2021_scarfshorts_dg_asset",
+  "lookUpId": "3d4ab129-d7ac-4597-94a9-0d48e2e747d3",
+  "nameResourceIdentifier": "Sunset Stroll"
+}

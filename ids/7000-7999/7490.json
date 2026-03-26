@@ -1,0 +1,117 @@
+{
+  "created": "2022-01-06T12:01:06",
+  "id": "7490",
+  "modified": "2022-01-06T12:01:06",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "92",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_MISC",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "202",
+      "lookUpId": "TAG_SLOPES_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SLOPES_2022",
+          "type": "label"
+        },
+        {
+          "key": "slopes_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#799EC3,#243A4F,#FFFFFF,#7E848F",
+      "Snapshot": "msp2_slope_2021_goggles_u_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "neckaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_slope_2021_goggles_u_asd_bundle?msp2_slope_2021_goggles_u_asd_asset",
+  "lookUpId": "367a4f03-1a30-4128-aac2-3fe58209ff6f",
+  "nameResourceIdentifier": "I See Snow"
+}

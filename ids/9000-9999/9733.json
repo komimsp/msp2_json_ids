@@ -1,0 +1,82 @@
+{
+  "created": "2022-10-26T08:50:13",
+  "id": "9733",
+  "modified": "2022-10-26T08:50:13",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "264",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_SPECIAL",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "785",
+      "lookUpId": "TAG_XMAS_2024_BEACH",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_BEACH",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_xmas_2022_frostmagic_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_xmas_2022_frostmagic_lsz",
+  "lookUpId": "5b366f36-6e7f-47a4-9e6b-4d8f0ae8d603",
+  "nameResourceIdentifier": "Frosty Magic"
+}

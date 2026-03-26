@@ -1,0 +1,99 @@
+{
+  "created": "2023-01-12T13:47:38",
+  "id": "10489",
+  "modified": "2023-01-12T13:47:38",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "116",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_SOCKS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "357",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAGICAL_DOLL_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#D1C2FF,#B6DDFF,#FFF2C0,#FFD3E4,#7697F7",
+      "Snapshot": "msp2_magic_2023_kneesocksg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "socks"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_magic_2023_kneesocksg_asj_bundle?msp2_magic_2023_kneesocksg_asj_asset",
+  "lookUpId": "f136f7a5-20c2-4816-a029-c46bedb9a89c",
+  "nameResourceIdentifier": "Pastel Magic"
+}

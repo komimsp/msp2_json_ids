@@ -1,0 +1,82 @@
+{
+  "created": "2022-10-26T08:51:18",
+  "id": "9734",
+  "modified": "2022-10-26T08:51:18",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "264",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_SPECIAL",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "784",
+      "lookUpId": "TAG_XMAS_2024_PLAZA",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_PLAZA",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_xmas_2022_candyfall_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_xmas_2022_candyfall_lsz",
+  "lookUpId": "ee2d07bd-82fc-4369-9033-dbd727a8cdfb",
+  "nameResourceIdentifier": "Lots of Candies"
+}

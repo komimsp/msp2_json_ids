@@ -1,0 +1,130 @@
+{
+  "created": "2021-09-10T07:30:12",
+  "id": "6454",
+  "modified": "2024-11-08T07:19:24",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "298",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RARE_WEEK_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "311",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RARE_WEEK_DAY_3_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.rare"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "577",
+      "lookUpId": "TAG_RARE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RARE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "744",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_SLEEVELESS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#FF0000,#FF9999",
+      "Snapshot": "msp2_rare_2021_twintop_fj_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_rare_2021_twintop_fj_bundle?msp2_rare_2021_twintop_fj_asset",
+  "lookUpId": "4e8b2d81-ae9d-4675-8b6e-727ddbd216dd",
+  "nameResourceIdentifier": "Twin Hearts"
+}

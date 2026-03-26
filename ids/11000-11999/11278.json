@@ -1,0 +1,99 @@
+{
+  "created": "2023-04-18T13:00:05",
+  "id": "11278",
+  "modified": "2023-04-18T13:00:05",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "97",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_SHORTS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "380",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ICE_CREAM_DREAM_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#A5DBFF,#AEF6DD,#212121,#FFFFFF",
+      "Snapshot": "msp2_ice_2023_paisleyshortb_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_ice_2023_paisleyshortb_mmj_bundle?msp2_ice_2023_paisleyshortb_mmj_asset",
+  "lookUpId": "d6376ea5-ba0c-4558-b20f-d6563a819b35",
+  "nameResourceIdentifier": "Ice Cold Slushie"
+}

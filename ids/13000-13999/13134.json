@@ -1,0 +1,100 @@
+{
+  "created": "2024-01-02T12:37:03",
+  "id": "13134",
+  "modified": "2024-11-07T14:08:24",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "486",
+      "lookUpId": "TAG_BEAR_WITH_ME_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAR_WITH_ME_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "741",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_VEST",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#E4BBA2,#AE6F54,#AE6F54",
+      "Snapshot": "msp2_bear_2024_tieshirtvestg_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_bear_2024_tieshirtvestg_lsz_bundle?msp2_bear_2024_tieshirtvestg_lsz_asset",
+  "lookUpId": "msp2_bear_2024_tieshirtvestg_lsz",
+  "nameResourceIdentifier": "Three Little Bears"
+}

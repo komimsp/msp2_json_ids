@@ -1,0 +1,135 @@
+{
+  "created": "2021-11-26T12:36:00",
+  "id": "7145",
+  "modified": "2024-11-28T13:01:03",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "194",
+      "lookUpId": "TAG_WINTER_SOLSTICE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_WINTER_SOLSTICE_2021",
+          "type": "label"
+        },
+        {
+          "key": "winter_solstice_2021",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "762",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_BLUSH",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#E7674F,#AEB1BD,#FFEBC3",
+      "Snapshot": "msp2_sol_2021_facetatu_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "facedecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_sol_2021_facetatu_hhp_bundle?msp2_sol_2021_facetatu_hhp_asset",
+  "lookUpId": "0471b099-3bac-4e5d-8705-e065fd95f605",
+  "nameResourceIdentifier": "What's My Sign"
+}

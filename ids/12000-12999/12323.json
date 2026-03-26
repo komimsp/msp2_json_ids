@@ -1,0 +1,100 @@
+{
+  "created": "2023-09-12T12:50:21",
+  "id": "12323",
+  "modified": "2023-09-12T12:50:21",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "86",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_BAG",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "439",
+      "lookUpId": "TAG_WOODLAND_PICNIC_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_WOODLAND_PICNIC_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#BD9673,#EA630A,#973213,#CA8455,#EA903E",
+      "Snapshot": "msp2_wood_2023_basketbagu_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "handbag"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_wood_2023_basketbagu_dg_bundle?msp2_wood_2023_basketbagu_dg_asset",
+  "lookUpId": "msp2_wood_2023_basketbagu_dg",
+  "nameResourceIdentifier": "A Basket of Fall"
+}

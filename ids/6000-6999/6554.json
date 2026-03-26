@@ -1,0 +1,100 @@
+{
+  "created": "2021-09-24T12:20:50",
+  "id": "6554",
+  "modified": "2024-11-05T12:11:28",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "721",
+      "lookUpId": "TAG_HAUNTED_CASTLE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAUNTED_CASTLE_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "743",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_BLOUSE",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#272727,#272727",
+      "Snapshot": "msp2_haunted_2021_sheertop_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_haunted_2021_sheertop_hhp_bundle?msp2_haunted_2021_sheertop_hhp_asset",
+  "lookUpId": "f5183131-ca47-4d99-a103-480cfa9a12d6",
+  "nameResourceIdentifier": "Midnight Dinner"
+}

@@ -1,0 +1,98 @@
+{
+  "created": "2024-11-05T14:33:04",
+  "id": "15777",
+  "modified": "2024-11-06T07:38:06",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "613",
+      "lookUpId": "TAG_PET_WALKING",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET_WALKING",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.items.185"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "783",
+      "lookUpId": "TAG_BROKEN_WINGS_CAMPAIGN_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BROKEN_WINGS_CAMPAIGN_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#FFA21B,#94DFFF",
+      "Snapshot": "msp2_pet_wingcamp_2024_dragon2_new_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_pet_wingcamp_2024_dragon2_new_prop",
+  "lookUpId": "msp2_pet_wingcamp_2024_dragon2_new_prop",
+  "nameResourceIdentifier": "Vorki 2nd"
+}

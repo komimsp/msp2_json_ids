@@ -1,0 +1,101 @@
+{
+  "created": "2025-05-22T07:46:17",
+  "id": "17199",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "762",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_BLUSH",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "865",
+      "lookUpId": "TAG_LEFT_ON_READ_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LEFT_ON_READ_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#EB9D9D",
+      "Snapshot": "msp2_left_2025_blushg_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "makeup"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_left_2025_blushg_dg_bundle?msp2_left_2025_blushg_dg_asset",
+  "lookUpId": "msp2_left_2025_blushg_dg",
+  "nameResourceIdentifier": "Note Flick"
+}

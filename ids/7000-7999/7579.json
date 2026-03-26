@@ -1,0 +1,118 @@
+{
+  "created": "2022-01-11T10:10:17",
+  "id": "7579",
+  "modified": "2024-11-28T07:44:15",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "106",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_MIDI",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "205",
+      "lookUpId": "TAG_YEAR_OF_THE_TIGER_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_YEAR_OF_THE_TIGER_2022",
+          "type": "label"
+        },
+        {
+          "key": "year_of_the_tiger_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#C70000,#121212",
+      "Snapshot": "msp2_tiger_2022_tigerdressg_fj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom,top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_tiger_2022_tigerdressg_fj_bundle?msp2_tiger_2022_tigerdressg_fj_asset",
+  "lookUpId": "4d9f0b47-c17b-4150-813e-59b5d0d2d8a5",
+  "nameResourceIdentifier": "Feline Power"
+}

@@ -1,0 +1,101 @@
+{
+  "created": "2023-10-05T06:03:28",
+  "id": "12489",
+  "modified": "2024-09-16T13:08:32",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "440",
+      "lookUpId": "TAG_PUMPKIN_NIGHT_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PUMPKIN_NIGHT_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "604",
+      "lookUpId": "TAG_HALLOWEEN_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HALLOWEEN_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "736",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_HOLIDAY",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "738",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_NIGHTTIME",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_pump_2023_bg_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_pump_2023_bg_ms",
+  "lookUpId": "e627f910-5d7f-4e65-8ddc-60515efbaf74",
+  "nameResourceIdentifier": "Pumpkin Night"
+}

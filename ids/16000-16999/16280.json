@@ -1,0 +1,99 @@
+{
+  "created": "2025-01-08T09:41:57",
+  "id": "16280",
+  "modified": "2025-01-08T09:41:57",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "258",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_SITTING",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "263",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_POSING",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "824",
+      "lookUpId": "TAG_GLOW_UP_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GLOW_UP_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_glow_2025_coveredsit_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_glow_2025_coveredsit_lsz",
+  "lookUpId": "bfac897f-4919-4823-af18-b8adeaaff5ea",
+  "nameResourceIdentifier": "Covered Face Card"
+}

@@ -1,0 +1,85 @@
+{
+  "created": "2024-06-18T10:36:39",
+  "id": "14449",
+  "modified": "2024-06-18T10:36:39",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "148",
+      "lookUpId": "tag_complexion",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_COMPLEXION",
+          "type": "label"
+        },
+        {
+          "key": "complexion",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "554",
+      "lookUpId": "TAG_BLUE_SKY_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BLUE_SKY_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#433024",
+      "Snapshot": "msp2_blue_2024_frecklesg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "complexion"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_blue_2024_frecklesg_asj_bundle?msp2_blue_2024_frecklesg_asj_asset",
+  "lookUpId": "msp2_blue_2024_frecklesg_asj",
+  "nameResourceIdentifier": "A Touch of Sun"
+}

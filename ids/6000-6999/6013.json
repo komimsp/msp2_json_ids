@@ -1,0 +1,100 @@
+{
+  "created": "2021-07-09T11:00:48",
+  "id": "6013",
+  "modified": "2021-07-09T11:00:48",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "91",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_JEWELLERY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "711",
+      "lookUpId": "TAG_ISOLATED_ISLAND_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ISOLATED_ISLAND_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#E69B00,#A2DBFB,#B4E59F",
+      "Snapshot": "msp2_isolated_2021_chains_boy_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "torsodecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_isolated_2021_chains_boy_lsz_bundle?msp2_isolated_2021_chains_boy_lsz_asset",
+  "lookUpId": "d5e8bed7-ad6d-4054-a500-faf16549f925",
+  "nameResourceIdentifier": "Small Things In Life"
+}

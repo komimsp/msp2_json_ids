@@ -1,0 +1,116 @@
+{
+  "created": "2020-10-15T11:50:50",
+  "id": "3965",
+  "modified": "2024-12-18T13:29:39",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "90",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_HEADACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "583",
+      "lookUpId": "TAG_CARD",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARD",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "809",
+      "lookUpId": "TAG_PANINI_TRADINGCARDS",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PANINI_TRADINGCARDS",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#7DB6E7,#BBBBBB,#B486EC",
+      "Snapshot": "msp2_panini_2020_acc_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "earrings"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_panini_2020_acc_asj_bundle?msp2_panini_2020_acc_asj_asset",
+  "lookUpId": "fc49a68b-32c9-4435-aa4c-783cd4b40980",
+  "nameResourceIdentifier": "Glitter Glam"
+}

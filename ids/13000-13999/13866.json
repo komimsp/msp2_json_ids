@@ -1,0 +1,83 @@
+{
+  "created": "2024-04-09T11:37:03",
+  "id": "13866",
+  "modified": "2024-04-09T11:37:03",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "263",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_POSING",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "529",
+      "lookUpId": "TAG_SHOWTIME_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SHOWTIME_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_show_2024_runway_dg_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_show_2024_runway_dg",
+  "lookUpId": "a181dfd8-aca4-4abb-b424-6fd95a6f432a",
+  "nameResourceIdentifier": "Bring It On"
+}

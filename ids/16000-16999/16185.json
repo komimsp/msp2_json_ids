@@ -1,0 +1,81 @@
+{
+  "created": "2024-12-30T11:20:42",
+  "id": "16185",
+  "modified": "2024-12-30T11:20:42",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "613",
+      "lookUpId": "TAG_PET_WALKING",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET_WALKING",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.items.185"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "822",
+      "lookUpId": "TAG_BLACK_WOLF_CAMPAIGN_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BLACK_WOLF_CAMPAIGN_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#201E1E,#FFFFFF,#5E4633,#BD9355",
+      "Snapshot": "msp2_pet_wolfcamp_2025_wolf_tk_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_pet_wolfcamp_2025_wolf_tk_prop",
+  "lookUpId": "msp2_pet_wolfcamp_2025_wolf_tk_prop",
+  "nameResourceIdentifier": "Fenrir"
+}

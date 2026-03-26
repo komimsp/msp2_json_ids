@@ -1,0 +1,101 @@
+{
+  "created": "2022-11-07T12:45:17",
+  "id": "9820",
+  "modified": "2024-08-20T08:12:20",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "147",
+      "lookUpId": "tag_brows",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BROWS",
+          "type": "label"
+        },
+        {
+          "key": "brows",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "989",
+      "lookUpId": "TAG_XMAS_TIMELIMIT_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_TIMELIMIT_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#C8B4A5",
+      "Snapshot": "msp2_xmas_2022_browsg_fj_preview"
+    },
+    "MSP2Data": {
+      "Type": "brows"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_xmas_2022_browsg_fj_bundle?msp2_xmas_2022_browsg_fj_asset",
+  "lookUpId": "9c4be99d-494a-4b19-9ca1-08afdb7745e5",
+  "nameResourceIdentifier": "Glittery Mood"
+}

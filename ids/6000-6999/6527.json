@@ -1,0 +1,100 @@
+{
+  "created": "2021-09-17T13:35:52",
+  "id": "6527",
+  "modified": "2024-06-17T09:06:56",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "104",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_FORMAL",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "720",
+      "lookUpId": "TAG_RED_MAPLE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RED_MAPLE_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFE2C8,#9E2222,#A01313,#FFB537,#5B5E7C",
+      "Snapshot": "msp2_red_2021_kimonoset_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_red_2021_kimonoset_tk_bundle?msp2_red_2021_kimonoset_tk_asset",
+  "lookUpId": "9fee9409-3354-4f2d-893a-4b6d3a9a7eed",
+  "nameResourceIdentifier": "Autumn Kimono"
+}

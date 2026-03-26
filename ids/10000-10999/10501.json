@@ -1,0 +1,101 @@
+{
+  "created": "2023-01-12T14:21:13",
+  "id": "10501",
+  "modified": "2023-01-12T14:21:13",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "146",
+      "lookUpId": "tag_eyes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EYES",
+          "type": "label"
+        },
+        {
+          "key": "eyes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "981",
+      "lookUpId": "TAG_VALENTINE_TIMELIMIT_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VALENTINE_TIMELIMIT_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#663399,#99CCFF",
+      "Snapshot": "msp2_valentine_2023_eyesb_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "eyes"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_valentine_2023_eyesb_hhp_bundle?msp2_valentine_2023_eyesb_hhp_asset",
+  "lookUpId": "2f059864-d48d-4e5d-af40-70145746b59f",
+  "nameResourceIdentifier": "First Love"
+}

@@ -1,0 +1,100 @@
+{
+  "created": "2021-09-17T11:54:22",
+  "id": "6519",
+  "modified": "2021-09-17T11:54:22",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "92",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_MISC",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "720",
+      "lookUpId": "TAG_RED_MAPLE_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RED_MAPLE_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFF7DD",
+      "Snapshot": "msp2_red_2021_bandages_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "torsodecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_red_2021_bandages_tk_bundle?msp2_red_2021_bandages_tk_asset",
+  "lookUpId": "0b2005c1-e6bd-4e29-a60e-523568dcb71f",
+  "nameResourceIdentifier": "Bandages"
+}

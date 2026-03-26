@@ -1,0 +1,81 @@
+{
+  "created": "2025-11-25T17:04:21",
+  "id": "18841",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "613",
+      "lookUpId": "TAG_PET_WALKING",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET_WALKING",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.items.185"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "959",
+      "lookUpId": "TAG_ROMANTIC_CAROLS_CAMPAIGN_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ROMANTIC_CAROLS_CAMPAIGN_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFEAC9,#663300,#FFFFFF,#F92D38,#FCC38B,#49251E,#F6F0E7,#006666,#F92D38",
+      "Snapshot": "msp2_pet_carolscamp_2025_duodogs_fj_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_pet_carolscamp_2025_duodogs_fj_prop",
+  "lookUpId": "msp2_pet_carolscamp_2025_duodogs_fj_prop",
+  "nameResourceIdentifier": "Bill & Jill"
+}

@@ -1,0 +1,116 @@
+{
+  "created": "2022-12-16T12:27:41",
+  "id": "10287",
+  "modified": "2024-10-10T07:18:29",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "351",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_WICKED_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "765",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_FACEPAINT",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FF99CC,#0099FF,#66FF33,#FFFF04,#333333",
+      "Snapshot": "msp2_wicked_2023_heartmakeupu_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "facedecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_wicked_2023_heartmakeupu_ms_bundle?msp2_wicked_2023_heartmakeupu_ms_asset",
+  "lookUpId": "a673c918-4ca1-40e0-9a49-4d68eb24a6fe",
+  "nameResourceIdentifier": "Color Coded"
+}

@@ -1,0 +1,115 @@
+{
+  "created": "2022-08-17T10:39:58",
+  "id": "9185",
+  "modified": "2024-11-07T14:03:26",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "301",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOVIE_MAKER_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "745",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_COSTUME",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#999999,#D39943,#E9E6D9",
+      "Snapshot": "msp2_movie_2022_armourtopu_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,jacket"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_movie_2022_armourtopu_asd_bundle?msp2_movie_2022_armourtopu_asd_asset",
+  "lookUpId": "03713c9c-9379-4435-bd19-9a135eea824e",
+  "nameResourceIdentifier": "Knight Time"
+}

@@ -1,0 +1,132 @@
+{
+  "created": "2022-08-16T10:33:30",
+  "id": "9178",
+  "modified": "2024-11-28T12:52:12",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "300",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_24_7_DREAMERS_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "758",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_FILTER",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#EAB1B1",
+      "Snapshot": "msp2_dreamer_2022_cutecloudu_ecr_preview"
+    },
+    "MSP2Data": {
+      "Type": "backaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_dreamer_2022_cutecloudu_ecr_bundle?msp2_dreamer_2022_cutecloudu_ecr_asset",
+  "lookUpId": "e20136f8-77d4-4757-8625-484da21cf17c",
+  "nameResourceIdentifier": "Head in the Clouds"
+}

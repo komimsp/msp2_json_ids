@@ -1,0 +1,82 @@
+{
+  "created": "2025-10-16T08:29:38",
+  "id": "18444",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "258",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_SITTING",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "262",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_SOCIAL",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "946",
+      "lookUpId": "TAG_DELICIOUS_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DELICIOUS_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_deli_2025_afkanim_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_deli_2025_afkanim_lsz",
+  "lookUpId": "a33bc212-7b4d-42ea-85e0-33d49098c00d",
+  "nameResourceIdentifier": "AFK!"
+}

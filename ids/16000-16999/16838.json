@@ -1,0 +1,118 @@
+{
+  "created": "2025-03-13T11:46:58",
+  "id": "16838",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "147",
+      "lookUpId": "tag_brows",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BROWS",
+          "type": "label"
+        },
+        {
+          "key": "brows",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "605",
+      "lookUpId": "TAG_EASTER_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "852",
+      "lookUpId": "TAG_SILLY_EASTER_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SILLY_EASTER_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#F5BB63,#F0F0F0",
+      "Snapshot": "msp2_silly_2025_browsg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "brows"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_silly_2025_browsg_asj_bundle?msp2_silly_2025_browsg_asj_asset",
+  "lookUpId": "msp2_silly_2025_browsg_asj",
+  "nameResourceIdentifier": "Starows"
+}

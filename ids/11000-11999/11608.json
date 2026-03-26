@@ -1,0 +1,65 @@
+{
+  "created": "2023-06-07T12:04:12",
+  "id": "11608",
+  "modified": "2023-06-07T12:04:12",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "259",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_DANCES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "394",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MIDSUMMER_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_mid_2023_danceanim_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_mid_2023_danceanim_lsz",
+  "lookUpId": "34d085c1-35af-41c6-ac07-162a6e4d7e5a",
+  "nameResourceIdentifier": "Midsummer Dance"
+}

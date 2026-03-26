@@ -1,0 +1,101 @@
+{
+  "created": "2024-09-11T07:56:31",
+  "id": "15126",
+  "modified": "2024-12-18T09:01:39",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "608",
+      "lookUpId": "TAG_BRAT_SUMMER_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BRAT_SUMMER_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "763",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_EYESHADOW",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#5EFF00,#FFFF33,#25B45B",
+      "Snapshot": "msp2_brat_2024_eyeshadowg_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "eyeshadow"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_brat_2024_eyeshadowg_tk_bundle?msp2_brat_2024_eyeshadowg_tk_asset",
+  "lookUpId": "msp2_brat_2024_eyeshadowg_tk",
+  "nameResourceIdentifier": "Catty"
+}

@@ -1,0 +1,100 @@
+{
+  "created": "2024-11-04T09:48:54",
+  "id": "15771",
+  "modified": "2024-11-04T09:48:54",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "91",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_JEWELLERY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "773",
+      "lookUpId": "TAG_9_TO_5_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_9_TO_5_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#CCCCCC",
+      "Snapshot": "msp2_9to5_2024_watchg_dsn_preview"
+    },
+    "MSP2Data": {
+      "Type": "leftarmdecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_9to5_2024_watchg_dsn_bundle?msp2_9to5_2024_watchg_dsn_asset",
+  "lookUpId": "msp2_9to5_2024_watchg_dsn",
+  "nameResourceIdentifier": "Checking Time"
+}

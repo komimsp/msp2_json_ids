@@ -1,0 +1,132 @@
+{
+  "created": "2024-01-02T12:38:20",
+  "id": "13135",
+  "modified": "2024-11-07T14:08:36",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "77",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "486",
+      "lookUpId": "TAG_BEAR_WITH_ME_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAR_WITH_ME_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "743",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_BLOUSE",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "751",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_CARDIGAN",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#E8DED7,#E4BBA2,#772F2F",
+      "Snapshot": "msp2_bear_2024_cardig_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,jacket"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_bear_2024_cardig_tk_bundle?msp2_bear_2024_cardig_tk_asset",
+  "lookUpId": "msp2_bear_2024_cardig_tk",
+  "nameResourceIdentifier": "Soft Huggies"
+}

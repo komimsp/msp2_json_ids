@@ -1,0 +1,66 @@
+{
+  "created": "2023-10-10T09:47:32",
+  "id": "12536",
+  "modified": "2023-10-10T09:47:32",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "263",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_POSING",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "446",
+      "lookUpId": "TAG_EDGE_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EDGE_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_edge_2023_poseanim_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_edge_2023_poseanim_lsz",
+  "lookUpId": "45fdbff6-16e9-4ac9-99f8-8ba72931d824",
+  "nameResourceIdentifier": "Cheeky Pose"
+}

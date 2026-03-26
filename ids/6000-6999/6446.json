@@ -1,0 +1,85 @@
+{
+  "created": "2021-09-09T13:12:36",
+  "id": "6446",
+  "modified": "2021-09-09T13:12:36",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "150",
+      "lookUpId": "tag_tattoo",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BODYART",
+          "type": "label"
+        },
+        {
+          "key": "bodyart",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#000000,#00CC99,#FFCC00,#FFCC99,#990000",
+      "Snapshot": "msp2_rare_2021_mermaidtattoo_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "rightarmdecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_rare_2021_mermaidtattoo_ms_bundle?msp2_rare_2021_mermaidtattoo_ms_asset",
+  "lookUpId": "32e80e79-3f43-42ed-8658-985cfa687c7a",
+  "nameResourceIdentifier": "Mermaid Fake Tattoo"
+}

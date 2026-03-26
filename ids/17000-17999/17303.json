@@ -1,0 +1,149 @@
+{
+  "created": "2025-05-22T07:46:17",
+  "id": "17303",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "763",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_EYESHADOW",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "868",
+      "lookUpId": "TAG_SUMMER_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SUMMER_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "911",
+      "lookUpId": "TAG_RARE_WEEK_PLAZA_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SPRING_RARES_PLAZA",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.rare"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "1000",
+      "lookUpId": "TAG_SUMMER_DAILYPICKUP_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SUMMER_DAILYPICKUP_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FF2C88,#FF7000,#75FF2C",
+      "Snapshot": "msp2_summer_2025_makeupg_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "makeup"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_summer_2025_makeupg_asj_bundle?msp2_summer_2025_makeupg_asj_asset",
+  "lookUpId": "msp2_summer_2025_makeupg_asj",
+  "nameResourceIdentifier": "Colorful Pop"
+}

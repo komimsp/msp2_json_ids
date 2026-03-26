@@ -1,0 +1,100 @@
+{
+  "created": "2024-12-18T13:52:19",
+  "id": "16138",
+  "modified": "2024-12-18T13:52:19",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "57",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "572",
+      "lookUpId": "TAG_MIDNIGHT_REFLECTION_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MIDNIGHT_REFLECTION_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "755",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FOOTWEAR_SLIPPERS",
+          "type": "label"
+        },
+        {
+          "key": "shoes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.57"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#ECECEA,#9FD5FB,#232323",
+      "Snapshot": "msp2_midnight_2024_sharkloafb_dsn_preview"
+    },
+    "MSP2Data": {
+      "Type": "shoe"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_midnight_2024_sharkloafb_dsn_bundle?msp2_midnight_2024_sharkloafb_dsn_asset",
+  "lookUpId": "msp2_midnight_2024_sharkloafb_dsn",
+  "nameResourceIdentifier": "Shark-dorable"
+}

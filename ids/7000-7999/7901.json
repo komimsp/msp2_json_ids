@@ -1,0 +1,87 @@
+{
+  "created": "2022-02-17T13:24:37",
+  "id": "7901",
+  "modified": "2024-09-16T13:28:19",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "213",
+      "lookUpId": "TAG_FLUFFY_FAIRYTALE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FLUFFY_FAIRYTALE_2022",
+          "type": "label"
+        },
+        {
+          "key": "fluffy_fairytale_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "734",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_SEASONS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "735",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_FANTASY",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_fluffy_2022_bg_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_fluffy_2022_bg_ms",
+  "lookUpId": "2e5e2761-a3cd-499e-9c6d-ffc03e30dcf7",
+  "nameResourceIdentifier": "Fluffy Fairytale"
+}

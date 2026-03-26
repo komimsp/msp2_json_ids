@@ -1,0 +1,101 @@
+{
+  "created": "2022-01-10T08:10:58",
+  "id": "7530",
+  "modified": "2022-01-10T08:10:58",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "126",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "130",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_MINI",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "204",
+      "lookUpId": "TAG_LUMBERLAND_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LUMBERLAND_2022",
+          "type": "label"
+        },
+        {
+          "key": "lumberland_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#99725C,#365746,#F3E0D6,#D06A1F,#FFC351",
+      "Snapshot": "msp2_lumber_2022_woolskirtg_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_lumber_2022_woolskirtg_mmj_bundle?msp2_lumber_2022_woolskirtg_mmj_asset",
+  "lookUpId": "0fa139c1-4c1f-4252-b87e-8fa735a93ec1",
+  "nameResourceIdentifier": "Caramel and Cinnamon"
+}

@@ -1,0 +1,101 @@
+{
+  "created": "2022-02-07T13:43:25",
+  "id": "7829",
+  "modified": "2022-02-07T13:43:25",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "141",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_TSHIRT",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "213",
+      "lookUpId": "TAG_FLUFFY_FAIRYTALE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FLUFFY_FAIRYTALE_2022",
+          "type": "label"
+        },
+        {
+          "key": "fluffy_fairytale_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFDDEE,#C5E0E0,#B77CF1,#FF9933",
+      "Snapshot": "msp2_fluffy_2022_logoteeb_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_fluffy_2022_logoteeb_ms_bundle?msp2_fluffy_2022_logoteeb_ms_asset",
+  "lookUpId": "ac50e03b-895c-4b08-80c8-0649b7bf4e92",
+  "nameResourceIdentifier": "What The Fluff"
+}

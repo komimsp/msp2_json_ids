@@ -1,0 +1,134 @@
+{
+  "created": "2022-05-11T14:39:09",
+  "id": "8577",
+  "modified": "2024-10-09T06:23:22",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "77",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "125",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_SHORT",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "246",
+      "lookUpId": "TAG_BE_MINE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BE_MINE_2022",
+          "type": "label"
+        },
+        {
+          "key": "be_mine_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "753",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_BLAZER",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF,#FFFFFF,#FFFFFF,#FFFFFF,#FFFFFF",
+      "Snapshot": "msp2_bemine_2022_suitb_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,jacket"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_bemine_2022_suitb_ms_bundle?msp2_bemine_2022_suitb_ms_asset",
+  "lookUpId": "e76efcf6-e179-4e78-b261-51132043628a",
+  "nameResourceIdentifier": "Suits Me Fine"
+}

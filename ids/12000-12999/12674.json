@@ -1,0 +1,132 @@
+{
+  "created": "2023-10-26T12:44:28",
+  "id": "12674",
+  "modified": "2023-11-20T10:39:36",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "59",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FACE",
+          "type": "label"
+        },
+        {
+          "key": "eyes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "463",
+      "lookUpId": "TAG_CHRISTMAS_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "999",
+      "lookUpId": "TAG_XMAS_DAILYPICKUP_INACTIVE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_DAILYPICKUP_INACTIVE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#674637,#CBBFBA",
+      "Snapshot": "msp2_xmas_pickup_2023_sbeardu_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "facialhair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_xmas_pickup_2023_sbeardu_dg_bundle?msp2_xmas_pickup_2023_sbeardu_dg_asset",
+  "lookUpId": "msp2_xmas_pickup_2023_sbeardu_dg",
+  "nameResourceIdentifier": "Santa Cool"
+}

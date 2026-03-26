@@ -1,0 +1,102 @@
+{
+  "created": "2022-03-08T12:34:31",
+  "id": "8013",
+  "modified": "2024-10-10T10:38:44",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "227",
+      "lookUpId": "TAG_RHINESTONE_COWBOY_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RHINESTONE_COWBOY_2022",
+          "type": "label"
+        },
+        {
+          "key": "rhinestone_cowboy_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "764",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_LASHES",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#000000,#66CCFF",
+      "Snapshot": "msp2_rhine_2022_lashesb_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "facedecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_rhine_2022_lashesb_hhp_bundle?msp2_rhine_2022_lashesb_hhp_asset",
+  "lookUpId": "5305015d-9663-4b43-85f8-8bbfd7652305",
+  "nameResourceIdentifier": "Droopy Dash"
+}

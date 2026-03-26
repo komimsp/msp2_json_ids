@@ -1,0 +1,66 @@
+{
+  "created": "2024-07-02T11:31:10",
+  "id": "14527",
+  "modified": "2024-07-02T11:31:10",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "262",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_SOCIAL",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "561",
+      "lookUpId": "TAG_SEA_LINE_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SEA_LINE_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_sline_2024_npcheartanim_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_sline_2024_npcheartanim_lsz",
+  "lookUpId": "e21cfa84-253b-4e19-ae5d-a2f2ff9efa7b",
+  "nameResourceIdentifier": "Yes, Ok, Yes"
+}

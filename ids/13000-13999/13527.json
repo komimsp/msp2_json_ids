@@ -1,0 +1,83 @@
+{
+  "created": "2024-02-22T13:44:32",
+  "id": "13527",
+  "modified": "2024-02-22T13:44:32",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "260",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_EXCITED",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "504",
+      "lookUpId": "TAG_AURORIA_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_AURORIA_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_encha_2024_lovestruckanim_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_encha_2024_lovestruckanim_lsz",
+  "lookUpId": "8d8b08b3-8f9c-4069-9d53-7745078315f3",
+  "nameResourceIdentifier": "Love Struck"
+}

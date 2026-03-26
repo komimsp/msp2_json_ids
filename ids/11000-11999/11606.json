@@ -1,0 +1,116 @@
+{
+  "created": "2023-06-07T11:44:43",
+  "id": "11606",
+  "modified": "2023-06-07T11:44:43",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "93",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_SCARF",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "394",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MIDSUMMER_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#7E6D6D",
+      "Snapshot": "msp2_mid_2023_scarfb_ecr_preview"
+    },
+    "MSP2Data": {
+      "Type": "neckaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_mid_2023_scarfb_ecr_bundle?msp2_mid_2023_scarfb_ecr_asset",
+  "lookUpId": "0bf886e2-807f-41be-88ca-27c13a3d239c",
+  "nameResourceIdentifier": "Feelings so Hot"
+}

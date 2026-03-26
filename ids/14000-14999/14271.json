@@ -1,0 +1,101 @@
+{
+  "created": "2024-05-29T11:50:16",
+  "id": "14271",
+  "modified": "2024-10-10T07:12:04",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "551",
+      "lookUpId": "TAG_BASICALLY_YOU_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BASICALLY_YOU_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "765",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_FACEPAINT",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#E50000,#FE8D01,#FFEE00,#028121,#004DFF",
+      "Snapshot": "msp2_basic_2024_rainbowg_dsn_preview"
+    },
+    "MSP2Data": {
+      "Type": "makeup"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_basic_2024_rainbowg_dsn_bundle?msp2_basic_2024_rainbowg_dsn_asset",
+  "lookUpId": "msp2_basic_2024_rainbowg_dsn",
+  "nameResourceIdentifier": "Out and Proud"
+}

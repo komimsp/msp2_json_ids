@@ -1,0 +1,66 @@
+{
+  "created": "2024-11-27T09:42:19",
+  "id": "15962",
+  "modified": "2024-12-05T09:55:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "258",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_SITTING",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "777",
+      "lookUpId": "TAG_CHRISTMAS_EVE_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_EVE_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_christ_2024_sassysitanim_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_christ_2024_sassysitanim_lsz",
+  "lookUpId": "a9d5d539-3293-4f0f-b4f0-70ea5438dd32",
+  "nameResourceIdentifier": "Set on Sit"
+}

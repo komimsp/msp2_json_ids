@@ -1,0 +1,83 @@
+{
+  "created": "2025-02-05T10:42:26",
+  "id": "16507",
+  "modified": "2025-02-05T10:42:26",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "261",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_DISPLEASED",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "831",
+      "lookUpId": "TAG_SPORTY_N_SPICY_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SPORTY_N_SPICY_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_sns_2025_backkick_dg_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_sns_2025_backkick_dg",
+  "lookUpId": "9ad4cc5d-048a-42d0-8bcd-7cca3187ab96",
+  "nameResourceIdentifier": "Turbo Kick"
+}

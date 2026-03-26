@@ -1,0 +1,117 @@
+{
+  "created": "2022-05-17T12:13:01",
+  "id": "8621",
+  "modified": "2024-10-09T06:22:46",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "77",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "125",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_SHORT",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "247",
+      "lookUpId": "TAG_RAINBOW_LOVE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RAINBOW_LOVE_2022",
+          "type": "label"
+        },
+        {
+          "key": "rainbow_love_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "754",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JACKET_BOMBER",
+          "type": "label"
+        },
+        {
+          "key": "jacket",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.77"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#212023,#FF9B07,#212023",
+      "Snapshot": "msp2_rlove_2022_oversizejacketb_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "jacket"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_rlove_2022_oversizejacketb_lsz_bundle?msp2_rlove_2022_oversizejacketb_lsz_asset",
+  "lookUpId": "1dbbce6c-f818-4512-95b8-e3db67c35e7c",
+  "nameResourceIdentifier": "Give Me An M"
+}

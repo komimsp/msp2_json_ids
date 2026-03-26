@@ -1,0 +1,150 @@
+{
+  "created": "2023-05-04T10:51:30",
+  "id": "11361",
+  "modified": "2023-05-04T10:51:30",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "54",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "83",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_STYLED",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "142",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAIR_WAVY",
+          "type": "label"
+        },
+        {
+          "key": "hair",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.54"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "389",
+      "lookUpId": "TAG_EGMONT_ISSUE_122_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EGMONT_ISSUE_122_2023",
+          "type": "label"
+        },
+        {
+          "key": "egmont_issue_122_2023",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.licensing"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "582",
+      "lookUpId": "TAG_MAGAZINE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAGAZINE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#BEF1E8,#CC99FF,#FF9999,#FFFF99",
+      "Snapshot": "msp2_egmont122_2023_wavehairg_ecr_preview"
+    },
+    "MSP2Data": {
+      "Type": "hair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_egmont122_2023_wavehairg_ecr_bundle?msp2_egmont122_2023_wavehairg_ecr_asset",
+  "lookUpId": "6973865b-c343-4fe2-aaf4-5fac36e30433",
+  "nameResourceIdentifier": "Mermaid Beauty"
+}

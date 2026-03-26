@@ -1,0 +1,118 @@
+{
+  "created": "2022-05-04T12:43:35",
+  "id": "8522",
+  "modified": "2024-11-07T13:51:01",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "243",
+      "lookUpId": "TAG_DONT_KILL_MY_VIBE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DONT_KILL_MY_VIBE_2022",
+          "type": "label"
+        },
+        {
+          "key": "dont_kill_my_vibe_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "741",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS_VEST",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.55"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#363636,#F3E0D2,#68605A,#282828",
+      "Snapshot": "msp2_paperdoll_2022_topb_mmj_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_paperdoll_2022_topb_mmj_bundle?msp2_paperdoll_2022_topb_mmj_asset",
+  "lookUpId": "4dd27c98-105d-4468-88db-864051c18870",
+  "nameResourceIdentifier": "Paperdoll Collection Top"
+}

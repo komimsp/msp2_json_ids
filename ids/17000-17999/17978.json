@@ -1,0 +1,101 @@
+{
+  "created": "2025-08-14T14:35:18",
+  "id": "17978",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "150",
+      "lookUpId": "tag_tattoo",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BODYART",
+          "type": "label"
+        },
+        {
+          "key": "bodyart",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "579",
+      "lookUpId": "TAG_LIMITED",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LIMITED",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "912",
+      "lookUpId": "TAG_SEPTEMBER_RARES_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SEPTEMBER_RARES_PLAZA",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.rare"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#000000,#990000",
+      "Snapshot": "msp2_septrares_2025_acc_honey_2009g_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "torsodecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_septrares_2025_acc_honey_2009g_lsz_bundle?msp2_septrares_2025_acc_honey_2009g_lsz_asset",
+  "lookUpId": "msp2_septrares_2025_acc_honey_2009g_lsz",
+  "nameResourceIdentifier": "Mom Fake Tattoo"
+}

@@ -1,0 +1,100 @@
+{
+  "created": "2022-08-22T10:05:22",
+  "id": "9252",
+  "modified": "2024-10-10T10:38:16",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "149",
+      "lookUpId": "tag_makeup",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "303",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_YOUNG_THRASHERS_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "766",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAKEUP_BEARDS",
+          "type": "label"
+        },
+        {
+          "key": "makeup",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.149"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#886E53,#886E53",
+      "Snapshot": "msp2_thrash_2022_beardb_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "facialhair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_thrash_2022_beardb_ms_bundle?msp2_thrash_2022_beardb_ms_asset",
+  "lookUpId": "25e7e120-cbf4-4d18-a1f5-5c3156703400",
+  "nameResourceIdentifier": "More than a Scruff"
+}

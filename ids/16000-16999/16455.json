@@ -1,0 +1,66 @@
+{
+  "created": "2025-01-29T10:52:24",
+  "id": "16455",
+  "modified": "2025-02-04T08:49:36",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "261",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_DISPLEASED",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "830",
+      "lookUpId": "TAG_BIG_CITY_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BIG_CITY_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_bigcity_2025_hitanim_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_bigcity_2025_hitanim_lsz",
+  "lookUpId": "7b16de1d-9708-4829-bd1f-6c1511bea9fe",
+  "nameResourceIdentifier": "Concrete Hit"
+}

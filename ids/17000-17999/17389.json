@@ -1,0 +1,70 @@
+{
+  "created": "2025-05-22T07:46:17",
+  "id": "17389",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "732",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_NATURE",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "884",
+      "lookUpId": "TAG_WILD_KITTY_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_WILD_KITTY_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_wild_2025_bg_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_wild_2025_bg_lsz",
+  "lookUpId": "df23cb65-9bb3-4d7a-a783-495ecde3c41a",
+  "nameResourceIdentifier": "Wild Kitty"
+}

@@ -1,0 +1,101 @@
+{
+  "created": "2022-03-08T12:18:48",
+  "id": "8000",
+  "modified": "2024-11-26T14:02:22",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "97",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_SHORTS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "227",
+      "lookUpId": "TAG_RHINESTONE_COWBOY_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RHINESTONE_COWBOY_2022",
+          "type": "label"
+        },
+        {
+          "key": "rhinestone_cowboy_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#143B5C,#52A5E5,#94A9BC,#66CCCC",
+      "Snapshot": "msp2_rhine_2022_shortsg_hhp_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_rhine_2022_shortsg_hhp_bundle?msp2_rhine_2022_shortsg_hhp_asset",
+  "lookUpId": "04e8bb75-ec66-4a6e-87e5-af75faa642df",
+  "nameResourceIdentifier": "Ranch Dancer"
+}

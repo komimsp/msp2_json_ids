@@ -1,0 +1,132 @@
+{
+  "created": "2024-04-16T09:27:44",
+  "id": "13919",
+  "modified": "2024-04-16T09:27:44",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "103",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_CASUAL",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "190",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_UNTRADABLE",
+          "type": "label"
+        },
+        {
+          "key": "tag_untradable",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "532",
+      "lookUpId": "TAG_10FRIEND_REWARD",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_10FRIEND_REWARD",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.level_up"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "600",
+      "lookUpId": "TAG_LEVEL_UP",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LEVEL_UP",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFEEE0",
+      "Snapshot": "msp2_2024_10friends_dressg_ecr_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_2024_10friends_dressg_ecr_bundle?msp2_2024_10friends_dressg_ecr_asset",
+  "lookUpId": "msp2_2024_10friends_dressg_ecr",
+  "nameResourceIdentifier": "Soft Hellos"
+}

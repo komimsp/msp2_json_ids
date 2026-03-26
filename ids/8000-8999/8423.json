@@ -1,0 +1,117 @@
+{
+  "created": "2022-04-19T11:36:23",
+  "id": "8423",
+  "modified": "2022-04-19T11:36:23",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "56",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "97",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTTOMS_SHORTS",
+          "type": "label"
+        },
+        {
+          "key": "bottoms",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.56"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "240",
+      "lookUpId": "TAG_EGMONT_ISSUE_111_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EGMONT_ISSUE_111_2022",
+          "type": "label"
+        },
+        {
+          "key": "egmont_issue_111_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.licensing"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "582",
+      "lookUpId": "TAG_MAGAZINE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAGAZINE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FF0000,#333333,#DEFF9E,#439E16,#006600",
+      "Snapshot": "msp2_egmont111_2022_melonshortsg_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_egmont111_2022_melonshortsg_asd_bundle?msp2_egmont111_2022_melonshortsg_asd_asset",
+  "lookUpId": "fe6baf06-8af4-4384-9634-0dbaf518544d",
+  "nameResourceIdentifier": "Shorts"
+}

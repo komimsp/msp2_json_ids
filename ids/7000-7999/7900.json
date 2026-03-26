@@ -1,0 +1,71 @@
+{
+  "created": "2022-02-17T13:11:31",
+  "id": "7900",
+  "modified": "2024-09-16T13:28:09",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "214",
+      "lookUpId": "TAG_HEADMASTERS_OFFICE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HEADMASTERS_OFFICE_2022",
+          "type": "label"
+        },
+        {
+          "key": "headmasters_office_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "729",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_INTERIOR",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_master_2022_bg_ms"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_master_2022_bg_ms",
+  "lookUpId": "9bf7d4d4-c187-4f6c-ba09-d9735a128a5b",
+  "nameResourceIdentifier": "Headmaster's Office"
+}

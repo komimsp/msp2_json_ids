@@ -1,0 +1,134 @@
+{
+  "created": "2023-05-04T09:44:21",
+  "id": "11360",
+  "modified": "2023-05-04T10:49:45",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "109",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS_PARTY",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.102"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "389",
+      "lookUpId": "TAG_EGMONT_ISSUE_122_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EGMONT_ISSUE_122_2023",
+          "type": "label"
+        },
+        {
+          "key": "egmont_issue_122_2023",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.licensing"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "582",
+      "lookUpId": "TAG_MAGAZINE",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAGAZINE",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#1A8054,#EBFF9D,#314FA5,#FFEBD2,#FFEBD2",
+      "Snapshot": "msp2_egmont122_2023_mermaidg_ecr_preview"
+    },
+    "MSP2Data": {
+      "Type": "top,bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_egmont122_2023_mermaidg_ecr_bundle?msp2_egmont122_2023_mermaidg_ecr_asset",
+  "lookUpId": "5c84b371-67cf-406a-a730-745decd3401a",
+  "nameResourceIdentifier": "Mermaid Love"
+}

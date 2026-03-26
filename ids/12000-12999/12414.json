@@ -1,0 +1,66 @@
+{
+  "created": "2023-09-26T12:41:24",
+  "id": "12414",
+  "modified": "2023-09-26T12:41:24",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "258",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_SITTING",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "441",
+      "lookUpId": "TAG_CREATURES_OF_THE_NIGHT_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CREATURES_OF_THE_NIGHT_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_creat_2023_animpose3_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_creat_2023_animpose3_lsz",
+  "lookUpId": "bb58d5d6-fdd4-46e6-9fc8-1e8b306f1b52",
+  "nameResourceIdentifier": "Preparing"
+}

@@ -1,0 +1,65 @@
+{
+  "created": "2024-05-07T13:07:36",
+  "id": "14077",
+  "modified": "2024-05-07T13:07:36",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "541",
+      "lookUpId": "TAG_SUMMER_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SUMMER_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "msp2_pet_summerevent_2024_falcon_dg_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_pet_summerevent_2024_falcon_dg_prop",
+  "lookUpId": "msp2_pet_summerevent_2024_falcon_dg_prop",
+  "nameResourceIdentifier": "Messenger Falcon"
+}
