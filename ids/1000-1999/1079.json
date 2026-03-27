@@ -1,0 +1,84 @@
+{
+  "created": "2019-12-27T08:09:00",
+  "id": "1079",
+  "modified": "2020-05-29T15:40:45",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "92",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_MISC",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#E2A4A4",
+      "Snapshot": "msp1_turtle_shouldersweat_tk_preview"
+    },
+    "MSP2Data": {
+      "Type": "neckaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp1_turtle_shouldersweat_tk_bundle?msp1_turtle_shouldersweat_tk_asset",
+  "lookUpId": "fbee946e-8693-4ffa-9381-dd361c6c4eba",
+  "nameResourceIdentifier": "Fancy Looking"
+}

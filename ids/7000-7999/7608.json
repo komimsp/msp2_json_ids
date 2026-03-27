@@ -1,0 +1,115 @@
+{
+  "created": "2022-01-17T12:19:26",
+  "id": "7608",
+  "modified": "2025-01-07T14:16:37",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "187",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CONSUMABLE",
+          "type": "label"
+        },
+        {
+          "key": "tag_consumable",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "191",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "268",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_FILTERS",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.191"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "815",
+      "lookUpId": "TAG_VALENTINE_FLOWER",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VALENTINE_FLOWER",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_carriable_2022_valentine_heartcloud_filter_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "2022_valentine_heartcloud_filter_lsz",
+  "lookUpId": "68763056-2794-4750-8e24-9c43c3218f03",
+  "nameResourceIdentifier": "Love is in the Air"
+}

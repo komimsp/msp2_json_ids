@@ -1,0 +1,99 @@
+{
+  "created": "2024-02-19T11:46:13",
+  "id": "13477",
+  "modified": "2024-02-19T11:46:13",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "256",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_SPECIAL",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "840",
+      "lookUpId": "TAG_EASTER_2025_FLOWER",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_2025_FLOWER",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_easter_2024_flowersteps_dg_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "easter_2024_flowersteps_dg",
+  "lookUpId": "d5e5d106-2a2e-4db3-8ae4-1f1451a738b8",
+  "nameResourceIdentifier": "Flower Steps"
+}

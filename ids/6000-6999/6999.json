@@ -1,0 +1,97 @@
+{
+  "created": "2021-11-17T11:07:31",
+  "id": "6999",
+  "modified": "2024-08-20T08:52:13",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "187",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CONSUMABLE",
+          "type": "label"
+        },
+        {
+          "key": "tag_consumable",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "191",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "268",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_FILTERS",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.191"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "335",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_carriable_2022_xmas_snowcloud_filter_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "2022_xmas_snowcloud_filter_lsz",
+  "lookUpId": "41c2069e-7b7d-4a5f-89ea-649e0c09bb81",
+  "nameResourceIdentifier": "Snow Cloud Filter"
+}

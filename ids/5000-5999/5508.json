@@ -1,0 +1,69 @@
+{
+  "created": "2021-04-29T11:00:05",
+  "id": "5508",
+  "modified": "2024-09-16T13:37:11",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "701",
+      "lookUpId": "TAG_BOTANICAL_GARDEN_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOTANICAL_GARDEN_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "729",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_INTERIOR",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_garden_2021_bg_dg_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_garden_2021_bg_dg",
+  "lookUpId": "44807d22-6016-4d9b-af86-fde4b33b6737",
+  "nameResourceIdentifier": "Botanical Garden"
+}

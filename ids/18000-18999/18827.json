@@ -1,0 +1,99 @@
+{
+  "created": "2025-11-25T17:04:21",
+  "id": "18827",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "256",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_SPECIAL",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "603",
+      "lookUpId": "TAG_CHRISTMAS_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "958",
+      "lookUpId": "TAG_RUBY_HEART_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RUBY_HEART_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_ruby_2025_diganim_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "ruby_2025_diganim_lsz",
+  "lookUpId": "6791b62d-98e4-4db7-b108-0b853352cdb7",
+  "nameResourceIdentifier": "What's up Doc?"
+}

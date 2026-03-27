@@ -1,0 +1,65 @@
+{
+  "created": "2024-01-16T10:30:54",
+  "id": "13279",
+  "modified": "2024-08-20T08:40:33",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "191",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "269",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_OBJECTS",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.191"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "276",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_SUMMER_2022_FLOWERS",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_carriable_2024_valentines_bags_perm_dg_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "2024_valentines_bags_perm_dg",
+  "lookUpId": "ece71f64-c452-4118-9159-75421975a87f",
+  "nameResourceIdentifier": "Shopping Bags"
+}

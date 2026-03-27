@@ -1,0 +1,99 @@
+{
+  "created": "2023-07-07T12:01:15",
+  "id": "11885",
+  "modified": "2023-07-07T12:01:15",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "192",
+      "lookUpId": "TAG_MUSIC",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSIC",
+          "type": "label"
+        },
+        {
+          "key": "music",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.sounds"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "219",
+      "lookUpId": "TAG_SOUND_PARTY",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SOUND_PARTY",
+          "type": "label"
+        },
+        {
+          "key": "sound_party",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.sounds.192"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "385",
+      "lookUpId": "TAG_FEATURE_ARTBOOKS",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FEATURE_ARTBOOKS",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "feature"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "405",
+      "lookUpId": "TAG_MALIBU_2023",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MALIBU_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "music_generic_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "snd_longest_summer_b",
+  "lookUpId": "d1624b51-4073-497b-bd4c-95bf3f07f07a",
+  "nameResourceIdentifier": "Longest Summer B"
+}

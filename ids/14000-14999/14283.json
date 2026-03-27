@@ -1,0 +1,83 @@
+{
+  "created": "2024-05-29T12:40:02",
+  "id": "14283",
+  "modified": "2024-05-29T12:40:02",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "85",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_BASIC",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "551",
+      "lookUpId": "TAG_BASICALLY_YOU_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BASICALLY_YOU_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_basic_2024_strut_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "basic_2024_strut_lsz",
+  "lookUpId": "89a6afef-b7c4-41a9-bacb-c598e65c11b3",
+  "nameResourceIdentifier": "Oh Sassy"
+}

@@ -1,0 +1,82 @@
+{
+  "created": "2024-10-30T09:08:31",
+  "id": "15673",
+  "modified": "2024-11-22T09:39:41",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "191",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "270",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_MAGIC",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.191"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "786",
+      "lookUpId": "TAG_XMAS_2024_FOREST",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_POTION",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_carriable_2024_gingerbreadrain_permanent_dg_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "2024_gingerbreadrain_permanent_dg",
+  "lookUpId": "ee595429-6e63-421d-a8f0-d221210e5349",
+  "nameResourceIdentifier": "It's Raining Gingerbread!"
+}

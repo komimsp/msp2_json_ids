@@ -1,0 +1,98 @@
+{
+  "created": "2024-11-08T14:01:14",
+  "id": "15778",
+  "modified": "2024-11-11T11:59:33",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "73",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM",
+          "type": "label"
+        },
+        {
+          "key": "furniture",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "163",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM_MISC",
+          "type": "label"
+        },
+        {
+          "key": "home_misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "798",
+      "lookUpId": "TAG_XMAS_FURNITURES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_FURNITURES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "msp2_xmas_petshop_2024_cathouse_dg_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_xmas_petshop_2024_cathouse_dg_prop",
+  "lookUpId": "msp2_xmas_petshop_2024_cathouse_dg_prop",
+  "nameResourceIdentifier": "Cat House"
+}

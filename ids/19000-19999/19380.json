@@ -1,0 +1,114 @@
+{
+  "created": "2026-02-27T10:33:03",
+  "id": "19380",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "187",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CONSUMABLE",
+          "type": "label"
+        },
+        {
+          "key": "tag_consumable",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "191",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "266",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_DRINKS",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.191"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "288",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_FOOD_AND_DRINKS",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.191"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "841",
+      "lookUpId": "TAG_EASTER_2025_BEACH",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_2025_BEACH",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_carriable_2026_easter_carrotjuice_dg_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "2026_easter_carrotjuice_dg",
+  "lookUpId": "ca6f861f-b749-428c-a851-394049ae9a00",
+  "nameResourceIdentifier": "Juicy Carrot"
+}

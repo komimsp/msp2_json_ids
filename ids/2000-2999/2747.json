@@ -1,0 +1,69 @@
+{
+  "created": "2020-06-19T08:29:55",
+  "id": "2747",
+  "modified": "2020-06-19T08:29:55",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "147",
+      "lookUpId": "tag_brows",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BROWS",
+          "type": "label"
+        },
+        {
+          "key": "brows",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#5D3918",
+      "Snapshot": "boybrows12_preview"
+    },
+    "MSP2Data": {
+      "Type": "brows"
+    }
+  },
+  "graphicsResourceIdentifier": "boybrows12_bundle?boybrows12_asset",
+  "lookUpId": "078d545a-1a7c-4c9c-9a09-0280e9137a0a",
+  "nameResourceIdentifier": "Rounded"
+}

@@ -1,0 +1,81 @@
+{
+  "created": "2024-01-17T17:32:14",
+  "id": "13316",
+  "modified": "2024-01-17T17:32:53",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "73",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM",
+          "type": "label"
+        },
+        {
+          "key": "furniture",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "166",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM_GARDEN",
+          "type": "label"
+        },
+        {
+          "key": "home_garden",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "987",
+      "lookUpId": "TAG_EASTER_FURNITURES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_FURNITURES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "easter_2021_beach_tree_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "easter_2021_beach_tree",
+  "lookUpId": "easter_2021_beach_tree",
+  "nameResourceIdentifier": "Love Tree"
+}

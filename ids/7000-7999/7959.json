@@ -1,0 +1,98 @@
+{
+  "created": "2022-03-03T19:14:18",
+  "id": "7959",
+  "modified": "2023-11-23T14:19:18",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "187",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CONSUMABLE",
+          "type": "label"
+        },
+        {
+          "key": "tag_consumable",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "191",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "270",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_MAGIC",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.191"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "844",
+      "lookUpId": "TAG_EASTER_2025_POTION",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_2025_POTION",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_carriable_2022_becomebutterfly_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "2022_becomebutterfly_lsz",
+  "lookUpId": "cda5e888-e6ca-4880-9527-26c1cb48a9e7",
+  "nameResourceIdentifier": "I'm a Bu!tterfly!"
+}

@@ -1,0 +1,84 @@
+{
+  "created": "2020-01-06T09:43:54",
+  "id": "1387",
+  "modified": "2020-05-29T15:29:47",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "102",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DRESS",
+          "type": "label"
+        },
+        {
+          "key": "dress",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "621",
+      "lookUpId": "TAG_DOLLS_LIFE_2019",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DOLLS_LIFE_2019",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#607FB8,#FF699B,#D41756",
+      "Snapshot": "msp2_doll_2019_beltdress_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_doll_2019_beltdress_lsz_bundle?msp2_doll_2019_beltdress_lsz_asset",
+  "lookUpId": "7101c04c-0ae7-4449-9f6f-ba46e98a0a36",
+  "nameResourceIdentifier": "More of Less"
+}

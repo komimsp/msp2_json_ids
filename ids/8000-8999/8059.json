@@ -1,0 +1,83 @@
+{
+  "created": "2022-03-09T11:55:53",
+  "id": "8059",
+  "modified": "2022-03-09T11:55:53",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "192",
+      "lookUpId": "TAG_MUSIC",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSIC",
+          "type": "label"
+        },
+        {
+          "key": "music",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.sounds"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "219",
+      "lookUpId": "TAG_SOUND_PARTY",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SOUND_PARTY",
+          "type": "label"
+        },
+        {
+          "key": "sound_party",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.sounds.192"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "227",
+      "lookUpId": "TAG_RHINESTONE_COWBOY_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RHINESTONE_COWBOY_2022",
+          "type": "label"
+        },
+        {
+          "key": "rhinestone_cowboy_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "385",
+      "lookUpId": "TAG_FEATURE_ARTBOOKS",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FEATURE_ARTBOOKS",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "feature"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "music_generic_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "snd_the_gamer_a",
+  "lookUpId": "2a575ce8-ac5a-409d-a54b-c5faed774467",
+  "nameResourceIdentifier": "The Gamer A"
+}

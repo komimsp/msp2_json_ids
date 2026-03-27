@@ -1,0 +1,83 @@
+{
+  "created": "2025-12-09T14:44:53",
+  "id": "18978",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "254",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_COOL",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "963",
+      "lookUpId": "TAG_STARLIT_NIGHT_2026",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_STARLIT_NIGHT_2026",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_starlit_2025_moonpose_dg_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "starlit_2025_moonpose_dg",
+  "lookUpId": "1a843db2-3c0b-492e-8c32-2be71206f76d",
+  "nameResourceIdentifier": "Moon Fall"
+}

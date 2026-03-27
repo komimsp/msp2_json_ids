@@ -1,0 +1,65 @@
+{
+  "created": "2020-06-30T07:59:59",
+  "id": "2843",
+  "modified": "2020-06-30T07:59:59",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "73",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM",
+          "type": "label"
+        },
+        {
+          "key": "furniture",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "155",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM_LIVING",
+          "type": "label"
+        },
+        {
+          "key": "home_living",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "MSP2Data": {},
+    "NebulaData": {
+      "Snapshot": "vip_club_sofa_preview"
+    }
+  },
+  "graphicsResourceIdentifier": "club_sofa_v2",
+  "lookUpId": "d048b847-5e9c-486a-93c4-3d71429cca56",
+  "nameResourceIdentifier": "Club Chill"
+}

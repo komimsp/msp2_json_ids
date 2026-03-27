@@ -1,0 +1,85 @@
+{
+  "created": "2024-02-28T16:21:33",
+  "id": "13574",
+  "modified": "2024-02-28T16:21:33",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "383",
+      "lookUpId": "TAG_NAILCOLOR",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_NAILCOLOR",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "category.nailcolor"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "nailcolour_orange_juice_preview"
+    },
+    "MSP2Data": {
+      "AvatarProperty": "NailColor",
+      "Colors": "#ffae71"
+    }
+  },
+  "graphicsResourceIdentifier": "null",
+  "lookUpId": "41354be8-10b2-4b0b-93d0-476a7a01ecf8",
+  "nameResourceIdentifier": "Orange Juice"
+}

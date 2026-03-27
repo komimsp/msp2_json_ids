@@ -1,0 +1,98 @@
+{
+  "created": "2025-05-22T07:46:17",
+  "id": "17226",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "191",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "269",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_OBJECTS",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.191"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "868",
+      "lookUpId": "TAG_SUMMER_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SUMMER_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "874",
+      "lookUpId": "TAG_SUMMER_2025_FLOWER",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SUMMER_FLOWER",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_carriable_2025_beachball_prmanent_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "2025_beachball_prmanent_lsz",
+  "lookUpId": "2079b9da-c29c-461a-a564-ae0fd72cc438",
+  "nameResourceIdentifier": "Ballin' at the Beach"
+}

@@ -1,0 +1,66 @@
+{
+  "created": "2025-10-31T08:44:39",
+  "id": "18525",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "85",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_BASIC",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "949",
+      "lookUpId": "TAG_CINNAMON_SNUGGLE_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CINNAMON_SNUGGLE_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_cinna_2025_rainshield_dg_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "cinna_2025_rainshield_dg",
+  "lookUpId": "ecc72a02-121b-4101-a161-725f3c976e2d",
+  "nameResourceIdentifier": "Shielded from Rain"
+}

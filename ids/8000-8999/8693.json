@@ -1,0 +1,65 @@
+{
+  "created": "2022-05-31T13:52:18",
+  "id": "8693",
+  "modified": "2022-05-31T15:54:11",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "191",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "267",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_FLOWERS",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.191"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "276",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_SUMMER_2022_FLOWERS",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_carriable_2022_summer_flowers1_permanent_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "2022_summer_flowers1_permanent_lsz",
+  "lookUpId": "bcec09eb-7664-4f75-a07b-2b05e1ad21d4",
+  "nameResourceIdentifier": "Summer Flowers"
+}

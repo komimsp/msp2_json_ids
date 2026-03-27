@@ -1,0 +1,66 @@
+{
+  "created": "2025-06-02T07:22:07",
+  "id": "17459",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "254",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_COOL",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "885",
+      "lookUpId": "TAG_CATCHING_RAINBOWS_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CATCHING_RAINBOWS_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_catch_2025_backwalk_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "catch_2025_backwalk_lsz",
+  "lookUpId": "571880b0-4294-444a-9281-54a76c4d7313",
+  "nameResourceIdentifier": "Turn Around?"
+}

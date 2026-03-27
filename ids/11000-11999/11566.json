@@ -1,0 +1,85 @@
+{
+  "created": "2023-05-26T09:57:47",
+  "id": "11566",
+  "modified": "2023-05-26T09:57:47",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "383",
+      "lookUpId": "TAG_NAILCOLOR",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_NAILCOLOR",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "category.nailcolor"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "nailcolour_morning_shower_preview"
+    },
+    "MSP2Data": {
+      "AvatarProperty": "NailColor",
+      "Colors": "#f8baab"
+    }
+  },
+  "graphicsResourceIdentifier": "null",
+  "lookUpId": "ee188cbe-b3cd-455b-887b-487f0be0d1e3",
+  "nameResourceIdentifier": "Morning Shower"
+}

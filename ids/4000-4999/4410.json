@@ -1,0 +1,70 @@
+{
+  "created": "2020-11-30T11:32:45",
+  "id": "4410",
+  "modified": "2024-09-17T06:36:42",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "152",
+      "lookUpId": "tag_backgrounds",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUNDS",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "614",
+      "lookUpId": "TAG_ENCHANTED_WORLD_2019",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ENCHANTED_WORLD_2019",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "739",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BACKGROUND_MISC",
+          "type": "label"
+        },
+        {
+          "key": "backgrounds",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.artbooks.152"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "enchanted_world_preview"
+    },
+    "MSP2Data": {
+      "Type": "Asset",
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "enchanted_world",
+  "lookUpId": "40d83528-331b-4028-81bf-48e564546961",
+  "nameResourceIdentifier": "Enchanted World"
+}

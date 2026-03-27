@@ -1,0 +1,83 @@
+{
+  "created": "2021-11-29T12:28:51",
+  "id": "7241",
+  "modified": "2022-05-25T12:22:34",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "196",
+      "lookUpId": "TAG_HOLLY_CHRISTMAS_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HOLLY_CHRISTMAS_2021",
+          "type": "label"
+        },
+        {
+          "key": "holly_christmas_2021",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "255",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_DRAMATIC",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "603",
+      "lookUpId": "TAG_CHRISTMAS_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_2021_flikflak_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "flikflak",
+  "lookUpId": "96b08dee-8599-436a-beb9-e63d2bb4b986",
+  "nameResourceIdentifier": "Flik Flak"
+}

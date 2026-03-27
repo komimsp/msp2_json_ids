@@ -1,0 +1,83 @@
+{
+  "created": "2022-05-30T11:25:26",
+  "id": "8674",
+  "modified": "2022-05-30T11:25:26",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "192",
+      "lookUpId": "TAG_MUSIC",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSIC",
+          "type": "label"
+        },
+        {
+          "key": "music",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.sounds"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "219",
+      "lookUpId": "TAG_SOUND_PARTY",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SOUND_PARTY",
+          "type": "label"
+        },
+        {
+          "key": "sound_party",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.sounds.192"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "247",
+      "lookUpId": "TAG_RAINBOW_LOVE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RAINBOW_LOVE_2022",
+          "type": "label"
+        },
+        {
+          "key": "rainbow_love_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "385",
+      "lookUpId": "TAG_FEATURE_ARTBOOKS",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FEATURE_ARTBOOKS",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "feature"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "music_generic_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "snd_morning_party_a",
+  "lookUpId": "df38f849-993d-49ef-ad6f-a6fd8448e7af",
+  "nameResourceIdentifier": "Morning Party A"
+}

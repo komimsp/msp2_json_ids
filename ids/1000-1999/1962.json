@@ -1,0 +1,65 @@
+{
+  "created": "2020-03-10T11:23:05",
+  "id": "1962",
+  "modified": "2022-10-27T13:26:36",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "255",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_DRAMATIC",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "333",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BLACK_FRIDAY_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_shinobi_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "shinobi",
+  "lookUpId": "shinobi",
+  "nameResourceIdentifier": "Anime"
+}

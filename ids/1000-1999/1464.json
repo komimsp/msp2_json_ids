@@ -1,0 +1,84 @@
+{
+  "created": "2020-01-10T13:12:47",
+  "id": "1464",
+  "modified": "2020-05-29T15:27:04",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "618",
+      "lookUpId": "TAG_ROYAL_CHEER_2019",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ROYAL_CHEER_2019",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFC351,#FFC351",
+      "Snapshot": "msp2_royal_2019_chainbelt_ms_preview"
+    },
+    "MSP2Data": {
+      "Type": "necklace"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_royal_2019_chainbelt_ms_bundle?msp2_royal_2019_chainbelt_ms_asset",
+  "lookUpId": "abb95669-c8e4-4dba-bac7-d81a8cd9110a",
+  "nameResourceIdentifier": "Chain Attraction"
+}

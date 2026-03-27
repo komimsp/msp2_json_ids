@@ -1,0 +1,82 @@
+{
+  "created": "2023-02-20T13:20:14",
+  "id": "10808",
+  "modified": "2023-02-20T13:20:14",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "192",
+      "lookUpId": "TAG_MUSIC",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSIC",
+          "type": "label"
+        },
+        {
+          "key": "music",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.sounds"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "225",
+      "lookUpId": "TAG_SOUND_HOPEFUL",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SOUND_HOPEFUL",
+          "type": "label"
+        },
+        {
+          "key": "sound_hopeful",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.sounds.192"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "385",
+      "lookUpId": "TAG_FEATURE_ARTBOOKS",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FEATURE_ARTBOOKS",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "feature"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "854",
+      "lookUpId": "TAG_ENGLISH_ROSE_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ENGLISH_ROSE_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "music_generic_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "snd_the_other_side_a",
+  "lookUpId": "742ecc53-b14c-4585-a723-026bf7e02718",
+  "nameResourceIdentifier": "The Other Side A"
+}

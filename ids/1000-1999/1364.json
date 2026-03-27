@@ -1,0 +1,100 @@
+{
+  "created": "2020-01-02T12:23:48",
+  "id": "1364",
+  "modified": "2024-08-08T08:12:59",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "93",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_SCARF",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "617",
+      "lookUpId": "TAG_TAKE_ME_TO_PARIS_2019",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TAKE_ME_TO_PARIS_2019",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#E5BB9B",
+      "Snapshot": "msp2_paris_2019_bownecklaceboy_asj_preview"
+    },
+    "MSP2Data": {
+      "Type": "neckaccessory"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_paris_2019_bownecklaceboy_asj_bundle?msp2_paris_2019_bownecklaceboy_asj_asset",
+  "lookUpId": "077048cb-f416-4091-960a-5ab42909e9d1",
+  "nameResourceIdentifier": "Silky Bow"
+}

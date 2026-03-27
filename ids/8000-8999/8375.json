@@ -1,0 +1,67 @@
+{
+  "created": "2022-04-13T09:58:43",
+  "id": "8375",
+  "modified": "2022-05-25T12:00:02",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "85",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_BASIC",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "239",
+      "lookUpId": "TAG_GREEN_FROG_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GREEN_FROG_2022",
+          "type": "label"
+        },
+        {
+          "key": "green_frog_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_2022_frog_scared_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "frog_2022_scared_lsz",
+  "lookUpId": "f3eb33ea-e52e-4c91-b073-bd5974686ba2",
+  "nameResourceIdentifier": "Frightened"
+}

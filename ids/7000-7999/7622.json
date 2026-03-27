@@ -1,0 +1,114 @@
+{
+  "created": "2022-01-17T15:10:43",
+  "id": "7622",
+  "modified": "2025-01-07T14:24:54",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "187",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CONSUMABLE",
+          "type": "label"
+        },
+        {
+          "key": "tag_consumable",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "191",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "268",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_FILTERS",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.191"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "590",
+      "lookUpId": "TAG_RARE_WEEK_DAY_3_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_RARE_WEEK_DAY_3_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.rare"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "817",
+      "lookUpId": "TAG_VALENTINE_VENDING",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VALENTINE_VENDING",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_carriable_2022_valentine_inlove_filter_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "2022_valentine_inlove_filter_lsz",
+  "lookUpId": "3a77cc63-4bcd-462d-a934-1b108cb9c440",
+  "nameResourceIdentifier": "Hearteyes In Love!"
+}

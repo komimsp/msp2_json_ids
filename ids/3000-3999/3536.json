@@ -1,0 +1,55 @@
+{
+  "created": "2020-08-26T13:32:53",
+  "id": "3536",
+  "modified": "2020-09-17T13:36:06",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "168",
+      "lookUpId": "tag_free",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FREE",
+          "type": "label"
+        },
+        {
+          "key": "free",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "170",
+      "lookUpId": "tag_shape",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SHAPE",
+          "type": "label"
+        },
+        {
+          "key": "shape",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#82D2F1",
+      "Snapshot": "shape_square_preview"
+    },
+    "MSP2Data": {
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "shape_square",
+  "lookUpId": "361ed49f-6a92-4e73-9418-2c525996a2a0",
+  "nameResourceIdentifier": "Square"
+}

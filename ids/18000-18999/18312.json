@@ -1,0 +1,66 @@
+{
+  "created": "2025-09-24T09:13:29",
+  "id": "18312",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "256",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_SPECIAL",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "942",
+      "lookUpId": "TAG_BLOOD_MOON_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BLOOD_MOON_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_blood_2025_demonanim_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "blood_2025_demonanim_lsz",
+  "lookUpId": "690fc073-3028-4f30-8b99-3fe7691e3ff9",
+  "nameResourceIdentifier": "Ooze"
+}

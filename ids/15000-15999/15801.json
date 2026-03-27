@@ -1,0 +1,82 @@
+{
+  "created": "2024-11-12T10:18:52",
+  "id": "15801",
+  "modified": "2024-11-12T10:18:52",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "191",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "269",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_OBJECTS",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.191"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "801",
+      "lookUpId": "TAG_THANKSGIVING_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_THANKSGIVING_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_carriable_2024_halloween_pumpkin_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "2024_halloween_pumpkin_lsz",
+  "lookUpId": "9b0da1e1-e1bc-4e41-a058-bdf5265b0782",
+  "nameResourceIdentifier": "Pumpkin Party!"
+}

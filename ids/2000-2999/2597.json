@@ -1,0 +1,86 @@
+{
+  "created": "2020-05-29T10:38:30",
+  "id": "2597",
+  "modified": "2020-05-29T14:50:12",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "147",
+      "lookUpId": "tag_brows",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BROWS",
+          "type": "label"
+        },
+        {
+          "key": "brows",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#DE0000,#FFCC00,#66CC33,#0099FF",
+      "Snapshot": "girlbrows08_preview"
+    },
+    "MSP2Data": {
+      "Type": "brows"
+    }
+  },
+  "graphicsResourceIdentifier": "girlbrows08_bundle?girlbrows08_asset",
+  "lookUpId": "61024513-c834-4d73-9e52-ad3d54340836",
+  "nameResourceIdentifier": "Colorful Emotions"
+}

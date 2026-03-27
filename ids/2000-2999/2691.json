@@ -1,0 +1,66 @@
+{
+  "created": "2020-06-12T15:09:49",
+  "id": "2691",
+  "modified": "2024-10-22T14:46:19",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "73",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM",
+          "type": "label"
+        },
+        {
+          "key": "furniture",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "158",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM_KITCHEN",
+          "type": "label"
+        },
+        {
+          "key": "home_kitchen",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#D2A26A,#E9E9E9,#E9E9E9,#EEEEEE,#B8802C",
+      "Snapshot": "basics_kitchen_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "basics_kitchen_new",
+  "lookUpId": "304593bd-5cc3-4731-99ab-4bbcc6619edf",
+  "nameResourceIdentifier": "Basic Foodie"
+}

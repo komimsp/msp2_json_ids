@@ -1,0 +1,82 @@
+{
+  "created": "2024-08-21T13:28:26",
+  "id": "14945",
+  "modified": "2024-08-21T13:28:26",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "191",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "267",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES_FLOWERS",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.191"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "905",
+      "lookUpId": "TAG_BDAY_FLOWERSHOP_2025",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BDAY_FLOWER_2025",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "msp2_carriable_2024_bday_flowers_permanent_dg_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "2024_bday_flowers_permanent_dg",
+  "lookUpId": "3a58b4f2-a384-4828-9457-0f1b4add8f3f",
+  "nameResourceIdentifier": "Flowers for Me?"
+}

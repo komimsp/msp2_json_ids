@@ -1,0 +1,66 @@
+{
+  "created": "2026-03-26T11:49:13",
+  "id": "19664",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "255",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_DRAMATIC",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "1010",
+      "lookUpId": "TAG_CALICO_KITTY_2026",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CALICO_KITTY_2026",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_calico_2026_catmood_lsz_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "calico_2026_catmood_lsz",
+  "lookUpId": "mood_calico_2026_catmood_lsz",
+  "nameResourceIdentifier": "Kitty Walk"
+}

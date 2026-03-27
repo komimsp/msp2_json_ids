@@ -1,0 +1,69 @@
+{
+  "created": "2020-06-19T08:27:47",
+  "id": "2745",
+  "modified": "2020-06-19T08:27:47",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "147",
+      "lookUpId": "tag_brows",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BROWS",
+          "type": "label"
+        },
+        {
+          "key": "brows",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#000000",
+      "Snapshot": "girlbrows10_preview"
+    },
+    "MSP2Data": {
+      "Type": "brows"
+    }
+  },
+  "graphicsResourceIdentifier": "girlbrows10_bundle?girlbrows10_asset",
+  "lookUpId": "3b22575b-47da-40db-b06f-274954bc6540",
+  "nameResourceIdentifier": "Short Fuse"
+}

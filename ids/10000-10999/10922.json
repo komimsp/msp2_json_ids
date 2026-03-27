@@ -1,0 +1,97 @@
+{
+  "created": "2023-03-06T15:16:45",
+  "id": "10922",
+  "modified": "2023-03-06T15:16:45",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "192",
+      "lookUpId": "TAG_MUSIC",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSIC",
+          "type": "label"
+        },
+        {
+          "key": "music",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.sounds"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "220",
+      "lookUpId": "TAG_SOUND_CHEERFUL",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SOUND_CHEERFUL",
+          "type": "label"
+        },
+        {
+          "key": "sound_cheerful",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.sounds.192"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "370",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_HAPPY_EASTER_2023",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "384",
+      "lookUpId": "TAG_FEATURE_MYHOME",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FEATURE_MYHOME",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "feature"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "605",
+      "lookUpId": "TAG_EASTER_THEMES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_THEMES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "music_generic_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "snd_quirky_kids_full",
+  "lookUpId": "970c9f5b-c88d-4c4c-9795-4a24e30d9e44",
+  "nameResourceIdentifier": "Quirky Kids FULL"
+}

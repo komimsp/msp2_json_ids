@@ -1,0 +1,66 @@
+{
+  "created": "2024-10-23T07:37:53",
+  "id": "15583",
+  "modified": "2024-10-23T07:37:53",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "85",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_BASIC",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "571",
+      "lookUpId": "TAG_ALL_THE_THINGS_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ALL_THE_THINGS_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_all_2024_sillypose_dg_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "all_2024_sillypose_dg",
+  "lookUpId": "10666f72-454f-4261-914e-2ddaa173e888",
+  "nameResourceIdentifier": "Just Silly"
+}

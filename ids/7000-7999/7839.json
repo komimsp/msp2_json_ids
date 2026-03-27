@@ -1,0 +1,135 @@
+{
+  "created": "2022-02-08T13:18:52",
+  "id": "7839",
+  "modified": "2022-02-08T13:19:37",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "64",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKINCOLOR",
+          "type": "label"
+        },
+        {
+          "key": "skincolor",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.skincolor"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "216",
+      "lookUpId": "TAG_EASTER_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_2022",
+          "type": "label"
+        },
+        {
+          "key": "easter_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "skincolour_eastersun_preview"
+    },
+    "MSP2Data": {
+      "AvatarProperty": "SkinColor",
+      "Colors": "#ffee9c"
+    }
+  },
+  "graphicsResourceIdentifier": "null",
+  "lookUpId": "db48e314-2ab5-49bf-9719-811aa9bc1375",
+  "nameResourceIdentifier": "Easter Sun"
+}

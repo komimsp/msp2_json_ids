@@ -1,0 +1,102 @@
+{
+  "created": "2025-10-31T08:44:39",
+  "id": "18495",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "64",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKINCOLOR",
+          "type": "label"
+        },
+        {
+          "key": "skincolor",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.skincolor"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF",
+      "Snapshot": "skincol_custom_preview"
+    },
+    "MSP2Data": {
+      "AvatarProperty": "SkinColor",
+      "Colors": "#000000"
+    }
+  },
+  "graphicsResourceIdentifier": "null",
+  "lookUpId": "a604ba67-62de-4f28-a69c-d1ac497420d2",
+  "nameResourceIdentifier": "Custom Skincolor"
+}

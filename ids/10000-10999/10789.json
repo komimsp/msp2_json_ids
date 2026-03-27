@@ -1,0 +1,81 @@
+{
+  "created": "2023-02-16T12:49:04",
+  "id": "10789",
+  "modified": "2023-02-16T12:49:04",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "73",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM",
+          "type": "label"
+        },
+        {
+          "key": "furniture",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "163",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM_MISC",
+          "type": "label"
+        },
+        {
+          "key": "home_misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "987",
+      "lookUpId": "TAG_EASTER_FURNITURES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_FURNITURES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "easter_2023_coop_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "easter_2023_coop",
+  "lookUpId": "8dee7012-9955-4288-b08c-6cb87ca2a14d",
+  "nameResourceIdentifier": "Chicken Coop"
+}

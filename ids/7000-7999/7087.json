@@ -1,0 +1,83 @@
+{
+  "created": "2021-11-25T14:45:02",
+  "id": "7087",
+  "modified": "2022-02-16T13:45:39",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "192",
+      "lookUpId": "TAG_MUSIC",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSIC",
+          "type": "label"
+        },
+        {
+          "key": "music",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.sounds"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "221",
+      "lookUpId": "TAG_SOUND_DARK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SOUND_DARK",
+          "type": "label"
+        },
+        {
+          "key": "sound_dark",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.sounds.192"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "385",
+      "lookUpId": "TAG_FEATURE_ARTBOOKS",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FEATURE_ARTBOOKS",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "feature"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "music_generic_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "snd_dark_street_a",
+  "lookUpId": "d163c9d6-092f-4854-a158-44c5bf8c327c",
+  "nameResourceIdentifier": "Dark Street A"
+}

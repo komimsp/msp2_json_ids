@@ -1,0 +1,81 @@
+{
+  "created": "2024-11-11T11:02:08",
+  "id": "15783",
+  "modified": "2024-11-11T11:02:08",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "613",
+      "lookUpId": "TAG_PET_WALKING",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET_WALKING",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.items.185"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "799",
+      "lookUpId": "TAG_TIED_CAMPAIGN_2024",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TIED_CAMPAIGN_2024",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#1B1B1B,#9D5521,#A88757,#323232,#9D5521",
+      "Snapshot": "msp2_pet_tiedcamp_2024_dober_tk_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_pet_tiedcamp_2024_dober_tk_prop",
+  "lookUpId": "msp2_pet_tiedcamp_2024_dober_tk_prop",
+  "nameResourceIdentifier": "Big Ben"
+}

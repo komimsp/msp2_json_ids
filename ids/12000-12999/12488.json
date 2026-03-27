@@ -1,0 +1,85 @@
+{
+  "created": "2023-10-04T10:29:54",
+  "id": "12488",
+  "modified": "2023-10-04T10:29:54",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "383",
+      "lookUpId": "TAG_NAILCOLOR",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_NAILCOLOR",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "category.nailcolor"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "nailcolour_cold_concrete_preview"
+    },
+    "MSP2Data": {
+      "AvatarProperty": "NailColor",
+      "Colors": "#8D8686"
+    }
+  },
+  "graphicsResourceIdentifier": "null",
+  "lookUpId": "33a72ea0-e523-4bfd-ba32-0d2fb841ac38",
+  "nameResourceIdentifier": "Cold Concrete"
+}

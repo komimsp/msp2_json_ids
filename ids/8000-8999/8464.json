@@ -1,0 +1,84 @@
+{
+  "created": "2022-04-26T15:06:52",
+  "id": "8464",
+  "modified": "2022-05-25T11:59:43",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "243",
+      "lookUpId": "TAG_DONT_KILL_MY_VIBE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DONT_KILL_MY_VIBE_2022",
+          "type": "label"
+        },
+        {
+          "key": "dont_kill_my_vibe_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "255",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_DRAMATIC",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_2022_vibe_duckwalk_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "vibe_2022_duckwalk_lsz",
+  "lookUpId": "a0f29eb9-5714-40c2-9d6c-9aa087f21621",
+  "nameResourceIdentifier": "Duck Walk"
+}

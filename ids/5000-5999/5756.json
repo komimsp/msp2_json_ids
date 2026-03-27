@@ -1,0 +1,100 @@
+{
+  "created": "2021-06-04T11:06:18",
+  "id": "5756",
+  "modified": "2021-06-04T11:06:18",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "126",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "127",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKIRT_DENIM",
+          "type": "label"
+        },
+        {
+          "key": "skirt",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.126"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "706",
+      "lookUpId": "TAG_OVER_YONDER_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_OVER_YONDER_2021",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#9DB9D7",
+      "Snapshot": "msp2_yonder_2021_zipperskirt_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "bottom"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_yonder_2021_zipperskirt_asd_bundle?msp2_yonder_2021_zipperskirt_asd_asset",
+  "lookUpId": "376dd77b-1d2b-4ac6-8527-f19412cf4227",
+  "nameResourceIdentifier": "Denim Trip"
+}

@@ -1,0 +1,66 @@
+{
+  "created": "2022-12-12T13:31:39",
+  "id": "10201",
+  "modified": "2022-12-12T13:31:39",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "192",
+      "lookUpId": "TAG_MUSIC",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSIC",
+          "type": "label"
+        },
+        {
+          "key": "music",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.sounds"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "220",
+      "lookUpId": "TAG_SOUND_CHEERFUL",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SOUND_CHEERFUL",
+          "type": "label"
+        },
+        {
+          "key": "sound_cheerful",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.sounds.192"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "384",
+      "lookUpId": "TAG_FEATURE_MYHOME",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FEATURE_MYHOME",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "feature"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "music_generic_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "snd_mister_swing_full",
+  "lookUpId": "e39bb1b4-c189-4593-ae56-47791ae31857",
+  "nameResourceIdentifier": "Mister Swing FULL"
+}

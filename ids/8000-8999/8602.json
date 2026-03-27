@@ -1,0 +1,82 @@
+{
+  "created": "2022-05-16T09:46:41",
+  "id": "8602",
+  "modified": "2022-08-19T11:01:46",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "242",
+      "lookUpId": "TAG_SHOW_OFF_CAMPAIGN_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SHOW_OFF_CAMPAIGN_2022",
+          "type": "label"
+        },
+        {
+          "key": "show_off_campaign_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "pet_show_off_panda_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "pet_show_off_panda_prop",
+  "lookUpId": "b7afd08f-22b9-4b0b-805e-d335a2ece48a",
+  "nameResourceIdentifier": "Chung"
+}

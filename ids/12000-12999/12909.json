@@ -1,0 +1,85 @@
+{
+  "created": "2023-11-30T13:15:45",
+  "id": "12909",
+  "modified": "2023-11-30T13:15:45",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "383",
+      "lookUpId": "TAG_NAILCOLOR",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_NAILCOLOR",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "category.nailcolor"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "nailcolour_royalty_preview"
+    },
+    "MSP2Data": {
+      "AvatarProperty": "NailColor",
+      "Colors": "#0000FE"
+    }
+  },
+  "graphicsResourceIdentifier": "null",
+  "lookUpId": "769d0a46-4089-4617-8052-51c8085351b2",
+  "nameResourceIdentifier": "Royalty"
+}

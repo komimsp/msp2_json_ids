@@ -1,0 +1,66 @@
+{
+  "created": "2025-07-29T20:30:28",
+  "id": "17846",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "73",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM",
+          "type": "label"
+        },
+        {
+          "key": "furniture",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "1013",
+      "lookUpId": "TAG_BDAY_FURNITURES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BDAY_FURNITURES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#F3F3F3,#FFCC00,#66CCFF,#66CC33,#F87CA3",
+      "Snapshot": "msp2_bun_2023_photostand_ms_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_bun_2023_photostand_ms",
+  "lookUpId": "b_party_photobooth_3d",
+  "nameResourceIdentifier": "Bday Photo!"
+}

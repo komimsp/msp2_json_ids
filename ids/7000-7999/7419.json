@@ -1,0 +1,82 @@
+{
+  "created": "2021-12-20T09:53:21",
+  "id": "7419",
+  "modified": "2021-12-20T09:53:21",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "200",
+      "lookUpId": "TAG_CAMPAIGN_SPARKLING_NIGHT_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CAMPAIGN_SPARKLING_NIGHT_2021",
+          "type": "label"
+        },
+        {
+          "key": "campaign_sparkling_night_2021",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "pet_sparkling_night_penguins_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "pet_sparkling_night_penguins_prop",
+  "lookUpId": "04bd917b-2b11-4b75-8cc5-2a23cbdeb6f4",
+  "nameResourceIdentifier": "Twin Penguins"
+}

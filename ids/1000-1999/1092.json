@@ -1,0 +1,68 @@
+{
+  "created": "2019-12-27T08:09:00",
+  "id": "1092",
+  "modified": "2020-05-29T15:40:18",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "55",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TOPS",
+          "type": "label"
+        },
+        {
+          "key": "tops",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "614",
+      "lookUpId": "TAG_ENCHANTED_WORLD_2019",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ENCHANTED_WORLD_2019",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FFFFFF",
+      "Snapshot": "msp2_enchanted_lace_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "top"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_enchanted_lace_lsz_bundle?msp2_enchanted_lace_lsz_asset",
+  "lookUpId": "e2ecd3a4-9ef4-4538-b7a1-8c0f2f59c94d",
+  "nameResourceIdentifier": "Laced Lady"
+}

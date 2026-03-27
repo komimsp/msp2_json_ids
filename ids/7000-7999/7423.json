@@ -1,0 +1,83 @@
+{
+  "created": "2021-12-20T10:06:25",
+  "id": "7423",
+  "modified": "2022-02-15T09:21:45",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "192",
+      "lookUpId": "TAG_MUSIC",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSIC",
+          "type": "label"
+        },
+        {
+          "key": "music",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.sounds"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "197",
+      "lookUpId": "TAG_LIGHT_UP_2021",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_LIGHT_UP_2021",
+          "type": "label"
+        },
+        {
+          "key": "light_up_2021",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "219",
+      "lookUpId": "TAG_SOUND_PARTY",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SOUND_PARTY",
+          "type": "label"
+        },
+        {
+          "key": "sound_party",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.sounds.192"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "384",
+      "lookUpId": "TAG_FEATURE_MYHOME",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FEATURE_MYHOME",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "feature"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "music_generic_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "snd_lost_dancer_full",
+  "lookUpId": "f93b51c8-753f-43ed-bf24-7b010ec82cdf",
+  "nameResourceIdentifier": "Lost Dancer FULL"
+}

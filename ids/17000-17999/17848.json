@@ -1,0 +1,66 @@
+{
+  "created": "2025-07-29T20:30:28",
+  "id": "17848",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "73",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM",
+          "type": "label"
+        },
+        {
+          "key": "furniture",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "1013",
+      "lookUpId": "TAG_BDAY_FURNITURES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BDAY_FURNITURES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#DBA63A,#FF96BB,#7BC7FF,#6EC252,#CC66FF",
+      "Snapshot": "msp2_bun_2023_glittertable_ms_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_bun_2023_glittertable_ms",
+  "lookUpId": "summer_2021_tables_new",
+  "nameResourceIdentifier": "Party Table"
+}

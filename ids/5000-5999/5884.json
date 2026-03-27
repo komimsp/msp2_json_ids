@@ -1,0 +1,50 @@
+{
+  "created": "2021-06-23T12:56:58",
+  "id": "5884",
+  "modified": "2021-06-23T12:56:58",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "187",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CONSUMABLE",
+          "type": "label"
+        },
+        {
+          "key": "tag_consumable",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "191",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CARRIABLES",
+          "type": "label"
+        },
+        {
+          "key": "carriables",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "0057_1f635"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "coffee",
+  "lookUpId": "acd5b39e-9482-4144-96b5-b62b40a0a9fd",
+  "nameResourceIdentifier": "carriable_placeholder"
+}

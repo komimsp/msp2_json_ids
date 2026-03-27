@@ -1,0 +1,67 @@
+{
+  "created": "2022-05-09T11:46:46",
+  "id": "8525",
+  "modified": "2022-05-25T11:58:34",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "62",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "244",
+      "lookUpId": "TAG_FLORIADE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FLORIADE_2022",
+          "type": "label"
+        },
+        {
+          "key": "floriade_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "256",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MOODS_SPECIAL",
+          "type": "label"
+        },
+        {
+          "key": "moods",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.62"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "mood_2022_flor_slowmo_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "flor_2022_slowmo_lsz",
+  "lookUpId": "a1a17269-11e1-4791-8e14-391979528ed8",
+  "nameResourceIdentifier": "Slowmo"
+}

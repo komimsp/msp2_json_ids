@@ -1,0 +1,85 @@
+{
+  "created": "2023-05-26T09:50:29",
+  "id": "11559",
+  "modified": "2023-05-26T09:50:29",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "383",
+      "lookUpId": "TAG_NAILCOLOR",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_NAILCOLOR",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "category.nailcolor"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "nailcolour_cocoa_preview"
+    },
+    "MSP2Data": {
+      "AvatarProperty": "NailColor",
+      "Colors": "#743917"
+    }
+  },
+  "graphicsResourceIdentifier": "null",
+  "lookUpId": "50478020-281b-422f-b986-cbcb60faf0e0",
+  "nameResourceIdentifier": "Cocoa"
+}

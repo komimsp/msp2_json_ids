@@ -1,0 +1,55 @@
+{
+  "created": "2020-08-26T12:56:36",
+  "id": "3535",
+  "modified": "2020-09-17T13:36:21",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "168",
+      "lookUpId": "tag_free",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FREE",
+          "type": "label"
+        },
+        {
+          "key": "free",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "170",
+      "lookUpId": "tag_shape",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SHAPE",
+          "type": "label"
+        },
+        {
+          "key": "shape",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#82D2F1",
+      "Snapshot": "shape_circle_preview"
+    },
+    "MSP2Data": {
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "shape_circle",
+  "lookUpId": "106e9962-0a21-4d57-9236-7ddd60322aa2",
+  "nameResourceIdentifier": "Circle"
+}

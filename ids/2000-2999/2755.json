@@ -1,0 +1,69 @@
+{
+  "created": "2020-06-19T08:35:30",
+  "id": "2755",
+  "modified": "2021-11-15T12:54:35",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "145",
+      "lookUpId": "tag_jaw",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JAW",
+          "type": "label"
+        },
+        {
+          "key": "jaw",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "boyjaw07_preview"
+    },
+    "MSP2Data": {
+      "Type": "jaw"
+    }
+  },
+  "graphicsResourceIdentifier": "boyjaw07_bundle?boyjaw07_asset",
+  "lookUpId": "649d591e-b609-4d72-807e-609d21422d0a",
+  "nameResourceIdentifier": "Square Jaw"
+}

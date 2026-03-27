@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-03-26T14:34:30.985Z",
-  "total": 12330,
-  "minId": 3900,
-  "maxId": 19614,
+  "generatedAt": "2026-03-27T08:15:20.724Z",
+  "total": 18561,
+  "minId": 1031,
+  "maxId": 19759,
   "rangeSize": 500,
   "folders": [
+    "1000-1999",
+    "2000-2999",
     "3000-3999",
     "4000-4999",
     "5000-5999",
@@ -27,5 +29,13 @@
     "apiBaseUrl": "https://eu.mspapis.com/curatedcontentitemtemplates/v2/item-templates/",
     "region": "eu",
     "repoLayout": "ids/<1000-range>/<id>.json"
+  },
+  "coverage": {
+    "checkedAt": "2026-03-27T08:15:20.723Z",
+    "startId": 1000,
+    "endId": 19760,
+    "seededFromSourceJson": 142,
+    "fetchedFromApi": 6089,
+    "notFoundInApi": 200
   }
 }

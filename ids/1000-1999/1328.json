@@ -1,0 +1,100 @@
+{
+  "created": "2020-01-02T10:34:52",
+  "id": "1328",
+  "modified": "2024-10-09T13:25:08",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "58",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "153",
+      "lookUpId": "tag_clothes",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CLOTHES",
+          "type": "label"
+        },
+        {
+          "key": "clothes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "617",
+      "lookUpId": "TAG_TAKE_ME_TO_PARIS_2019",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_TAKE_ME_TO_PARIS_2019",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "756",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ACCESSORY_FACEACCESSORY",
+          "type": "label"
+        },
+        {
+          "key": "misc",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.clothes.58"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#272727",
+      "Snapshot": "msp2_paris_2019_mustagefaceboy_lsz_preview"
+    },
+    "MSP2Data": {
+      "Type": "facialhair"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_paris_2019_mustagefaceboy_lsz_bundle?msp2_paris_2019_mustagefaceboy_lsz_asset",
+  "lookUpId": "8f4aeb61-a4f3-4ac2-bc62-aba334ba381a",
+  "nameResourceIdentifier": "Oiu oiu!"
+}

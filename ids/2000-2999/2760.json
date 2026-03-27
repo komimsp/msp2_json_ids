@@ -1,0 +1,69 @@
+{
+  "created": "2020-06-19T08:40:06",
+  "id": "2760",
+  "modified": "2021-11-15T12:48:59",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "145",
+      "lookUpId": "tag_jaw",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_JAW",
+          "type": "label"
+        },
+        {
+          "key": "jaw",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "boyjaw09_preview"
+    },
+    "MSP2Data": {
+      "Type": "jaw"
+    }
+  },
+  "graphicsResourceIdentifier": "boyjaw09_bundle?boyjaw09_asset",
+  "lookUpId": "d6e51774-d7b0-4346-becd-d4eaf9acdbe6",
+  "nameResourceIdentifier": "Young Prince"
+}

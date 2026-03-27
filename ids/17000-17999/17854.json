@@ -1,0 +1,49 @@
+{
+  "created": "2025-07-29T20:30:28",
+  "id": "17854",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "73",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM",
+          "type": "label"
+        },
+        {
+          "key": "furniture",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "1013",
+      "lookUpId": "TAG_BDAY_FURNITURES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BDAY_FURNITURES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#FF9999",
+      "Snapshot": "msp2_bun_2023_balloon4_dg_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_bun_2023_balloon4_dg",
+  "lookUpId": "balloon4",
+  "nameResourceIdentifier": "Balloon Party"
+}

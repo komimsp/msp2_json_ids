@@ -1,0 +1,85 @@
+{
+  "created": "2020-07-03T08:30:07",
+  "id": "2869",
+  "modified": "2020-07-03T08:30:07",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "150",
+      "lookUpId": "tag_tattoo",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BODYART",
+          "type": "label"
+        },
+        {
+          "key": "bodyart",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "661",
+      "lookUpId": "TAG_MAYHEM_MOTORS_2020",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MAYHEM_MOTORS_2020",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#663333",
+      "Snapshot": "msp2_garage_2020_tattoos_asd_preview"
+    },
+    "MSP2Data": {
+      "Type": "leftarmdecal,neckdecal,rightarmdecal,torsodecal"
+    }
+  },
+  "graphicsResourceIdentifier": "msp2_garage_2020_tattoos_asd_bundle?msp2_garage_2020_tattoos_asd_asset",
+  "lookUpId": "6cc3216f-1e3a-47cb-84b6-5b9400c51de3",
+  "nameResourceIdentifier": "Classic Ink"
+}

@@ -1,0 +1,86 @@
+{
+  "created": "2020-10-23T12:48:50",
+  "id": "4120",
+  "modified": "2024-09-05T09:16:48",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "143",
+      "lookUpId": "tag_nose",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_NOSE",
+          "type": "label"
+        },
+        {
+          "key": "nose",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "173",
+      "lookUpId": "tag_diamond_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DIAMOND",
+          "type": "label"
+        },
+        {
+          "key": "diamond_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#F59F9F",
+      "Snapshot": "boynose_cat_preview"
+    },
+    "MSP2Data": {
+      "Type": "nose"
+    }
+  },
+  "graphicsResourceIdentifier": "boynose_cat_bundle?boynose_cat_asset",
+  "lookUpId": "c7e9dccd-4922-416a-9963-198415a9222c",
+  "nameResourceIdentifier": "Animalistic"
+}

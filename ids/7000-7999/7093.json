@@ -1,0 +1,66 @@
+{
+  "created": "2021-11-25T14:54:03",
+  "id": "7093",
+  "modified": "2022-02-16T13:44:13",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "192",
+      "lookUpId": "TAG_MUSIC",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSIC",
+          "type": "label"
+        },
+        {
+          "key": "music",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.sounds"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "220",
+      "lookUpId": "TAG_SOUND_CHEERFUL",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SOUND_CHEERFUL",
+          "type": "label"
+        },
+        {
+          "key": "sound_cheerful",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.sounds.192"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "385",
+      "lookUpId": "TAG_FEATURE_ARTBOOKS",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FEATURE_ARTBOOKS",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "feature"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "music_generic_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "snd_on_the_cobbled_streets_a",
+  "lookUpId": "b0e5ddbe-7008-48f4-bbae-7fbec8fbeda9",
+  "nameResourceIdentifier": "On the Cobbled Streets A"
+}

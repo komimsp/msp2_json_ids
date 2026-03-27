@@ -1,0 +1,69 @@
+{
+  "created": "2020-10-23T12:46:13",
+  "id": "4119",
+  "modified": "2024-09-05T09:17:04",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "143",
+      "lookUpId": "tag_nose",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_NOSE",
+          "type": "label"
+        },
+        {
+          "key": "nose",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "boynose_pointy_preview"
+    },
+    "MSP2Data": {
+      "Type": "nose"
+    }
+  },
+  "graphicsResourceIdentifier": "boynose_pointy_bundle?boynose_pointy_asset",
+  "lookUpId": "9fdbb56b-e118-4811-a3aa-909b5074f634",
+  "nameResourceIdentifier": "Nosey"
+}

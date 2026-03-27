@@ -1,0 +1,116 @@
+{
+  "created": "2022-11-11T12:47:50",
+  "id": "9933",
+  "modified": "2022-11-11T12:48:34",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "64",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKINCOLOR",
+          "type": "label"
+        },
+        {
+          "key": "skincolor",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.skincolor"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "335",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CHRISTMAS_2022",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "skincolour_candy_preview"
+    },
+    "MSP2Data": {
+      "AvatarProperty": "SkinColor",
+      "Colors": "#ff9a9a"
+    }
+  },
+  "graphicsResourceIdentifier": "null",
+  "lookUpId": "4d0a6aba-b025-4411-96ba-1e166435f00f",
+  "nameResourceIdentifier": "Candy"
+}

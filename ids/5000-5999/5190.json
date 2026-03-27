@@ -1,0 +1,82 @@
+{
+  "created": "2021-03-17T10:48:57",
+  "id": "5190",
+  "modified": "2024-09-02T08:09:11",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "186",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_FOX",
+          "type": "label"
+        },
+        {
+          "key": "easter_fox",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#E5DACE,#9ECFF3,#D5C5FC,#FF95CF,#FFD879",
+      "Snapshot": "fox_myhome_prop_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "fox_myhome_prop",
+  "lookUpId": "35882d24-3683-4ea9-ab9f-d1b0ce7b2c26",
+  "nameResourceIdentifier": "Lupa"
+}

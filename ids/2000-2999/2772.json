@@ -1,0 +1,69 @@
+{
+  "created": "2020-06-19T10:30:37",
+  "id": "2772",
+  "modified": "2021-11-15T11:36:35",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "143",
+      "lookUpId": "tag_nose",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_NOSE",
+          "type": "label"
+        },
+        {
+          "key": "nose",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "girlnose09_preview"
+    },
+    "MSP2Data": {
+      "Type": "nose"
+    }
+  },
+  "graphicsResourceIdentifier": "girlnose09_bundle?girlnose09_asset",
+  "lookUpId": "461da60a-bf18-46af-9dfe-9c4a3615d7c4",
+  "nameResourceIdentifier": "Lil Nose"
+}

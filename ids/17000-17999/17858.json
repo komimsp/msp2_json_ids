@@ -1,0 +1,49 @@
+{
+  "created": "2025-07-29T20:30:28",
+  "id": "17858",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "73",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM",
+          "type": "label"
+        },
+        {
+          "key": "furniture",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "1013",
+      "lookUpId": "TAG_BDAY_FURNITURES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BDAY_FURNITURES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#D4932E",
+      "Snapshot": "summer_2023_goldcarpet_ms_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "summer_2023_goldcarpet_ms",
+  "lookUpId": "summer_2023_goldcarpet_ms",
+  "nameResourceIdentifier": "Golden Carpet"
+}

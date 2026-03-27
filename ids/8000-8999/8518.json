@@ -1,0 +1,83 @@
+{
+  "created": "2022-05-03T09:57:03",
+  "id": "8518",
+  "modified": "2022-05-03T09:57:03",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "192",
+      "lookUpId": "TAG_MUSIC",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSIC",
+          "type": "label"
+        },
+        {
+          "key": "music",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.sounds"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "220",
+      "lookUpId": "TAG_SOUND_CHEERFUL",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SOUND_CHEERFUL",
+          "type": "label"
+        },
+        {
+          "key": "sound_cheerful",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.sounds.192"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "241",
+      "lookUpId": "TAG_DANCE_STUDIO_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_DANCE_STUDIO_2022",
+          "type": "label"
+        },
+        {
+          "key": "dance_studio_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "384",
+      "lookUpId": "TAG_FEATURE_MYHOME",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FEATURE_MYHOME",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "feature"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "music_generic_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "snd_shakedown_full",
+  "lookUpId": "4728859b-6fd3-4d40-86fe-ec857c04dd04",
+  "nameResourceIdentifier": "Shakedown FULL"
+}

@@ -1,0 +1,55 @@
+{
+  "created": "2020-08-26T13:39:35",
+  "id": "3538",
+  "modified": "2020-09-17T13:35:35",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "168",
+      "lookUpId": "tag_free",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FREE",
+          "type": "label"
+        },
+        {
+          "key": "free",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "170",
+      "lookUpId": "tag_shape",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SHAPE",
+          "type": "label"
+        },
+        {
+          "key": "shape",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.artbooks"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#82D2F1",
+      "Snapshot": "shape_triangle_preview"
+    },
+    "MSP2Data": {
+      "Vector": "False",
+      "GradientType": "",
+      "Tiled": "False"
+    }
+  },
+  "graphicsResourceIdentifier": "shape_triangle",
+  "lookUpId": "2beaf796-ce3c-4193-9c2a-d85acc83cdba",
+  "nameResourceIdentifier": "Triangle"
+}

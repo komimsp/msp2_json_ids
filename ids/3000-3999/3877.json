@@ -1,0 +1,102 @@
+{
+  "created": "2020-10-05T13:04:54",
+  "id": "3877",
+  "modified": "2020-10-05T13:04:54",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "60",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BOY",
+          "type": "label"
+        },
+        {
+          "key": "boy",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "61",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_GIRL",
+          "type": "label"
+        },
+        {
+          "key": "girl",
+          "type": "graphics"
+        }
+      ],
+      "type": "gender"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "64",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SKINCOLOR",
+          "type": "label"
+        },
+        {
+          "key": "skincolor",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.skincolor"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "154",
+      "lookUpId": "tag_beauty",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BEAUTY",
+          "type": "label"
+        },
+        {
+          "key": "beauty",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.clothes"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "skincol_dark_olive_preview"
+    },
+    "MSP2Data": {
+      "AvatarProperty": "SkinColor",
+      "Colors": "#847932"
+    }
+  },
+  "graphicsResourceIdentifier": "null",
+  "lookUpId": "7278b4bb-a5c6-4a20-a989-acd55a529491",
+  "nameResourceIdentifier": "Dark Olive"
+}

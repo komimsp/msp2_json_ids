@@ -1,0 +1,66 @@
+{
+  "created": "2025-07-29T20:30:28",
+  "id": "17859",
+  "modified": "0001-01-01T00:00:00",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "73",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM",
+          "type": "label"
+        },
+        {
+          "key": "furniture",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "1013",
+      "lookUpId": "TAG_BDAY_FURNITURES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_BDAY_FURNITURES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.seasonal"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "#628A51,#4B51E5,#FAD340,#F4477D,#71DCE3",
+      "Snapshot": "bday_2024_palmhippiethingspalm_dg_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "bday_2024_palmhippiethingspalm_dg",
+  "lookUpId": "bday_2024_palmhippiethingspalm_dg",
+  "nameResourceIdentifier": "Palm Tree Party"
+}

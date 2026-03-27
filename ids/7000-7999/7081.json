@@ -1,0 +1,66 @@
+{
+  "created": "2021-11-25T14:36:44",
+  "id": "7081",
+  "modified": "2022-02-23T14:56:08",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "192",
+      "lookUpId": "TAG_MUSIC",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_MUSIC",
+          "type": "label"
+        },
+        {
+          "key": "music",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.sounds"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "219",
+      "lookUpId": "TAG_SOUND_PARTY",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_SOUND_PARTY",
+          "type": "label"
+        },
+        {
+          "key": "sound_party",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.sounds.192"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "385",
+      "lookUpId": "TAG_FEATURE_ARTBOOKS",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FEATURE_ARTBOOKS",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "feature"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "music_generic_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "snd_race_for_survival_a",
+  "lookUpId": "3d9d5a25-c84b-4957-b38f-c4533eb10f37",
+  "nameResourceIdentifier": "Race for Survival A"
+}

@@ -1,0 +1,67 @@
+{
+  "created": "2022-04-11T14:26:20",
+  "id": "8362",
+  "modified": "2022-05-31T10:10:43",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "237",
+      "lookUpId": "TAG_CITY_POP_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_CITY_POP_2022",
+          "type": "label"
+        },
+        {
+          "key": "city_pop_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "261",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_DISPLEASED",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_2022_city_eyesroll_preview"
+    },
+    "MSP2Data": {
+      "Loop": "false"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_city_2022_eyesroll_lsz",
+  "lookUpId": "4edc3838-0d42-4e94-8fff-ae750c6433ec",
+  "nameResourceIdentifier": "Enough!"
+}

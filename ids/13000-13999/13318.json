@@ -1,0 +1,81 @@
+{
+  "created": "2024-01-18T09:17:11",
+  "id": "13318",
+  "modified": "2024-01-18T09:17:11",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "73",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM",
+          "type": "label"
+        },
+        {
+          "key": "furniture",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "166",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM_GARDEN",
+          "type": "label"
+        },
+        {
+          "key": "home_garden",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "978",
+      "lookUpId": "TAG_VALENTINE_FURNITURES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VALENTINE_FURNITURES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "valentines_24_flowerwall_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "valentines_24_flowerwall",
+  "lookUpId": "valentines_24_flowerwall",
+  "nameResourceIdentifier": "Flower Wall"
+}

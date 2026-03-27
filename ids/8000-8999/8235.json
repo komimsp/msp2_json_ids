@@ -1,0 +1,82 @@
+{
+  "created": "2022-03-31T11:38:08",
+  "id": "8235",
+  "modified": "2022-03-31T11:41:44",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "174",
+      "lookUpId": "tag_vip_item",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_VIP",
+          "type": "label"
+        },
+        {
+          "key": "vip_item",
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": true,
+      "id": "185",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_PET",
+          "type": "label"
+        },
+        {
+          "key": "pet",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "232",
+      "lookUpId": "TAG_EASTER_CAMPAIGN_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EASTER_CAMPAIGN_2022",
+          "type": "label"
+        },
+        {
+          "key": "easter_campaign_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.campaign"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "578",
+      "lookUpId": "TAG_PACK",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_D_PACK",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "pet_easter_story_sheep_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "pet_easter_story_sheep_prop",
+  "lookUpId": "9046e765-11ff-4b60-8534-6acd8c1ce5bc",
+  "nameResourceIdentifier": "Cottonball"
+}

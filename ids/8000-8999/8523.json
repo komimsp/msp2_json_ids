@@ -1,0 +1,67 @@
+{
+  "created": "2022-05-09T11:43:18",
+  "id": "8523",
+  "modified": "2023-02-03T09:46:21",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "63",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.animation"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "244",
+      "lookUpId": "TAG_FLORIADE_2022",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_FLORIADE_2022",
+          "type": "label"
+        },
+        {
+          "key": "floriade_2022",
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.theme"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "263",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EMOTES_POSING",
+          "type": "label"
+        },
+        {
+          "key": "emotes",
+          "type": "graphics"
+        }
+      ],
+      "type": "subcategory.animation.63"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "Snapshot": "emote_2022_flor_cutepose_preview"
+    },
+    "MSP2Data": {
+      "Loop": "true"
+    }
+  },
+  "graphicsResourceIdentifier": "emote_flor_2022_cutepose_lsz",
+  "lookUpId": "2314d3e1-469b-4281-a531-309c53759d11",
+  "nameResourceIdentifier": "Cutesy Posing"
+}

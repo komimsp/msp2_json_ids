@@ -1,0 +1,81 @@
+{
+  "created": "2023-11-13T14:54:22",
+  "id": "12791",
+  "modified": "2024-11-07T13:48:32",
+  "tags": [
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "73",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM",
+          "type": "label"
+        },
+        {
+          "key": "furniture",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "156",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_ITEM_CHAIRS",
+          "type": "label"
+        },
+        {
+          "key": "home_chars",
+          "type": "graphics"
+        }
+      ],
+      "type": "category.items"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "580",
+      "lookUpId": "TAG_EVENT",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_EVENT",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "meta"
+    },
+    {
+      "gameId": "5lxc",
+      "hidden": false,
+      "id": "798",
+      "lookUpId": "TAG_XMAS_FURNITURES",
+      "resourceIdentifiers": [
+        {
+          "key": "TAG_XMAS_FURNITURES",
+          "type": "label"
+        },
+        {
+          "type": "graphics"
+        }
+      ],
+      "type": "collection.event"
+    }
+  ],
+  "additionalData": {
+    "NebulaData": {
+      "DefaultColors": "",
+      "Snapshot": "msp2_xmas_2023_chair_dg_preview"
+    },
+    "MSP2Data": {}
+  },
+  "graphicsResourceIdentifier": "msp2_xmas_2023_chair_dg",
+  "lookUpId": "msp2_xmas_2023_chair_dg",
+  "nameResourceIdentifier": "Tartan Chill"
+}
