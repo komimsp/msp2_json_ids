@@ -7,12 +7,12 @@ Surowe JSON-y itemów MSP2, po jednym pliku na ID.
 - `ids/<zakres-1000>/<id>.json`
 - `manifest.json` z liczbą rekordów i zakresem ID
 
-Łącznie: 18561 plików JSON
-Zakres: 1031 - 19759
+Łącznie: 18573 plików JSON
+Zakres: 1031 - 19771
 
 ## Ostatni audit zakresu
 
-- Zakres sprawdzania: 1000-19760
-- Nowe z pliku źródłowego: 142
-- Nowe z API: 6089
-- Braki po sprawdzeniu API: 200
+- Zakres sprawdzania: 19761-19771
+- Nowe z pliku źródłowego: 0
+- Nowe z API: 11
+- Braki po sprawdzeniu API: 0
